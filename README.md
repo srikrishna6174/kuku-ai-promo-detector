@@ -1,3 +1,14 @@
+---
+title: Kuku Promo Detector
+emoji: 🎬
+colorFrom: red
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.40.0
+app_file: app.py
+pinned: false
+---
+
 # 🎬 Kuku AI Promo Finder — Vertical Microdrama Ad Detector
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kuku-ai-promo-detector.streamlit.app)
