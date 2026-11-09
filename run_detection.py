@@ -4,7 +4,7 @@ import json
 import csv
 from typing import List
 from src.parser import parse_screenplay_file, format_time
-from src.detector import find_promos_for_episode, PromoCandidate
+from src.detector import find_promos_for_episode, PromoCandidate, generate_curated_multi_segment_promos
 from src.ranker import rank_promos
 from src.quality_checker import run_season_quality_audit
 from src.llm_refiner import refine_with_llm
@@ -24,14 +24,20 @@ def run_season_detection(data_folder: str = "I Married a Broken Soldier. He was 
     print(f"[*] Scanning for high-converting 20s-60s promo moments...")
 
     all_promos: List[PromoCandidate] = []
+    episodes_map = {}
     
     for idx, filepath in enumerate(files, 1):
         ep = parse_screenplay_file(filepath)
+        episodes_map[ep.ep_number] = ep
         promos = find_promos_for_episode(ep, min_duration=20.0, max_duration=60.0, top_k=top_k_per_ep)
         all_promos.extend(promos)
         print(f"    Episode {ep.ep_number:02d}: found {len(promos)} promo candidates.")
 
     print(f"\n[*] Total candidates discovered: {len(all_promos)}")
+    print(f"[*] Generating curated multi-segment stitched promos...")
+    stitched_promos = generate_curated_multi_segment_promos(episodes_map)
+    print(f"    Generated {len(stitched_promos)} multi-segment viral trailer edits.")
+
     print(f"[*] Running strategic ranking (Acquisition vs Retargeting)...")
     ranked_promos = rank_promos(all_promos)
 
@@ -83,7 +89,8 @@ def run_season_detection(data_folder: str = "I Married a Broken Soldier. He was 
                 ]
             }
             for p in ranked_promos
-        ]
+        ],
+        "multi_segment_stitched_promos": stitched_promos
     }
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(json_data, f, indent=2)

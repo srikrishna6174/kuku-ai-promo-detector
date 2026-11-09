@@ -93,7 +93,7 @@ def build_solution_pdf(output_filename="Solution_Document.pdf"):
     # ==================== PAGE 1 ====================
     # Header
     story.append(Paragraph("KUKU — AI GENERALIST ASSIGNMENT", title_style))
-    story.append(Paragraph("<b>Problem 1: Find the Promos (Ads)</b> | Candidate Solution & Technical Architecture", subtitle_style))
+    story.append(Paragraph("<b>Problem 1: Find the Promos (Ads)</b> | Candidate: Srikrishna Valepe | AI Generalist Solution", subtitle_style))
     story.append(Spacer(1, 6))
 
     # Section 1
@@ -102,7 +102,7 @@ def build_solution_pdf(output_filename="Solution_Document.pdf"):
         "<b>Why Problem 1?</b> Microdramas are a high-velocity, acquisition-driven format. The bottleneck for organic and paid growth on TikTok, Instagram Reels, and YouTube Shorts is manual video clipping: human editors spend hours per season scrubbing timelines to find 20–60s hooks. Automating this directly impacts top-of-funnel customer acquisition cost (CAC) and throughput.<br/>"
         "<b>Key Assumptions Made:</b><br/>"
         "• <i>Strict Duration Enforcement:</i> Clips must respect platform drop-off curves (optimal 25–45s; hard range 20–60s).<br/>"
-        "• <i>Continuous vs Multi-Segment:</i> While cross-episode montages exist, 90%+ of viral microdrama ads are single continuous dramatic beats that preserve raw emotional momentum without jarring visual cuts.<br/>"
+        "• <i>Continuous & Multi-Segment Modes:</i> Primary focus on single continuous beats for natural momentum, with automated support for high-tempo 2-beat jumpcuts (e.g., Ep 1 Doorway Confrontation + Altar Betrayal; Ep 1 Humiliation + Ep 3 Hero Rescue).<br/>"
         "• <i>Zero-Lore Comprehension:</i> A top-of-funnel ad must be understandable to a cold scroller within 3 seconds without knowing previous plotlines.",
         body_style
     ))

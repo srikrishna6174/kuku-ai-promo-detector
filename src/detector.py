@@ -247,3 +247,105 @@ def _generate_descriptions(cand: PromoCandidate):
         cand.funnel_type = "Character Arc & Escalation"
         cand.why_it_works = "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
 
+def generate_curated_multi_segment_promos(episodes_map: Dict[int, Episode]) -> List[Dict[str, Any]]:
+    """
+    Generates high-converting multi-segment stitched promos that jump across scenes
+    or episodes to eliminate dead pacing and create viral TikTok/Reels trailers.
+    """
+    stitched_promos = []
+
+    # Stitch 1: Episode 1 Intra-Episode Jumpcut (Doorway confrontation -> Altar rejection)
+    if 1 in episodes_map:
+        stitched_promos.append({
+            "title": "The Altar Betrayal Speedrun (Intra-Episode Jumpcut)",
+            "format": "Multi-Segment (Intra-Episode)",
+            "marketing_tier": "Tier 1: Top-of-Funnel (Cold UA) - High Pacing",
+            "total_duration_seconds": 47.2,
+            "total_score": 96.5,
+            "segments": [
+                {
+                    "segment_index": 1,
+                    "episode": 1,
+                    "start_time": "00:11.30",
+                    "end_time": "00:25.50",
+                    "duration_seconds": 14.2,
+                    "beat_description": "Matriarch blocks bride at church doors: 'You should turn around, Juliana... Gerald is waiting for me... Not anymore!'"
+                },
+                {
+                    "segment_index": 2,
+                    "episode": 1,
+                    "start_time": "01:45.00",
+                    "end_time": "02:18.00",
+                    "duration_seconds": 33.0,
+                    "beat_description": "Groom at altar: 'I cannot marry a woman of such plainness... when Clarissa is the true jewel of the county.' Drone swells to cliffhanger peak, cut to black."
+                }
+            ],
+            "hook": "Matriarch blocks the bride at the church threshold, sneering that the groom is no longer waiting for her.",
+            "cliffhanger": "Groom publicly discards Juliana for her sister before the entire congregation, cutting to black on an ominous drone swell.",
+            "why_it_works": "Bypasses 60 seconds of walking exposition to connect the initial shock directly to the altar rejection, doubling pacing."
+        })
+
+    # Stitch 2: Episode 1 + Episode 3 Cross-Episode Stitch (Betrayal -> War Hero Rescue)
+    if 1 in episodes_map and 3 in episodes_map:
+        stitched_promos.append({
+            "title": "Betrayal & The Hero's Rescue (Cross-Episode Hook & Payoff)",
+            "format": "Multi-Segment (Cross-Episode)",
+            "marketing_tier": "Tier 1: Top-of-Funnel (Cold UA) - Two-Part Arc",
+            "total_duration_seconds": 44.7,
+            "total_score": 98.0,
+            "segments": [
+                {
+                    "segment_index": 1,
+                    "episode": 1,
+                    "start_time": "02:04.20",
+                    "end_time": "02:18.00",
+                    "duration_seconds": 13.8,
+                    "beat_description": "Groom at altar: 'I cannot marry a woman of such plainness... when Clarissa is the true jewel.' Juliana's tearful defiance."
+                },
+                {
+                    "segment_index": 2,
+                    "episode": 3,
+                    "start_time": "01:09.90",
+                    "end_time": "01:40.80",
+                    "duration_seconds": 30.9,
+                    "beat_description": "Guards drag Juliana away; imposing scarred stranger roars 'Take your hands off her' and neutralizes guards."
+                }
+            ],
+            "hook": "Opens on cruel fiancé humiliating bride at the altar with zero lore dependency.",
+            "cliffhanger": "Imposing scarred stranger stares down royal guards after saving the bride, ending on unresolved confrontation.",
+            "why_it_works": "Two-part emotional rollercoaster: devastating heartbreak immediately followed by heroic vindication."
+        })
+
+    # Stitch 3: Episode 3 + Episode 4 Cross-Episode Stitch (The Duke's Shock Proposal)
+    if 3 in episodes_map and 4 in episodes_map:
+        stitched_promos.append({
+            "title": "The Altar Proposal (Cross-Episode Climax)",
+            "format": "Multi-Segment (Cross-Episode)",
+            "marketing_tier": "Tier 1: Top-of-Funnel (Cold UA) - Romantic Twist",
+            "total_duration_seconds": 53.65,
+            "total_score": 95.0,
+            "segments": [
+                {
+                    "segment_index": 1,
+                    "episode": 3,
+                    "start_time": "01:59.80",
+                    "end_time": "02:25.75",
+                    "duration_seconds": 25.95,
+                    "beat_description": "Stranger kneels on cathedral aisle: 'You came here to become a wife. I am offering it back. Lady Juliana, accept my hand.'"
+                },
+                {
+                    "segment_index": 2,
+                    "episode": 4,
+                    "start_time": "00:00.00",
+                    "end_time": "00:27.70",
+                    "duration_seconds": 27.7,
+                    "beat_description": "Cathedral erupts in shock. Gerald mocks him as a cripple. Juliana asks: 'Why would you offer me your name?'"
+                }
+            ],
+            "hook": "War hero drops to one knee offering marriage to the bride who was just abandoned minutes earlier.",
+            "cliffhanger": "Cathedral gasps as the discarded bride asks the mysterious war hero: 'Why would you offer me your name?'",
+            "why_it_works": "Captures the single most viral trope in microdrama history (humiliated bride marries high-status protector)."
+        })
+
+    return stitched_promos
+

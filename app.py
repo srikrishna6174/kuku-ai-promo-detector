@@ -18,12 +18,78 @@ st.set_page_config(
 # Custom styling
 st.markdown("""
 <style>
+    /* Page title */
     .main-title { font-size: 2.2rem; font-weight: 800; color: #E50914; margin-bottom: 0.2rem; }
-    .sub-title { font-size: 1.05rem; color: #555; margin-bottom: 1.5rem; }
-    .card { background-color: #f8f9fa; border-radius: 10px; padding: 1.2rem; border-left: 5px solid #E50914; margin-bottom: 1rem; }
-    .hook-badge { background-color: #ffebe6; color: #de350b; font-weight: 600; padding: 3px 8px; border-radius: 4px; font-size: 0.85rem; }
-    .cliff-badge { background-color: #eae6ff; color: #403294; font-weight: 600; padding: 3px 8px; border-radius: 4px; font-size: 0.85rem; }
-    .tier1-badge { background-color: #e3fcef; color: #006644; font-weight: 700; padding: 4px 10px; border-radius: 6px; }
+    .sub-title { font-size: 1.05rem; color: #aab4c8; margin-bottom: 1.5rem; }
+
+    /* Promo card */
+    .card {
+        background-color: #1a1f2e;
+        border-radius: 10px;
+        padding: 1.2rem 1.4rem;
+        border-left: 5px solid #E50914;
+        margin-bottom: 1rem;
+    }
+    .card-title {
+        font-size: 1.15rem;
+        font-weight: 700;
+        color: #ffffff;
+    }
+    .card-time {
+        font-size: 0.9rem;
+        font-weight: 600;
+        color: #94a3b8;
+        margin-left: 10px;
+    }
+    .card-body {
+        font-size: 0.92rem;
+        color: #e2e8f0;
+        margin-bottom: 5px;
+        line-height: 1.5;
+    }
+    .card-why {
+        font-size: 0.88rem;
+        color: #94a3b8;
+        font-style: italic;
+        margin-top: 6px;
+    }
+
+    /* Badges */
+    .hook-badge {
+        background-color: #7f1d1d;
+        color: #fca5a5;
+        font-weight: 700;
+        padding: 3px 9px;
+        border-radius: 5px;
+        font-size: 0.82rem;
+        margin-right: 6px;
+    }
+    .cliff-badge {
+        background-color: #2e1065;
+        color: #c4b5fd;
+        font-weight: 700;
+        padding: 3px 9px;
+        border-radius: 5px;
+        font-size: 0.82rem;
+        margin-right: 6px;
+    }
+    .tier1-badge {
+        background-color: #14532d;
+        color: #86efac;
+        font-weight: 700;
+        padding: 4px 10px;
+        border-radius: 6px;
+        font-size: 0.82rem;
+        margin-right: 6px;
+    }
+    .score-badge {
+        background-color: #1e3a5f;
+        color: #93c5fd;
+        font-weight: 700;
+        padding: 4px 10px;
+        border-radius: 6px;
+        font-size: 0.82rem;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -38,25 +104,28 @@ def load_data():
     audit_path = os.path.join(OUTPUT_DIR, "quality_audit_and_failures.json")
     
     promos_data = []
+    stitched_data = []
     df_ranked = pd.DataFrame()
     audit_data = {}
     
     if os.path.exists(json_path):
         with open(json_path, 'r', encoding='utf-8') as f:
-            promos_data = json.load(f).get("promos", [])
+            full_j = json.load(f)
+            promos_data = full_j.get("promos", [])
+            stitched_data = full_j.get("multi_segment_stitched_promos", [])
     if os.path.exists(csv_path):
         df_ranked = pd.read_csv(csv_path)
     if os.path.exists(audit_path):
         with open(audit_path, 'r', encoding='utf-8') as f:
             audit_data = json.load(f)
             
-    return promos_data, df_ranked, audit_data
+    return promos_data, stitched_data, df_ranked, audit_data
 
-promos_master, df_ranked, audit_report = load_data()
+promos_master, stitched_master, df_ranked, audit_report = load_data()
 
 # Header
 st.markdown('<div class="main-title">🎬 Kuku AI Promo Finder</div>', unsafe_allow_html=True)
-st.markdown('<div class="sub-title">Automated extraction and strategic ranking of viral 20s–60s microdrama ad clips for TikTok, Instagram Reels & YouTube Shorts</div>', unsafe_allow_html=True)
+st.markdown('<div class="sub-title">Automated extraction and strategic ranking of viral 20s–60s microdrama ad clips for TikTok, Instagram Reels &amp; YouTube Shorts</div>', unsafe_allow_html=True)
 
 # Top Metrics Row
 col1, col2, col3, col4 = st.columns(4)
@@ -82,6 +151,19 @@ with tab1:
     st.subheader("Season Promo Distribution & Campaign Rollout")
     st.info("💡 **Marketing Strategy**: Microdrama ad funnels succeed by posting **Tier 1 (Cold UA)** clips first to hook cold scrollers with immediate betrayal and zero lore dependency, followed by **Tier 2** revenge/escalation beats and **Tier 3** cliffhangers for retention.")
     
+    if stitched_master:
+        with st.expander("🔥 Curated Multi-Segment Stitched Trailers (Cross-Scene & Cross-Episode)", expanded=False):
+            st.markdown("The brief notes that promos can join a few moments from one episode or across several. Below are high-converting stitched edits designed for high-velocity social ads:")
+            for s in stitched_master:
+                st.markdown(f"#### 🎬 {s['title']}")
+                st.markdown(f"**Format:** `{s['format']}` &nbsp;|&nbsp; **Duration:** `{s['total_duration_seconds']}s` &nbsp;|&nbsp; **Score:** `{s['total_score']}/100`")
+                st.markdown(f"**Hook (0-3s):** {s['hook']}")
+                st.markdown(f"**Cliffhanger:** {s['cliffhanger']}")
+                st.markdown(f"**Why it works:** *{s['why_it_works']}*")
+                for seg in s['segments']:
+                    st.markdown(f"- **Segment {seg['segment_index']}** (Ep {seg['episode']} `[{seg['start_time']} - {seg['end_time']}]`): {seg['beat_description']}")
+                st.markdown("---")
+    
     tier_filter = st.radio(
         "Filter by Marketing Funnel Tier:",
         ["All Promos", "Tier 1: Top-of-Funnel (Cold UA) - Post First", "Tier 2: High-Engagement Escalation", "Tier 3: Retargeting & Cliffhanger Drive"],
@@ -103,25 +185,19 @@ with tab1:
         with st.container():
             st.markdown(f"""
             <div class="card">
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; flex-wrap: wrap; gap: 6px;">
                     <div>
-                        <span style="font-size: 1.25rem; font-weight: 700; color: #111;">Rank #{p['rank']} — Episode {p['episode']}</span>
-                        <span style="margin-left: 10px; font-weight: 600; color: #555;">⏱️ {seg['start_time']} → {seg['end_time']} ({p['total_duration_seconds']}s)</span>
+                        <span class="card-title">Rank #{p['rank']} — Episode {p['episode']}</span>
+                        <span class="card-time">⏱️ {seg['start_time']} → {seg['end_time']} &nbsp;({p['total_duration_seconds']}s)</span>
                     </div>
                     <div>
                         <span class="tier1-badge">{p['marketing_tier'].split(':')[0]}</span>
-                        <span style="margin-left: 8px; font-weight: 700; background: #e3e8ee; padding: 4px 8px; border-radius: 4px;">Score: {p['total_score']}/100</span>
+                        <span class="score-badge">Score: {p['total_score']}/100</span>
                     </div>
                 </div>
-                <div style="margin-bottom: 6px;">
-                    <span class="hook-badge">0-3s Hook</span> <b>{p['hook']}</b>
-                </div>
-                <div style="margin-bottom: 6px;">
-                    <span class="cliff-badge">Cliffhanger</span> <b>{p['cliffhanger']}</b>
-                </div>
-                <div style="font-size: 0.92rem; color: #333; margin-top: 6px;">
-                    🎯 <i>Why it works: {p['why_it_works']}</i>
-                </div>
+                <div class="card-body"><span class="hook-badge">0-3s Hook</span>{p['hook']}</div>
+                <div class="card-body"><span class="cliff-badge">Cliffhanger</span>{p['cliffhanger']}</div>
+                <div class="card-why">🎯 Why it works: {p['why_it_works']}</div>
             </div>
             """, unsafe_allow_html=True)
             
