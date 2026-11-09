@@ -223,3 +223,4 @@ def build_solution_pdf(output_filename="Solution_Document.pdf"):
 
 if __name__ == "__main__":
     build_solution_pdf()
+

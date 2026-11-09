@@ -246,3 +246,4 @@ def _generate_descriptions(cand: PromoCandidate):
     else:
         cand.funnel_type = "Character Arc & Escalation"
         cand.why_it_works = "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+

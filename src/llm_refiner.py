@@ -76,3 +76,4 @@ def _local_enrichment(candidate: PromoCandidate):
         
     candidate.hook_description = cand_hook
     candidate.cliffhanger_description = cand_cliff
+

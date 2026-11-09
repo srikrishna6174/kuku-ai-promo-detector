@@ -85,3 +85,4 @@ def run_season_quality_audit(promos: List[PromoCandidate]) -> Dict[str, Any]:
         },
         "sample_failures": [r for r in flagged[:5]]
     }
+

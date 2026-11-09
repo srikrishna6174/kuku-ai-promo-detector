@@ -13,3 +13,4 @@ for f in files:
         print(f"  Hook: {d['hook']}")
         print(f"  Cliffhanger: {d['cliffhanger']}")
         print(f"  Why: {d['why_it_works']}\n")
+

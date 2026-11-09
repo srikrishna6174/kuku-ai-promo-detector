@@ -43,3 +43,4 @@ def rank_promos(promos: List[PromoCandidate]) -> List[PromoCandidate]:
             p.funnel_type = "Tier 3: Retargeting & Cliffhanger Drive - Post Third"
             
     return sorted_promos
+

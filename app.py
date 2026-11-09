@@ -124,30 +124,47 @@ with tab1:
                 </div>
             </div>
             """, unsafe_allow_html=True)
+            
+            with st.expander(f"📜 View Full Dialogue & Action for Rank #{p['rank']} ({seg['start_time']} - {seg['end_time']})"):
+                excerpts = p.get("script_excerpt", [])
+                if excerpts:
+                    for b in excerpts:
+                        if b.get("type") == 'DIALOGUE':
+                            tone_txt = f" *({b.get('tone')})*" if b.get('tone') else ""
+                            st.markdown(f"`[{b.get('start')} - {b.get('end')}]` **{b.get('speaker')}**{tone_txt}: \"{b.get('content')}\"")
+                        else:
+                            st.markdown(f"`[{b.get('start')} - {b.get('end')}]` *[{b.get('type')}]* {b.get('content')}")
+                else:
+                    st.write("Excerpt not available.")
 
 # ----------------- TAB 2: Episode Explorer -----------------
 with tab2:
     st.subheader("Episode Screenplay & Promo Inspector")
-    ep_files = sorted(glob.glob(os.path.join(DATA_FOLDER, "*.txt")))
+    ep_files = sorted(glob.glob(os.path.join(DATA_FOLDER, "*.txt"))) if os.path.exists(DATA_FOLDER) else []
     
+    total_episodes = max(50, len(ep_files))
     selected_ep_idx = st.selectbox(
         "Select Episode:",
-        range(1, len(ep_files) + 1),
+        range(1, total_episodes + 1),
         format_func=lambda x: f"Episode {x:02d}"
     )
     
-    ep_file = ep_files[selected_ep_idx - 1]
-    parsed_ep = parse_screenplay_file(ep_file)
     ep_promos = [p for p in promos_master if p['episode'] == selected_ep_idx]
     
-    col_meta1, col_meta2 = st.columns([1, 2])
-    with col_meta1:
-        st.markdown(f"**Runtime:** `{parsed_ep.to_dict()['total_duration_formatted']}`")
-        st.markdown(f"**Total Script Blocks:** `{len(parsed_ep.blocks)}`")
-        st.markdown(f"**Dialogue Lines:** `{parsed_ep.to_dict()['dialogue_count']}`")
-    with col_meta2:
-        st.markdown(f"**Logline:** *{parsed_ep.logline}*")
-        st.markdown(f"**Continuity:** *{parsed_ep.continuity}*")
+    if ep_files and selected_ep_idx <= len(ep_files):
+        ep_file = ep_files[selected_ep_idx - 1]
+        parsed_ep = parse_screenplay_file(ep_file)
+        
+        col_meta1, col_meta2 = st.columns([1, 2])
+        with col_meta1:
+            st.markdown(f"**Runtime:** `{parsed_ep.to_dict()['total_duration_formatted']}`")
+            st.markdown(f"**Total Script Blocks:** `{len(parsed_ep.blocks)}`")
+            st.markdown(f"**Dialogue Lines:** `{parsed_ep.to_dict()['dialogue_count']}`")
+        with col_meta2:
+            st.markdown(f"**Logline:** *{parsed_ep.logline}*")
+            st.markdown(f"**Continuity:** *{parsed_ep.continuity}*")
+    else:
+        st.info(f"Displaying extracted promo data for Episode {selected_ep_idx:02d} from processed season index.")
         
     st.markdown("---")
     st.write(f"### Detected Promos in Episode {selected_ep_idx}:")
@@ -156,18 +173,18 @@ with tab2:
         st.markdown(f"**[Rank #{p['rank']}] Timestamp:** `{seg['start_time']} - {seg['end_time']}` ({p['total_duration_seconds']}s) | **Score:** `{p['total_score']}`")
         st.markdown(f"- **Hook:** {p['hook']}")
         st.markdown(f"- **Cliffhanger:** {p['cliffhanger']}")
+        st.markdown(f"- **Why it works:** *{p['why_it_works']}*")
         
         # Show script segment preview
         with st.expander(f"View Screenplay Snippet ({seg['start_time']} to {seg['end_time']})"):
-            snippet_blocks = [
-                b for b in parsed_ep.blocks 
-                if b.start_time >= seg.get('start_seconds', 0.0) - 2.0 and b.end_time <= seg.get('end_seconds', 999.0) + 2.0
-            ]
-            for b in snippet_blocks:
-                if b.block_type == 'DIALOGUE':
-                    st.markdown(f"`[{b.start_formatted} - {b.end_formatted}]` **{b.speaker}** *({b.tone or 'Normal'})*: {b.content}")
-                else:
-                    st.markdown(f"`[{b.start_formatted} - {b.end_formatted}]` *[{b.block_type}]* {b.content}")
+            excerpts = p.get("script_excerpt", [])
+            if excerpts:
+                for b in excerpts:
+                    if b.get("type") == 'DIALOGUE':
+                        tone_txt = f" *({b.get('tone')})*" if b.get('tone') else ""
+                        st.markdown(f"`[{b.get('start')} - {b.get('end')}]` **{b.get('speaker')}**{tone_txt}: \"{b.get('content')}\"")
+                    else:
+                        st.markdown(f"`[{b.get('start')} - {b.get('end')}]` *[{b.get('type')}]* {b.get('content')}")
 
 # ----------------- TAB 3: Quality Audit & Failures -----------------
 with tab3:
@@ -247,3 +264,4 @@ if os.path.exists(os.path.join(OUTPUT_DIR, "promos_ranked.csv")):
             file_name="promos_ranked.csv",
             mime="text/csv"
         )
+

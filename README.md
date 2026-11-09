@@ -119,3 +119,4 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 * `outputs/promos_ranked.csv` — Ranked spreadsheet for video editors.
 * `outputs/quality_audit_and_failures.json` — Detailed failure mode metrics.
 * `Solution_Document.pdf` — 2-page executive solution doc for submission.
+

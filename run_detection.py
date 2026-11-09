@@ -69,7 +69,18 @@ def run_season_detection(data_folder: str = "I Married a Broken Soldier. He was 
                 "cliffhanger_score": p.cliffhanger_score,
                 "hook": p.hook_description,
                 "cliffhanger": p.cliffhanger_description,
-                "why_it_works": p.why_it_works
+                "why_it_works": p.why_it_works,
+                "script_excerpt": [
+                    {
+                        "start": b.start_formatted,
+                        "end": b.end_formatted,
+                        "type": b.block_type,
+                        "speaker": b.speaker,
+                        "tone": b.tone,
+                        "content": b.content
+                    }
+                    for b in p.blocks
+                ]
             }
             for p in ranked_promos
         ]
@@ -119,3 +130,4 @@ def run_season_detection(data_folder: str = "I Married a Broken Soldier. He was 
 
 if __name__ == "__main__":
     run_season_detection()
+
