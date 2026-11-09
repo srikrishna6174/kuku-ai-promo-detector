@@ -1,0 +1,79 @@
+{
+  "total_promos_audited": 100,
+  "clean_promos_count": 26,
+  "flagged_promos_count": 74,
+  "high_risk_count": 0,
+  "failure_mode_breakdown": {
+    "EXPOSITION_OVERLOAD": 0,
+    "OFF_TARGET_CHARACTERS": 32,
+    "PREMATURE_CUT_BUFFER": 58,
+    "VISUAL_ONLY_AMBIGUITY": 0
+  },
+  "sample_failures": [
+    {
+      "episode": 3,
+      "clip_range": "00:25.90 - 00:56.20",
+      "is_reliable": true,
+      "flag_count": 1,
+      "flags": [
+        {
+          "mode": "PREMATURE_CUT_BUFFER",
+          "severity": "LOW",
+          "reason": "Clip cuts immediately when speaker stops talking; needs 0.5s-1.0s video buffer for reaction shot."
+        }
+      ]
+    },
+    {
+      "episode": 1,
+      "clip_range": "01:15.00 - 01:38.20",
+      "is_reliable": true,
+      "flag_count": 1,
+      "flags": [
+        {
+          "mode": "PREMATURE_CUT_BUFFER",
+          "severity": "LOW",
+          "reason": "Clip cuts immediately when speaker stops talking; needs 0.5s-1.0s video buffer for reaction shot."
+        }
+      ]
+    },
+    {
+      "episode": 1,
+      "clip_range": "00:11.30 - 00:43.10",
+      "is_reliable": true,
+      "flag_count": 1,
+      "flags": [
+        {
+          "mode": "PREMATURE_CUT_BUFFER",
+          "severity": "LOW",
+          "reason": "Clip cuts immediately when speaker stops talking; needs 0.5s-1.0s video buffer for reaction shot."
+        }
+      ]
+    },
+    {
+      "episode": 2,
+      "clip_range": "00:00.00 - 00:32.40",
+      "is_reliable": true,
+      "flag_count": 1,
+      "flags": [
+        {
+          "mode": "PREMATURE_CUT_BUFFER",
+          "severity": "LOW",
+          "reason": "Clip cuts immediately when speaker stops talking; needs 0.5s-1.0s video buffer for reaction shot."
+        }
+      ]
+    },
+    {
+      "episode": 3,
+      "clip_range": "01:09.90 - 01:40.80",
+      "is_reliable": true,
+      "flag_count": 1,
+      "flags": [
+        {
+          "mode": "PREMATURE_CUT_BUFFER",
+          "severity": "LOW",
+          "reason": "Clip cuts immediately when speaker stops talking; needs 0.5s-1.0s video buffer for reaction shot."
+        }
+      ]
+    }
+  ]
+}

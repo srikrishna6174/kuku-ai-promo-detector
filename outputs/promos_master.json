@@ -1,0 +1,2007 @@
+{
+  "show_title": "I Married a Broken Soldier. He was a Duke",
+  "total_episodes_processed": 50,
+  "total_promos_extracted": 100,
+  "promos": [
+    {
+      "rank": 1,
+      "episode": 3,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:25.90",
+          "end_time": "00:56.20",
+          "duration_seconds": 30.3
+        }
+      ],
+      "total_duration_seconds": 30.3,
+      "marketing_tier": "Tier 1: Top-of-Funnel (Cold UA) - Post First",
+      "total_score": 97.0,
+      "hook_score": 10.0,
+      "cliffhanger_score": 9.5,
+      "hook": "Opens with NOBLE MATRIARCH declaring: 'You have humiliated this family enough for one day.'",
+      "cliffhanger": "Cuts off right after NOBLE MATRIARCH's unanswered confrontation: 'Your father has chosen his family...'",
+      "why_it_works": "High-stakes public humiliation and betrayal immediately hooks cold viewers; unresolved climax forces app download."
+    },
+    {
+      "rank": 2,
+      "episode": 1,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:15.00",
+          "end_time": "01:38.20",
+          "duration_seconds": 23.2
+        }
+      ],
+      "total_duration_seconds": 23.2,
+      "marketing_tier": "Tier 1: Top-of-Funnel (Cold UA) - Post First",
+      "total_score": 84.8,
+      "hook_score": 10.0,
+      "cliffhanger_score": 6.0,
+      "hook": "Opens with LADY IN GOLD GOWN declaring: 'Long enough to know he was never going to marry you.'",
+      "cliffhanger": "Cuts off right after LADY JULIANA's unanswered confrontation: 'Embarrassed you?'",
+      "why_it_works": "High-stakes public humiliation and betrayal immediately hooks cold viewers; unresolved climax forces app download."
+    },
+    {
+      "rank": 3,
+      "episode": 1,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:11.30",
+          "end_time": "00:43.10",
+          "duration_seconds": 31.8
+        }
+      ],
+      "total_duration_seconds": 31.8,
+      "marketing_tier": "Tier 1: Top-of-Funnel (Cold UA) - Post First",
+      "total_score": 84.1,
+      "hook_score": 9.4,
+      "cliffhanger_score": 6.5,
+      "hook": "Opens with MATRIARCH declaring: 'You should turn around, Juliana.'",
+      "cliffhanger": "Cuts off right after LADY JULIANA's unanswered confrontation: 'No...'",
+      "why_it_works": "High-stakes public humiliation and betrayal immediately hooks cold viewers; unresolved climax forces app download."
+    },
+    {
+      "rank": 4,
+      "episode": 2,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:00.00",
+          "end_time": "00:32.40",
+          "duration_seconds": 32.4
+        }
+      ],
+      "total_duration_seconds": 32.4,
+      "marketing_tier": "Tier 1: Top-of-Funnel (Cold UA) - Post First",
+      "total_score": 84.1,
+      "hook_score": 9.4,
+      "cliffhanger_score": 6.5,
+      "hook": "Opens with THE FORMER GROOM declaring: 'I cannot marry you, Juliana.'",
+      "cliffhanger": "Cuts off right after LADY JULIANA's unanswered confrontation: 'Father...'",
+      "why_it_works": "High-stakes public humiliation and betrayal immediately hooks cold viewers; unresolved climax forces app download."
+    },
+    {
+      "rank": 5,
+      "episode": 3,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:09.90",
+          "end_time": "01:40.80",
+          "duration_seconds": 30.9
+        }
+      ],
+      "total_duration_seconds": 30.9,
+      "marketing_tier": "Tier 1: Top-of-Funnel (Cold UA) - Post First",
+      "total_score": 84.1,
+      "hook_score": 9.4,
+      "cliffhanger_score": 6.5,
+      "hook": "Opens with THE BEARDED STRANGER declaring: 'Take your hands off her.'",
+      "cliffhanger": "Cuts off right after THE BEARDED STRANGER's unanswered confrontation: 'I can...'",
+      "why_it_works": "High-stakes public humiliation and betrayal immediately hooks cold viewers; unresolved climax forces app download."
+    },
+    {
+      "rank": 6,
+      "episode": 2,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:06.10",
+          "end_time": "01:42.40",
+          "duration_seconds": 36.3
+        }
+      ],
+      "total_duration_seconds": 36.3,
+      "marketing_tier": "Tier 1: Top-of-Funnel (Cold UA) - Post First",
+      "total_score": 80.5,
+      "hook_score": 8.5,
+      "cliffhanger_score": 6.5,
+      "hook": "Opens with OFF-SCREEN VOICE declaring: 'You should be grateful you're at least allowed to attend the wedding.'",
+      "cliffhanger": "Cuts off right after LADY JULIANA's unanswered confrontation: 'I may leave this chapel without a husband...'",
+      "why_it_works": "High-stakes public humiliation and betrayal immediately hooks cold viewers; unresolved climax forces app download."
+    },
+    {
+      "rank": 7,
+      "episode": 7,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:05.60",
+          "end_time": "01:30.00",
+          "duration_seconds": 24.4
+        }
+      ],
+      "total_duration_seconds": 24.4,
+      "marketing_tier": "Tier 2: High-Engagement Escalation - Post Second",
+      "total_score": 82.3,
+      "hook_score": 9.4,
+      "cliffhanger_score": 6.0,
+      "hook": "Opens with GERALD declaring: 'I have enough influence to make a beggar disappear.'",
+      "cliffhanger": "Cuts off right after GERALD's unanswered confrontation: 'What are you staring at?'",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 8,
+      "episode": 7,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:22.00",
+          "end_time": "00:44.80",
+          "duration_seconds": 22.8
+        }
+      ],
+      "total_duration_seconds": 22.8,
+      "marketing_tier": "Tier 2: High-Engagement Escalation - Post Second",
+      "total_score": 80.6,
+      "hook_score": 9.4,
+      "cliffhanger_score": 5.5,
+      "hook": "Opens with ARISTOCRATIC WOMAN declaring: 'This is where you live now?'",
+      "cliffhanger": "Cuts off right after JULIANA's unanswered confrontation: 'I work with my hands. There is no shame in that.'",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 9,
+      "episode": 39,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:41.00",
+          "end_time": "01:38.41",
+          "duration_seconds": 57.41
+        }
+      ],
+      "total_duration_seconds": 57.41,
+      "marketing_tier": "Tier 2: High-Engagement Escalation - Post Second",
+      "total_score": 90.6,
+      "hook_score": 8.4,
+      "cliffhanger_score": 9.5,
+      "hook": "Opens with LOYALIST FIGHTER declaring: 'Sleep.'",
+      "cliffhanger": "Abruptly cuts on high-tension visual action: Alexander's eyes burn with furious determination as the screen cuts sharply to black.",
+      "why_it_works": "Explosive confrontation with rapid dialogue and an unanswered ultimatum that drives high click-through."
+    },
+    {
+      "rank": 10,
+      "episode": 28,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:12.70",
+          "end_time": "01:04.80",
+          "duration_seconds": 52.1
+        }
+      ],
+      "total_duration_seconds": 52.1,
+      "marketing_tier": "Tier 2: High-Engagement Escalation - Post Second",
+      "total_score": 89.6,
+      "hook_score": 9.4,
+      "cliffhanger_score": 9.5,
+      "hook": "Opens with CATHERINE declaring: 'She looks exactly like a poisoner.'",
+      "cliffhanger": "Cuts off right after CATHERINE's unanswered confrontation: 'How convenient that the only person who can prove the poison exists...'",
+      "why_it_works": "Explosive confrontation with rapid dialogue and an unanswered ultimatum that drives high click-through."
+    },
+    {
+      "rank": 11,
+      "episode": 5,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:06.80",
+          "end_time": "00:45.80",
+          "duration_seconds": 39.0
+        }
+      ],
+      "total_duration_seconds": 39.0,
+      "marketing_tier": "Tier 2: High-Engagement Escalation - Post Second",
+      "total_score": 79.3,
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.5,
+      "hook": "LORD ASHCROFT: \"You will not leave this church carrying the Ashcroft name.\" (Cold, Condemnatory)",
+      "cliffhanger": "Cuts on LADY ASHCROFT: \"And the ledger...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 12,
+      "episode": 11,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:14.40",
+          "end_time": "00:34.90",
+          "duration_seconds": 20.5
+        }
+      ],
+      "total_duration_seconds": 20.5,
+      "marketing_tier": "Tier 2: High-Engagement Escalation - Post Second",
+      "total_score": 83.0,
+      "hook_score": 10.0,
+      "cliffhanger_score": 5.5,
+      "hook": "JULIANA: \"You have already taken enough from me. Leave!\" (Furious, Defiant)",
+      "cliffhanger": "Cuts on ALEXANDER: \"Choose your next words carefully.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 13,
+      "episode": 9,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:35.30",
+          "end_time": "01:55.50",
+          "duration_seconds": 20.2
+        }
+      ],
+      "total_duration_seconds": 20.2,
+      "marketing_tier": "Tier 2: High-Engagement Escalation - Post Second",
+      "total_score": 77.8,
+      "hook_score": 10.0,
+      "cliffhanger_score": 4.0,
+      "hook": "BLOND NOBLEMAN: \"People see ghosts whenever they want a story.\" (Mocking, Arrogant)",
+      "cliffhanger": "Cuts on: Extreme close-up macro shot of the Blond Nobleman's eye, the flickering fireplace flames dancing acr",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 14,
+      "episode": 20,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:15.40",
+          "end_time": "00:39.10",
+          "duration_seconds": 23.7
+        }
+      ],
+      "total_duration_seconds": 23.7,
+      "marketing_tier": "Tier 2: High-Engagement Escalation - Post Second",
+      "total_score": 82.8,
+      "hook_score": 9.5,
+      "cliffhanger_score": 6.0,
+      "hook": "CATHERINE: \"'Practically' is a word for beggars. I do not marry a practical Duke.\" (Cold, Haughty)",
+      "cliffhanger": "Cuts on CATHERINE: \"How much longer can the frail thing survive?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 15,
+      "episode": 4,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:03.40",
+          "end_time": "00:27.70",
+          "duration_seconds": 24.3
+        }
+      ],
+      "total_duration_seconds": 24.3,
+      "marketing_tier": "Tier 2: High-Engagement Escalation - Post Second",
+      "total_score": 77.5,
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.0,
+      "hook": "GERALD: \"Look at him.\" (Mocking, Arrogant)",
+      "cliffhanger": "Cuts on JULIANA: \"Why would you offer me your name?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 16,
+      "episode": 25,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:45.60",
+          "end_time": "02:13.80",
+          "duration_seconds": 28.2
+        }
+      ],
+      "total_duration_seconds": 28.2,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 81.5,
+      "hook_score": 7.0,
+      "cliffhanger_score": 8.5,
+      "hook": "ALEXANDER: \"You treated her?\" (Incredulous)",
+      "cliffhanger": "Cuts on ALEXANDER: \"Because you were standing inside a house where someone is poisoning a woman... and you never told me.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 17,
+      "episode": 12,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:03.30",
+          "end_time": "01:27.21",
+          "duration_seconds": 23.91
+        }
+      ],
+      "total_duration_seconds": 23.91,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 81.1,
+      "hook_score": 8.2,
+      "cliffhanger_score": 7.0,
+      "hook": "CLARISSA: \"Do it, and we withdraw the charges.\" (Cold, Transactional)",
+      "cliffhanger": "Cuts on: Over-the-shoulder shot past Clarissa onto Juliana's determined face, holding on her fierce, defiant ",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 18,
+      "episode": 16,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:49.80",
+          "end_time": "01:23.19",
+          "duration_seconds": 33.39
+        }
+      ],
+      "total_duration_seconds": 33.39,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 81.1,
+      "hook_score": 8.2,
+      "cliffhanger_score": 7.0,
+      "hook": "THUG WITH CAP: \"Harrington! Gerald Harrington paid us!\" (Screaming, Panicked)",
+      "cliffhanger": "Cuts on: Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 19,
+      "episode": 23,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:19.00",
+          "end_time": "01:52.50",
+          "duration_seconds": 33.5
+        }
+      ],
+      "total_duration_seconds": 33.5,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 81.1,
+      "hook_score": 8.2,
+      "cliffhanger_score": 7.0,
+      "hook": "LADY JULIANA: \"Someone is poisoning her.\" (Cold, Deadly Serious)",
+      "cliffhanger": "Cuts on: Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 20,
+      "episode": 25,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "02:17.40",
+          "end_time": "02:39.20",
+          "duration_seconds": 21.8
+        }
+      ],
+      "total_duration_seconds": 21.8,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 81.1,
+      "hook_score": 8.2,
+      "cliffhanger_score": 7.0,
+      "hook": "ALEXANDER: \"Worry? They struck you. They could have killed you.\" (Furious, Tormented)",
+      "cliffhanger": "Cuts on ALEXANDER: \"Everything you saw.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 21,
+      "episode": 41,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:01.00",
+          "end_time": "01:36.09",
+          "duration_seconds": 35.09
+        }
+      ],
+      "total_duration_seconds": 35.09,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 85.9,
+      "hook_score": 9.4,
+      "cliffhanger_score": 7.0,
+      "hook": "CATHERINE: \"Still arrogant. Still standing.\" (O.S.) (Murmured, Cold)",
+      "cliffhanger": "Cuts on: Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into ",
+      "why_it_works": "Explosive confrontation with rapid dialogue and an unanswered ultimatum that drives high click-through."
+    },
+    {
+      "rank": 22,
+      "episode": 5,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:55.50",
+          "end_time": "01:40.80",
+          "duration_seconds": 45.3
+        }
+      ],
+      "total_duration_seconds": 45.3,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 75.8,
+      "hook_score": 8.2,
+      "cliffhanger_score": 5.5,
+      "hook": "JULIANA: \"Barbara, don't!\" (Screaming, Desperate)",
+      "cliffhanger": "Cuts on MYSTERIOUS BEARDED MAN: \"Choose your next words carefully.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 23,
+      "episode": 30,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:08.80",
+          "end_time": "00:33.30",
+          "duration_seconds": 24.5
+        }
+      ],
+      "total_duration_seconds": 24.5,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 85.8,
+      "hook_score": 7.2,
+      "cliffhanger_score": 9.5,
+      "hook": "ELDER NOBLEMAN: \"You have a rat in your cellar, Rupert. And the servants are beginning to smell it.\" (Cold, Accusatory)",
+      "cliffhanger": "Cuts on RUPERT: \"If she speaks...\"",
+      "why_it_works": "Explosive confrontation with rapid dialogue and an unanswered ultimatum that drives high click-through."
+    },
+    {
+      "rank": 24,
+      "episode": 21,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:31.00",
+          "end_time": "01:23.00",
+          "duration_seconds": 52.0
+        }
+      ],
+      "total_duration_seconds": 52.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 80.1,
+      "hook_score": 8.4,
+      "cliffhanger_score": 6.5,
+      "hook": "PRUDENCE: \"He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!\" (Pleading, Desperate)",
+      "cliffhanger": "Cuts on PRUDENCE: \"You saved him. The grand doctors left him to choke, but you...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 25,
+      "episode": 33,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:34.00",
+          "end_time": "01:10.00",
+          "duration_seconds": 36.0
+        }
+      ],
+      "total_duration_seconds": 36.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 85.0,
+      "hook_score": 7.0,
+      "cliffhanger_score": 9.5,
+      "hook": "LORD: \"That is not what I asked.\" (Coldly Dismissive)",
+      "cliffhanger": "Cuts on: The maid gasps in sheer terror, her chest heaving as tears stream.",
+      "why_it_works": "Explosive confrontation with rapid dialogue and an unanswered ultimatum that drives high click-through."
+    },
+    {
+      "rank": 26,
+      "episode": 44,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:11.40",
+          "end_time": "00:46.40",
+          "duration_seconds": 35.0
+        }
+      ],
+      "total_duration_seconds": 35.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 84.8,
+      "hook_score": 10.0,
+      "cliffhanger_score": 6.0,
+      "hook": "POLICE CONSTABLE: \"I have more than enough.\" (Cold, Definite)",
+      "cliffhanger": "Cuts on CATHERINE: \"You don't remember?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 27,
+      "episode": 8,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:15.10",
+          "end_time": "00:36.90",
+          "duration_seconds": 21.8
+        }
+      ],
+      "total_duration_seconds": 21.8,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 74.4,
+      "hook_score": 7.4,
+      "cliffhanger_score": 6.0,
+      "hook": "JULIANA: \"How do you know that?\" (Inquiring, Soft)",
+      "cliffhanger": "Cuts on JULIANA: \"Not yet?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 28,
+      "episode": 9,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:08.00",
+          "end_time": "01:37.30",
+          "duration_seconds": 29.3
+        }
+      ],
+      "total_duration_seconds": 29.3,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 74.3,
+      "hook_score": 5.2,
+      "cliffhanger_score": 8.5,
+      "hook": "Action: Juliana places a comforting hand over the mother's hands.",
+      "cliffhanger": "Cuts on BLOND NOBLEMAN: \"People see ghosts whenever they want a story.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 29,
+      "episode": 11,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:20.90",
+          "end_time": "00:48.30",
+          "duration_seconds": 27.4
+        }
+      ],
+      "total_duration_seconds": 27.4,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 79.3,
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.5,
+      "hook": "GERALD: \"The last time I came here.\" (Cold, Certain)",
+      "cliffhanger": "Cuts on GERALD: \"If he has nothing to hide...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 30,
+      "episode": 12,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:21.60",
+          "end_time": "00:52.30",
+          "duration_seconds": 30.7
+        }
+      ],
+      "total_duration_seconds": 30.7,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 79.3,
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.5,
+      "hook": "ALEXANDER: \"I have never touched your property.\" (Low, Steady, Dangerous)",
+      "cliffhanger": "Cuts on CLARISSA: \"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 31,
+      "episode": 29,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:24.80",
+          "end_time": "00:53.60",
+          "duration_seconds": 28.8
+        }
+      ],
+      "total_duration_seconds": 28.8,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 84.1,
+      "hook_score": 9.4,
+      "cliffhanger_score": 6.5,
+      "hook": "CATHERINE: \"You still call this a legacy?\" (Cruel, Smug)",
+      "cliffhanger": "Cuts on CATHERINE: \"And when they find your corpse at the end of the rope...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 32,
+      "episode": 34,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:41.00",
+          "end_time": "01:15.50",
+          "duration_seconds": 34.5
+        }
+      ],
+      "total_duration_seconds": 34.5,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 84.1,
+      "hook_score": 7.2,
+      "cliffhanger_score": 9.0,
+      "hook": "Action: Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in dee",
+      "cliffhanger": "Cuts on JUDGE: \"And did she speak words you could not understand?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 33,
+      "episode": 42,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:18.00",
+          "end_time": "00:42.50",
+          "duration_seconds": 24.5
+        }
+      ],
+      "total_duration_seconds": 24.5,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 84.1,
+      "hook_score": 9.4,
+      "cliffhanger_score": 6.5,
+      "hook": "BLOND NOBLEMAN: \"Guards! Arrest this imposter!\" (Furious, Hysterical)",
+      "cliffhanger": "Cuts on ALEXANDER'S MOTHER: \"Alexander...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 34,
+      "episode": 43,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:00.60",
+          "end_time": "00:37.00",
+          "duration_seconds": 36.4
+        }
+      ],
+      "total_duration_seconds": 36.4,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 84.1,
+      "hook_score": 9.4,
+      "cliffhanger_score": 6.5,
+      "hook": "BLOND NOBLEMAN: \"You're lying!\" (Hysterical, Panicked)",
+      "cliffhanger": "Cuts on: The Crown Official receives the dossier solemnly with both hands.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 35,
+      "episode": 41,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:31.70",
+          "end_time": "01:00.50",
+          "duration_seconds": 28.8
+        }
+      ],
+      "total_duration_seconds": 28.8,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 82.3,
+      "hook_score": 9.4,
+      "cliffhanger_score": 6.0,
+      "hook": "NOBLEMAN: \"She actually came back to the chapel.\" (Mocking, Chuckling)",
+      "cliffhanger": "Cuts on JULIANA: \"You needed an entire chapel to feel powerful over one chained woman?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 36,
+      "episode": 6,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:28.10",
+          "end_time": "00:49.00",
+          "duration_seconds": 20.9
+        }
+      ],
+      "total_duration_seconds": 20.9,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 72.1,
+      "hook_score": 6.4,
+      "cliffhanger_score": 6.5,
+      "hook": "MYSTERIOUS BEARDED MAN: \"Yes.\" (Low)",
+      "cliffhanger": "Cuts on: Juliana removes her dark cloak, revealing her damp white bridal dress underneath.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 37,
+      "episode": 6,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:14.30",
+          "end_time": "01:46.00",
+          "duration_seconds": 31.7
+        }
+      ],
+      "total_duration_seconds": 31.7,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 72.1,
+      "hook_score": 6.4,
+      "cliffhanger_score": 6.5,
+      "hook": "Action: Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting an",
+      "cliffhanger": "Cuts on JULIANA: \"And yet...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 38,
+      "episode": 4,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:12.80",
+          "end_time": "01:53.00",
+          "duration_seconds": 40.2
+        }
+      ],
+      "total_duration_seconds": 40.2,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 71.3,
+      "hook_score": 6.2,
+      "cliffhanger_score": 6.5,
+      "hook": "JULIANA: \"Then I accept.\" (Resolved)",
+      "cliffhanger": "Cuts on THE PRIEST: \"By the authority entrusted to me, I now pronounce you...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 39,
+      "episode": 15,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:57.30",
+          "end_time": "01:26.00",
+          "duration_seconds": 28.7
+        }
+      ],
+      "total_duration_seconds": 28.7,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 76.2,
+      "hook_score": 7.0,
+      "cliffhanger_score": 7.0,
+      "hook": "BALD THUG: \"Look at her! Crying over weeds!\" (Cruel, Laughing)",
+      "cliffhanger": "Cuts on: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 40,
+      "episode": 18,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "02:38.00",
+          "end_time": "03:12.00",
+          "duration_seconds": 34.0
+        }
+      ],
+      "total_duration_seconds": 34.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 76.2,
+      "hook_score": 7.0,
+      "cliffhanger_score": 7.0,
+      "hook": "ALEXANDER: \"Someone wanted us out.\" (Cold, Ominous)",
+      "cliffhanger": "Cuts on: Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 41,
+      "episode": 20,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:29.90",
+          "end_time": "01:54.75",
+          "duration_seconds": 24.85
+        }
+      ],
+      "total_duration_seconds": 24.85,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 76.2,
+      "hook_score": 7.0,
+      "cliffhanger_score": 7.0,
+      "hook": "CATHERINE: \"Let the peasants rot in their barns.\" (Cruel, Callous)",
+      "cliffhanger": "Cuts on: Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 42,
+      "episode": 16,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:02.10",
+          "end_time": "00:33.80",
+          "duration_seconds": 31.7
+        }
+      ],
+      "total_duration_seconds": 31.7,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 76.1,
+      "hook_score": 7.4,
+      "cliffhanger_score": 6.5,
+      "hook": "THUG WITH CAP: \"Move aside, soldier.\" (Menacing, Goading)",
+      "cliffhanger": "Cuts on JULIANA: \"Alexander...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 43,
+      "episode": 32,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:59.60",
+          "end_time": "02:22.40",
+          "duration_seconds": 22.8
+        }
+      ],
+      "total_duration_seconds": 22.8,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 81.1,
+      "hook_score": 8.2,
+      "cliffhanger_score": 7.0,
+      "hook": "CATHERINE: \"Silence! Silence!\" (Hysterical, Screaming)",
+      "cliffhanger": "Cuts on: Medium shot of Catherine gripping the glowing tongs as Juliana continues speaking over her.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 44,
+      "episode": 36,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "02:33.50",
+          "end_time": "03:20.75",
+          "duration_seconds": 47.25
+        }
+      ],
+      "total_duration_seconds": 47.25,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 81.1,
+      "hook_score": 8.2,
+      "cliffhanger_score": 7.0,
+      "hook": "ALEXANDER'S MOTHER: \"Two days from now.\" (Deadly Serious)",
+      "cliffhanger": "Cuts on: A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into sil",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 45,
+      "episode": 46,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:17.30",
+          "end_time": "00:49.00",
+          "duration_seconds": 31.7
+        }
+      ],
+      "total_duration_seconds": 31.7,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 80.5,
+      "hook_score": 8.5,
+      "cliffhanger_score": 6.5,
+      "hook": "HIGH PRIEST: \"None shall leave until every witness is accounted for.\" (Stern, Commanding)",
+      "cliffhanger": "Cuts on HIGH PRIEST: \"No licensed clergyman presided...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 46,
+      "episode": 24,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:57.80",
+          "end_time": "01:25.00",
+          "duration_seconds": 27.2
+        }
+      ],
+      "total_duration_seconds": 27.2,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 75.3,
+      "hook_score": 7.2,
+      "cliffhanger_score": 6.5,
+      "hook": "NOBLEWOMAN: \"Every stone. Perhaps when your hands are black enough, you will finally remember what you are.\" (Intimate, Venomous)",
+      "cliffhanger": "Cuts on: Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully ",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 47,
+      "episode": 23,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:24.00",
+          "end_time": "01:15.80",
+          "duration_seconds": 51.8
+        }
+      ],
+      "total_duration_seconds": 51.8,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 75.2,
+      "hook_score": 5.0,
+      "cliffhanger_score": 9.0,
+      "hook": "LADY JULIANA: \"Her mouth is terribly dry.\" (Solemn)",
+      "cliffhanger": "Cuts on PRUDENCE: \"What are you saying?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 48,
+      "episode": 26,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:40.30",
+          "end_time": "01:19.40",
+          "duration_seconds": 39.1
+        }
+      ],
+      "total_duration_seconds": 39.1,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 80.1,
+      "hook_score": 6.2,
+      "cliffhanger_score": 9.0,
+      "hook": "JULIANA: \"Rest now, Your Grace. You are safe tonight.\" (Gentle, Calming)",
+      "cliffhanger": "Cuts on DOWAGER DUCHESS: \"Then tell me... why is a girl of such noble spirit working as a common maid?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 49,
+      "episode": 30,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:26.50",
+          "end_time": "01:04.30",
+          "duration_seconds": 37.8
+        }
+      ],
+      "total_duration_seconds": 37.8,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 80.1,
+      "hook_score": 6.2,
+      "cliffhanger_score": 9.0,
+      "hook": "RUPERT: \"She knows the Duchess was poisoned.\" (Muttered, Paranoid)",
+      "cliffhanger": "Cuts on RUPERT: \"The law?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 50,
+      "episode": 10,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:23.20",
+          "end_time": "00:53.30",
+          "duration_seconds": 30.1
+        }
+      ],
+      "total_duration_seconds": 30.1,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 69.5,
+      "hook_score": 6.2,
+      "cliffhanger_score": 6.0,
+      "hook": "ALEXANDER: \"It is only a scratch.\" (Low, Defiant)",
+      "cliffhanger": "Cuts on JULIANA: \"Does it hurt?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 51,
+      "episode": 15,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:13.00",
+          "end_time": "00:55.70",
+          "duration_seconds": 42.7
+        }
+      ],
+      "total_duration_seconds": 42.7,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 74.5,
+      "hook_score": 7.0,
+      "cliffhanger_score": 6.5,
+      "hook": "THUG WITH CAP: \"We're clearing this rubbish.\" (Mocking, Smug)",
+      "cliffhanger": "Cuts on JULIANA: \"My mother's plants...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 52,
+      "episode": 18,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:43.80",
+          "end_time": "02:24.00",
+          "duration_seconds": 40.2
+        }
+      ],
+      "total_duration_seconds": 40.2,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 74.5,
+      "hook_score": 7.0,
+      "cliffhanger_score": 6.5,
+      "hook": "JULIANA: \"The window!\" (Urgent, Shouting)",
+      "cliffhanger": "Cuts on: Alexander kneels beside her in the grass, resting a steady, protective hand on her back.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 53,
+      "episode": 21,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:04.20",
+          "end_time": "00:33.00",
+          "duration_seconds": 28.8
+        }
+      ],
+      "total_duration_seconds": 28.8,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 74.5,
+      "hook_score": 7.0,
+      "cliffhanger_score": 6.5,
+      "hook": "PRUDENCE: \"Lady Juliana! Please! You have to help me, Toby is dying!\" (Desperate, Panicked)",
+      "cliffhanger": "Cuts on: Prudence drops desperately to her knees onto the hay-strewn barn floor, clasping her hands in tearfu",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 54,
+      "episode": 24,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:22.50",
+          "end_time": "00:53.50",
+          "duration_seconds": 31.0
+        }
+      ],
+      "total_duration_seconds": 31.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 74.5,
+      "hook_score": 7.0,
+      "cliffhanger_score": 6.5,
+      "hook": "NOBLEWOMAN: \"You thought? A new maid thinks she knows better than the physicians?\" (Scoffing, Cruel)",
+      "cliffhanger": "Cuts on: Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hear",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 55,
+      "episode": 28,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:01.60",
+          "end_time": "01:31.00",
+          "duration_seconds": 29.4
+        }
+      ],
+      "total_duration_seconds": 29.4,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 79.3,
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.5,
+      "hook": "CATHERINE: \"How convenient that the only person who can prove the poison exists...\" (Amused, Mocking)",
+      "cliffhanger": "Cuts on: Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 56,
+      "episode": 37,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:23.80",
+          "end_time": "00:56.20",
+          "duration_seconds": 32.4
+        }
+      ],
+      "total_duration_seconds": 32.4,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 79.3,
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.5,
+      "hook": "CATHERINE: \"Juliana's execution comes after the wedding.\" (Venomous Satisfaction)",
+      "cliffhanger": "Cuts on LADY CLARISSA: \"And after the ceremony...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 57,
+      "episode": 45,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:54.00",
+          "end_time": "01:14.00",
+          "duration_seconds": 20.0
+        }
+      ],
+      "total_duration_seconds": 20.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 79.3,
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.5,
+      "hook": "ALEXANDER: \"You poisoned my mother. You tortured my wife.\" (Furious, Cold)",
+      "cliffhanger": "Cuts on ALEXANDER: \"Before the Crown and before God...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 58,
+      "episode": 31,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:43.20",
+          "end_time": "01:20.20",
+          "duration_seconds": 37.0
+        }
+      ],
+      "total_duration_seconds": 37.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 78.3,
+      "hook_score": 8.4,
+      "cliffhanger_score": 6.0,
+      "hook": "CATHERINE: \"No. You became a disgrace when Gerald left you standing at the altar.\" (Cold, Bitter)",
+      "cliffhanger": "Cuts on CATHERINE: \"You call that marriage?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 59,
+      "episode": 8,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:00.20",
+          "end_time": "00:21.50",
+          "duration_seconds": 21.3
+        }
+      ],
+      "total_duration_seconds": 21.3,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 68.2,
+      "hook_score": 5.0,
+      "cliffhanger_score": 7.0,
+      "hook": "JULIANA: \"Some of the pages are ruined. Careful.\" (Gentle, Somber)",
+      "cliffhanger": "Cuts on: Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the t",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 60,
+      "episode": 14,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:35.80",
+          "end_time": "01:27.63",
+          "duration_seconds": 51.83
+        }
+      ],
+      "total_duration_seconds": 51.83,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 73.0,
+      "hook_score": 6.2,
+      "cliffhanger_score": 7.0,
+      "hook": "ALEXANDER: \"You should never have had to bleed for me.\" (Deep, Sorrowful)",
+      "cliffhanger": "Cuts on: Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 61,
+      "episode": 19,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:23.20",
+          "end_time": "00:49.20",
+          "duration_seconds": 26.0
+        }
+      ],
+      "total_duration_seconds": 26.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 73.0,
+      "hook_score": 6.2,
+      "cliffhanger_score": 7.0,
+      "hook": "ELDER VILLAGER: \"You saved my son's life.\" (Warm, Grateful)",
+      "cliffhanger": "Cuts on ALEXANDER: \"Tell me what is happening in Ashburg.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 62,
+      "episode": 10,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:54.00",
+          "end_time": "01:19.00",
+          "duration_seconds": 25.0
+        }
+      ],
+      "total_duration_seconds": 25.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 67.8,
+      "hook_score": 6.2,
+      "cliffhanger_score": 5.5,
+      "hook": "ALEXANDER: \"Not much.\" (Gruff)",
+      "cliffhanger": "Cuts on ALEXANDER: \"Perhaps it is your hand.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 63,
+      "episode": 22,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:49.50",
+          "end_time": "01:09.50",
+          "duration_seconds": 20.0
+        }
+      ],
+      "total_duration_seconds": 20.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 72.8,
+      "hook_score": 7.0,
+      "cliffhanger_score": 6.0,
+      "hook": "HOUSEKEEPER: \"She looks soft.\" (Cold, Skeptical)",
+      "cliffhanger": "Cuts on HOUSEKEEPER: \"And can you keep your eyes and ears where they belong?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 64,
+      "episode": 32,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:47.80",
+          "end_time": "01:19.40",
+          "duration_seconds": 31.6
+        }
+      ],
+      "total_duration_seconds": 31.6,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 77.5,
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.0,
+      "hook": "CATHERINE: \"A disgraced woman?\" (Sneering, Mocking)",
+      "cliffhanger": "Cuts on CATHERINE: \"Your soldier?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 65,
+      "episode": 34,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:48.00",
+          "end_time": "02:11.60",
+          "duration_seconds": 23.6
+        }
+      ],
+      "total_duration_seconds": 23.6,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 77.5,
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.0,
+      "hook": "LORD: \"She calls it healing.\" (Mocking, Smug)",
+      "cliffhanger": "Cuts on JUDGE: \"Without the approval of a licensed physician?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 66,
+      "episode": 36,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:36.80",
+          "end_time": "02:06.80",
+          "duration_seconds": 30.0
+        }
+      ],
+      "total_duration_seconds": 30.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 77.5,
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.0,
+      "hook": "ALEXANDER: \"Then where is she?\" (Desperate)",
+      "cliffhanger": "Cuts on ALEXANDER: \"Juliana... is in a cell?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 67,
+      "episode": 47,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:00.50",
+          "end_time": "01:38.80",
+          "duration_seconds": 38.3
+        }
+      ],
+      "total_duration_seconds": 38.3,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 77.5,
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.0,
+      "hook": "CATHERINE: \"I have nowhere to go, Your Grace.\" (Desperate, Weeping)",
+      "cliffhanger": "Cuts on CATHERINE: \"You want me? As a guest?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 68,
+      "episode": 22,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:36.00",
+          "end_time": "02:11.00",
+          "duration_seconds": 35.0
+        }
+      ],
+      "total_duration_seconds": 35.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 72.2,
+      "hook_score": 6.0,
+      "cliffhanger_score": 7.0,
+      "hook": "Action: Prudence rushes into frame, grabbing Juliana's arm to keep her moving.",
+      "cliffhanger": "Cuts on: Extreme close-up on the Dowager Duchess's terrified, wide eyes staring up as she chokes for air, the",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 69,
+      "episode": 46,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:29.30",
+          "end_time": "02:18.50",
+          "duration_seconds": 49.2
+        }
+      ],
+      "total_duration_seconds": 49.2,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 77.0,
+      "hook_score": 8.5,
+      "cliffhanger_score": 5.5,
+      "hook": "HIGH PRIEST: \"Careful, girl. You mistake my patience for weakness.\" (O.S. / Low, Threatening)",
+      "cliffhanger": "Cuts on HIGH PRIEST: \"Ten days, Duke. Choose your witnesses well.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 70,
+      "episode": 14,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:10.50",
+          "end_time": "00:47.00",
+          "duration_seconds": 36.5
+        }
+      ],
+      "total_duration_seconds": 36.5,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 71.3,
+      "hook_score": 6.2,
+      "cliffhanger_score": 6.5,
+      "hook": "JULIANA: \"Now release my husband.\" (Firm, Commanding)",
+      "cliffhanger": "Cuts on: Alexander gently wraps clean linen bandages around Juliana's torn wrist and palm.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 71,
+      "episode": 17,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:09.30",
+          "end_time": "00:31.50",
+          "duration_seconds": 22.2
+        }
+      ],
+      "total_duration_seconds": 22.2,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 71.3,
+      "hook_score": 6.2,
+      "cliffhanger_score": 6.5,
+      "hook": "JULIANA: \"Some of them survived.\" (Soft, Emotional)",
+      "cliffhanger": "Cuts on: Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his lar",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 72,
+      "episode": 27,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:18.10",
+          "end_time": "01:57.20",
+          "duration_seconds": 39.1
+        }
+      ],
+      "total_duration_seconds": 39.1,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 76.2,
+      "hook_score": 7.0,
+      "cliffhanger_score": 7.0,
+      "hook": "LADY CATHERINE: \"Who permitted you to give medicine to the Duchess?\" (Incredulous, Accusing)",
+      "cliffhanger": "Cuts on: Close-up of Juliana speaking the truth clearly.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 73,
+      "episode": 31,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:17.80",
+          "end_time": "01:38.20",
+          "duration_seconds": 20.4
+        }
+      ],
+      "total_duration_seconds": 20.4,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 76.2,
+      "hook_score": 7.0,
+      "cliffhanger_score": 7.0,
+      "hook": "CATHERINE: \"You call that marriage?\" (Incredulous, Mocking)",
+      "cliffhanger": "Cuts on: Close-up of Juliana speaking calmly and razor-sharp.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 74,
+      "episode": 50,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:27.20",
+          "end_time": "01:20.00",
+          "duration_seconds": 52.8
+        }
+      ],
+      "total_duration_seconds": 52.8,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 76.2,
+      "hook_score": 7.0,
+      "cliffhanger_score": 7.0,
+      "hook": "CATHERINE: \"That's not absolution, Thomas. That's a fortune.\" (Scoffing, Incredulous)",
+      "cliffhanger": "Cuts on: Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrifie",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 75,
+      "episode": 27,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:13.40",
+          "end_time": "00:51.50",
+          "duration_seconds": 38.1
+        }
+      ],
+      "total_duration_seconds": 38.1,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 76.1,
+      "hook_score": 7.4,
+      "cliffhanger_score": 6.5,
+      "hook": "JULIANA: \"He is a soldier. A veteran from the Peninsula.\" (Earnest, Defending)",
+      "cliffhanger": "Cuts on: The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine a",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 76,
+      "episode": 29,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:09.80",
+          "end_time": "01:33.70",
+          "duration_seconds": 23.9
+        }
+      ],
+      "total_duration_seconds": 23.9,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 76.1,
+      "hook_score": 7.4,
+      "cliffhanger_score": 6.5,
+      "hook": "JULIANA: \"My husband will find me.\" (Steely, Resolute)",
+      "cliffhanger": "Cuts on: Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror w",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 77,
+      "episode": 40,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:06.90",
+          "end_time": "01:50.08",
+          "duration_seconds": 43.18
+        }
+      ],
+      "total_duration_seconds": 43.18,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 76.1,
+      "hook_score": 7.4,
+      "cliffhanger_score": 6.5,
+      "hook": "ROYAL GUARD: \"Every one, my Lord.\" (Obedient, Firm)",
+      "cliffhanger": "Cuts on: Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the solemn organ cho",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 78,
+      "episode": 13,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:37.00",
+          "end_time": "00:58.60",
+          "duration_seconds": 21.6
+        }
+      ],
+      "total_duration_seconds": 21.6,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 71.0,
+      "hook_score": 7.0,
+      "cliffhanger_score": 5.5,
+      "hook": "CLARISSA: \"Careful, sister.\" (O.S.) (Mocking, Vindictive)",
+      "cliffhanger": "Cuts on CLARISSA: \"Look at her hands.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 79,
+      "episode": 13,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:24.20",
+          "end_time": "00:47.00",
+          "duration_seconds": 22.8
+        }
+      ],
+      "total_duration_seconds": 22.8,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 70.5,
+      "hook_score": 6.0,
+      "cliffhanger_score": 6.5,
+      "hook": "ALEXANDER: \"I would rather face the gallows than watch you hurt yourself for me.\" (Desperate, Fierce)",
+      "cliffhanger": "Cuts on: Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breat",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 80,
+      "episode": 33,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:09.50",
+          "end_time": "01:38.00",
+          "duration_seconds": 28.5
+        }
+      ],
+      "total_duration_seconds": 28.5,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 74.5,
+      "hook_score": 7.0,
+      "cliffhanger_score": 6.5,
+      "hook": "MAID: \"Please, my Lord... he is only seven!\" (Begging, Heartbroken)",
+      "cliffhanger": "Cuts on LORD: \"And she opened her mother's book...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 81,
+      "episode": 40,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:30.10",
+          "end_time": "00:55.80",
+          "duration_seconds": 25.7
+        }
+      ],
+      "total_duration_seconds": 25.7,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 74.5,
+      "hook_score": 7.0,
+      "cliffhanger_score": 6.5,
+      "hook": "LORD HARRINGTON: \"This place has always been unlucky for Juliana.\" (Chuckling, Scornful)",
+      "cliffhanger": "Cuts on: Rupert smooths the lapels of his coat, checking his posture as he waits for the bride.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 82,
+      "episode": 43,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:24.10",
+          "end_time": "00:54.80",
+          "duration_seconds": 30.7
+        }
+      ],
+      "total_duration_seconds": 30.7,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 74.5,
+      "hook_score": 7.0,
+      "cliffhanger_score": 6.5,
+      "hook": "BLOND NOBLEMAN: \"You have all been deceived!\" (Desperate, Flustered)",
+      "cliffhanger": "Cuts on: Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 83,
+      "episode": 45,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:27.60",
+          "end_time": "00:51.50",
+          "duration_seconds": 23.9
+        }
+      ],
+      "total_duration_seconds": 23.9,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 74.5,
+      "hook_score": 7.0,
+      "cliffhanger_score": 6.5,
+      "hook": "JULIANA: \"All this time?\" (Incredulous, Moved)",
+      "cliffhanger": "Cuts on CATHERINE: \"Alexander...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 84,
+      "episode": 48,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:37.30",
+          "end_time": "01:00.60",
+          "duration_seconds": 23.3
+        }
+      ],
+      "total_duration_seconds": 23.3,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 74.5,
+      "hook_score": 7.0,
+      "cliffhanger_score": 6.5,
+      "hook": "CATHERINE: \"Good. Let them remember it.\" (Spiteful, calculating)",
+      "cliffhanger": "Cuts on AGNES: \"If someone sees him come to you...\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 85,
+      "episode": 37,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:33.50",
+          "end_time": "01:59.80",
+          "duration_seconds": 26.3
+        }
+      ],
+      "total_duration_seconds": 26.3,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 73.6,
+      "hook_score": 7.2,
+      "cliffhanger_score": 6.0,
+      "hook": "Action: Juliana curls her fingers back, pulling away from the foul sustenance in defiance.",
+      "cliffhanger": "Cuts on NOBLEMAN: \"Do you think she'll actually be executed?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 86,
+      "episode": 35,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "02:02.00",
+          "end_time": "02:37.50",
+          "duration_seconds": 35.5
+        }
+      ],
+      "total_duration_seconds": 35.5,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 73.0,
+      "hook_score": 6.2,
+      "cliffhanger_score": 7.0,
+      "hook": "ALEXANDER'S MOTHER: \"Then why did they never tell us?\" (Aghast, Stunned)",
+      "cliffhanger": "Cuts on: A sudden, ominous orchestral crescendo swells dramatically into silence.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 87,
+      "episode": 35,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:11.50",
+          "end_time": "01:31.50",
+          "duration_seconds": 20.0
+        }
+      ],
+      "total_duration_seconds": 20.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 72.8,
+      "hook_score": 7.0,
+      "cliffhanger_score": 6.0,
+      "hook": "ALEXANDER'S MOTHER: \"Then how did you survive?\" (Searching, Desperate)",
+      "cliffhanger": "Cuts on ALEXANDER'S MOTHER: \"A traitor?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 88,
+      "episode": 38,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:02.80",
+          "end_time": "01:27.91",
+          "duration_seconds": 25.11
+        }
+      ],
+      "total_duration_seconds": 25.11,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 72.8,
+      "hook_score": 7.4,
+      "cliffhanger_score": 7.0,
+      "hook": "JULIANA: \"I will not betray him.\" (Resolute)",
+      "cliffhanger": "Cuts on: Dramatic cut to black.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 89,
+      "episode": 17,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:16.80",
+          "end_time": "00:39.00",
+          "duration_seconds": 22.2
+        }
+      ],
+      "total_duration_seconds": 22.2,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 66.5,
+      "hook_score": 5.0,
+      "cliffhanger_score": 6.5,
+      "hook": "ALEXANDER: \"For what?\" (Gruff, Low)",
+      "cliffhanger": "Cuts on: Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The sc",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 90,
+      "episode": 38,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:45.50",
+          "end_time": "01:13.50",
+          "duration_seconds": 28.0
+        }
+      ],
+      "total_duration_seconds": 28.0,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 71.1,
+      "hook_score": 7.4,
+      "cliffhanger_score": 6.5,
+      "hook": "JULIANA: \"What if I die here?\" (Fearful, Pleading)",
+      "cliffhanger": "Cuts on: Juliana rushes toward the front of the cell, clutching the iron bars with both hands.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 91,
+      "episode": 47,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:36.00",
+          "end_time": "02:07.20",
+          "duration_seconds": 31.2
+        }
+      ],
+      "total_duration_seconds": 31.2,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 71.0,
+      "hook_score": 7.0,
+      "cliffhanger_score": 5.5,
+      "hook": "CATHERINE: \"You want me? As a guest?\" (Incredulous, Stunned)",
+      "cliffhanger": "Cuts on JULIANA: \"I offer you bread and honest labor. Take the apron, or leave the county.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 92,
+      "episode": 19,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:16.50",
+          "end_time": "01:36.80",
+          "duration_seconds": 20.3
+        }
+      ],
+      "total_duration_seconds": 20.3,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 65.8,
+      "hook_score": 7.0,
+      "cliffhanger_score": 4.0,
+      "hook": "ALEXANDER: \"My mother is a prisoner in her own house.\" (Cold, Pained Fury)",
+      "cliffhanger": "Cuts on: Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 93,
+      "episode": 44,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:46.60",
+          "end_time": "01:07.80",
+          "duration_seconds": 21.2
+        }
+      ],
+      "total_duration_seconds": 21.2,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 70.5,
+      "hook_score": 8.2,
+      "cliffhanger_score": 4.0,
+      "hook": "CATHERINE: \"I was supposed to be your Duchess!\" (Desperate, Demanding)",
+      "cliffhanger": "Cuts on: Tilt-up shot starting from heavy iron chains resting on the wooden floor up to the shackled wrists o",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 94,
+      "episode": 48,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:00.00",
+          "end_time": "00:30.80",
+          "duration_seconds": 30.8
+        }
+      ],
+      "total_duration_seconds": 30.8,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 68.8,
+      "hook_score": 6.0,
+      "cliffhanger_score": 6.0,
+      "hook": "Action: Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gazes out the dark wind",
+      "cliffhanger": "Cuts on AGNES: \"You sent for me, my lady?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 95,
+      "episode": 49,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:24.20",
+          "end_time": "01:52.80",
+          "duration_seconds": 28.6
+        }
+      ],
+      "total_duration_seconds": 28.6,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 68.8,
+      "hook_score": 6.0,
+      "cliffhanger_score": 6.0,
+      "hook": "CATHERINE: \"Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.\" (Fierce, Uncompromising)",
+      "cliffhanger": "Cuts on FATHER THOMAS: \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 96,
+      "episode": 26,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "01:36.00",
+          "end_time": "01:59.50",
+          "duration_seconds": 23.5
+        }
+      ],
+      "total_duration_seconds": 23.5,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 68.2,
+      "hook_score": 5.0,
+      "cliffhanger_score": 7.0,
+      "hook": "DOWAGER DUCHESS: \"Your hand... Let me see your hand.\" (Breathless, Shaken)",
+      "cliffhanger": "Cuts on: Medium close-up of Juliana frozen in shock, her breath catching as the Duchess's desperate words ech",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 97,
+      "episode": 49,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:15.80",
+          "end_time": "00:41.50",
+          "duration_seconds": 25.7
+        }
+      ],
+      "total_duration_seconds": 25.7,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 65.8,
+      "hook_score": 7.0,
+      "cliffhanger_score": 4.0,
+      "hook": "CATHERINE: \"Good. That's what I pay her for.\" (Pleased, Cold)",
+      "cliffhanger": "Cuts on FATHER THOMAS: \"A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 98,
+      "episode": 50,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:12.00",
+          "end_time": "00:39.40",
+          "duration_seconds": 27.4
+        }
+      ],
+      "total_duration_seconds": 27.4,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 63.0,
+      "hook_score": 5.0,
+      "cliffhanger_score": 5.5,
+      "hook": "CATHERINE: \"Then let's stop pretending this was only appetite.\" (Intense, Whispering)",
+      "cliffhanger": "Cuts on CATHERINE: \"Unsupervised. In your hands alone.\"",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 99,
+      "episode": 42,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:30.50",
+          "end_time": "00:54.00",
+          "duration_seconds": 23.5
+        }
+      ],
+      "total_duration_seconds": 23.5,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 62.6,
+      "hook_score": 6.2,
+      "cliffhanger_score": 4.0,
+      "hook": "BLOND NOBLEMAN: \"You cannot be him. Alexander died!\" (Denial, Shaken)",
+      "cliffhanger": "Cuts on: His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the ",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    },
+    {
+      "rank": 100,
+      "episode": 39,
+      "segments": [
+        {
+          "segment_index": 1,
+          "start_time": "00:13.80",
+          "end_time": "00:36.50",
+          "duration_seconds": 22.7
+        }
+      ],
+      "total_duration_seconds": 22.7,
+      "marketing_tier": "Tier 3: Retargeting & Cliffhanger Drive - Post Third",
+      "total_score": 58.6,
+      "hook_score": 5.2,
+      "cliffhanger_score": 4.0,
+      "hook": "Action: Four royal guards in red ceremonial tunics and tall black bearskin hats stand rigidly at attention w",
+      "cliffhanger": "Cuts on: Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench.",
+      "why_it_works": "Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point."
+    }
+  ]
+}

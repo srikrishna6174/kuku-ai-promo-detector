@@ -1,0 +1,29 @@
+# Kuku Confidential Input Pack & Brief
+I Married a Broken Soldier. He was a Duke/
+*Assignment*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Environment Variables & Keys
+.env
+*.env
+api_key.txt
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
