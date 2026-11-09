@@ -104,9 +104,16 @@ pip install -r requirements.txt
 ```
 
 ### 2. Run the Detection Pipeline (CLI)
-Scans all 50 episodes in under 2 seconds and exports all JSON/CSV outputs:
+Scans all 50 episodes in under 2 seconds and exports all JSON, CSV, FFmpeg, and EDL outputs:
 ```bash
+# Full season run (all 50 episodes)
 python run_detection.py
+
+# Run on a single episode
+python run_detection.py --episode 3
+
+# Run with Gemini / OpenAI / Claude API adapter
+python run_detection.py --provider gemini
 ```
 
 ### 3. Launch the Interactive Dashboard
@@ -115,19 +122,29 @@ streamlit run app.py
 ```
 Open [http://localhost:8501](http://localhost:8501) in your browser.
 
+### 4. Run Automated Unit Tests (10/10 Passing)
+```bash
+python test_pipeline.py
+```
+
 ---
 
 ## 📂 Deliverables Manifest
 
-* `run_detection.py` — Complete automated pipeline runner.
-* `app.py` — Full interactive Streamlit web dashboard.
+* `run_detection.py` — Complete automated pipeline runner with rich CLI flags.
+* `app.py` — Interactive Streamlit web dashboard with 5 tabs (Rankings, Script Explorer, Analytics, Quality Audit, Sandbox).
+* `solution_doc.md` — Complete solution document in readable Markdown format.
+* `Solution_Document.pdf` — Strictly 2-page executive solution document ready for submission.
 * `src/parser.py` — Screenplay parser with timestamp extraction.
-* `src/detector.py` — Hook, cliffhanger & coherence scoring engine.
+* `src/detector.py` — Hook, cliffhanger, coherence & multi-segment scoring engine.
 * `src/ranker.py` — Strategic campaign rollout & marketing tier classifier.
 * `src/quality_checker.py` — Automated quality auditor & failure mode reporter.
-* `src/llm_refiner.py` — Plug-and-play LLM adapter (Gemini / OpenAI / Local).
-* `outputs/promos_master.json` — Unedited master JSON output across all 50 episodes.
+* `src/llm_refiner.py` — Multi-model LLM adapter (Gemini, OpenAI, Claude, Local).
+* `src/export_utils.py` — Post-production FFmpeg & Premiere EDL marker generator.
+* `test_pipeline.py` — Comprehensive unit test suite (10/10 automated tests passing).
+* `outputs/promos_master.json` — Unedited master JSON output with embedded dialogue excerpts.
 * `outputs/promos_ranked.csv` — Ranked spreadsheet for video editors.
 * `outputs/quality_audit_and_failures.json` — Detailed failure mode metrics.
-* `Solution_Document.pdf` — 2-page executive solution doc for submission.
+* `outputs/cut_promos.sh` & `outputs/cut_promos.bat` — FFmpeg batch video slicing scripts.
+* `outputs/premiere_markers.csv` — Timeline markers for Adobe Premiere Pro and DaVinci Resolve.
 

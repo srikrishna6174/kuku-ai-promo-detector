@@ -101,6 +101,42 @@ class TestKukuPromoPipeline(unittest.TestCase):
         page_count = len(reader.pages)
         self.assertEqual(page_count, 2, f"Solution document must be strictly up to 2 pages, found: {page_count}")
 
+    def test_08_multi_segment_promos(self):
+        """Validates multi-segment stitched trailer edits."""
+        json_path = os.path.join(OUTPUT_DIR, "promos_master.json")
+        with open(json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        stitched = data.get("multi_segment_stitched_promos", [])
+        self.assertGreater(len(stitched), 0, "Expected at least 1 multi-segment stitched promo")
+        for s in stitched:
+            self.assertIn("title", s)
+            self.assertIn("format", s)
+            self.assertGreater(len(s.get("segments", [])), 1, "Multi-segment promo must have >1 segments")
+            self.assertGreaterEqual(s["total_duration_seconds"], 20.0)
+            self.assertLessEqual(s["total_duration_seconds"], 60.0)
+
+    def test_09_ffmpeg_and_edl_exports(self):
+        """Validates that video editing suite markers and ffmpeg cut scripts exist and are populated."""
+        sh_path = os.path.join(OUTPUT_DIR, "cut_promos.sh")
+        bat_path = os.path.join(OUTPUT_DIR, "cut_promos.bat")
+        edl_path = os.path.join(OUTPUT_DIR, "premiere_markers.csv")
+        
+        self.assertTrue(os.path.exists(sh_path), "Missing cut_promos.sh")
+        self.assertTrue(os.path.exists(bat_path), "Missing cut_promos.bat")
+        self.assertTrue(os.path.exists(edl_path), "Missing premiere_markers.csv")
+        
+        with open(sh_path, 'r', encoding='utf-8') as f:
+            sh_content = f.read()
+            self.assertIn("ffmpeg", sh_content)
+            
+        with open(edl_path, 'r', encoding='utf-8') as f:
+            reader = list(csv.reader(f))
+            self.assertGreater(len(reader), 10, "EDL markers file should contain promo rows")
+
+    def test_10_solution_markdown_exists(self):
+        """Validates that solution_doc.md exists in root for GitHub readability."""
+        self.assertTrue(os.path.exists("solution_doc.md"), "Missing solution_doc.md")
+
 if __name__ == "__main__":
     unittest.main()
 
