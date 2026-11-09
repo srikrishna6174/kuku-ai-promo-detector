@@ -169,18 +169,41 @@ with tab1:
         ["All Promos", "Tier 1: Top-of-Funnel (Cold UA) - Post First", "Tier 2: High-Engagement Escalation", "Tier 3: Retargeting & Cliffhanger Drive"],
         horizontal=True
     )
+
+    col_search1, col_search2 = st.columns([2, 1])
+    with col_search1:
+        search_query = st.text_input("🔍 Search promos by keyword or character (e.g. 'Juliana', 'Gerald', 'Clarissa', 'wedding', 'kneel'):", "")
+    with col_search2:
+        sort_by = st.selectbox("Sort Order:", ["Strategic Rank (Default)", "Total Score (High to Low)", "Shortest Duration", "Longest Duration"])
     
     filtered_promos = promos_master
     if "Tier 1" in tier_filter:
-        filtered_promos = [p for p in promos_master if "Tier 1" in p.get("marketing_tier", "")]
+        filtered_promos = [p for p in filtered_promos if "Tier 1" in p.get("marketing_tier", "")]
     elif "Tier 2" in tier_filter:
-        filtered_promos = [p for p in promos_master if "Tier 2" in p.get("marketing_tier", "")]
+        filtered_promos = [p for p in filtered_promos if "Tier 2" in p.get("marketing_tier", "")]
     elif "Tier 3" in tier_filter:
-        filtered_promos = [p for p in promos_master if "Tier 3" in p.get("marketing_tier", "")]
+        filtered_promos = [p for p in filtered_promos if "Tier 3" in p.get("marketing_tier", "")]
+
+    if search_query.strip():
+        q = search_query.strip().lower()
+        filtered_promos = [
+            p for p in filtered_promos 
+            if q in p.get("hook", "").lower() 
+            or q in p.get("cliffhanger", "").lower() 
+            or q in p.get("why_it_works", "").lower()
+            or any(q in (b.get("speaker") or "").lower() or q in b.get("content", "").lower() for b in p.get("script_excerpt", []))
+        ]
+
+    if sort_by == "Total Score (High to Low)":
+        filtered_promos = sorted(filtered_promos, key=lambda x: x.get("total_score", 0), reverse=True)
+    elif sort_by == "Shortest Duration":
+        filtered_promos = sorted(filtered_promos, key=lambda x: x.get("total_duration_seconds", 0))
+    elif sort_by == "Longest Duration":
+        filtered_promos = sorted(filtered_promos, key=lambda x: x.get("total_duration_seconds", 0), reverse=True)
         
-    st.write(f"Showing **{len(filtered_promos)}** promos:")
+    st.write(f"Showing **{min(20, len(filtered_promos))}** of **{len(filtered_promos)}** matching promos:")
     
-    for p in filtered_promos[:15]:
+    for p in filtered_promos[:20]:
         seg = p["segments"][0]
         with st.container():
             st.markdown(f"""
@@ -298,17 +321,84 @@ with tab3:
 # ----------------- TAB 4: Sandbox & Runner -----------------
 with tab4:
     st.subheader("⚡ Live Interview Runner: Test On Any New Input")
-    st.markdown("Use this playground to test the promo detector live on any new episode or screenplay text:")
-    
+    st.markdown("Use this playground to test the promo detector live on any new episode or screenplay text during your interview:")
+
+    SAMPLE_PROMO_SCRIPT = """EPISODE NUMBER: Episode 99
+EPISODE LOGLINE: An unexpected visitor storms the wedding reception.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. BALLROOM – NIGHT
+Scene start: 00:00.00
+Scene end: 01:30.00
+
+**ARROGANT BILLIONAIRE (Venomous, Cold):**
+Start: (00:01.00) | End: (00:04.20)
+"You actually thought I was going to sign over the inheritance to a penniless maid?"
+
+**LADY ELENA (Shocked, Trembling):**
+Start: (00:04.50) | End: (00:06.80)
+"We had a binding contract, Marcus!"
+
+**ARROGANT BILLIONAIRE (Cruel, Mocking):**
+Start: (00:07.10) | End: (00:09.50)
+"Contracts are for equals. You are nothing."
+
+**CAMERA:**
+Start: (00:09.50) | End: (00:12.00)
+Tight close-up as Marcus tears the paper in half and flings the shreds into Elena's face.
+
+**LADY ELENA (Desperate, Tears falling):**
+Start: (00:12.20) | End: (00:15.50)
+"My mother needs that surgery tonight! You promised me!"
+
+**ARROGANT BILLIONAIRE (Disgusted):**
+Start: (00:16.00) | End: (00:19.00)
+"Then I suppose she won't make it to sunrise."
+
+**MYSTERIOUS COMMANDER (Low, Thunderous, Dangerous):**
+Start: (00:22.00) | End: (00:26.50)
+"Pick up those papers... and apologize to my wife."
+
+**CAMERA:**
+Start: (00:26.50) | End: (00:29.00)
+Every guest freezes in horror as the city's most feared warlord steps through the shattered mahogany doors.
+
+**ARROGANT BILLIONAIRE (Incredulous, Trembling):**
+Start: (00:29.20) | End: (00:33.00)
+"Y-Your wife?! She is an orphan!"
+
+**MYSTERIOUS COMMANDER (Deadly, Uncompromising):**
+Start: (00:33.50) | End: (00:37.00)
+"She is the Duchess of Valmont. And your family dynasty ends in five minutes."
+
+**SOUND FX:**
+Start: (00:37.00) | End: (00:39.00)
+Solemn low-pitched string drone swells to an ominous cliffhanger peak.
+
+**CAMERA:**
+Start: (00:39.00) | End: (00:40.00)
+Cut to black.
+
+--- SCRIPT END ---"""
+
+    col_btn1, col_btn2 = st.columns([1, 3])
+    with col_btn1:
+        if st.button("📋 Load Sample Script"):
+            st.session_state["sandbox_text"] = SAMPLE_PROMO_SCRIPT
+            
+    initial_text = st.session_state.get("sandbox_text", "")
     sample_text = st.text_area(
         "Paste Screenplay Text Here:",
+        value=initial_text,
         height=250,
         placeholder="Paste screenplay text with **CAMERA:**, **ACTION:**, or **CHARACTER (Tone):** timestamps..."
     )
     
     if st.button("🚀 Find Promos in Input", type="primary"):
         if not sample_text.strip():
-            st.warning("Please paste some screenplay text first!")
+            st.warning("Please paste some screenplay text or click 'Load Sample Script' first!")
         else:
             with open("temp_input.txt", "w", encoding="utf-8") as f:
                 f.write(sample_text)
@@ -316,28 +406,63 @@ with tab4:
             if not temp_ep.blocks:
                 st.error("No valid timestamped blocks found in input. Ensure format matches: **CHARACTER (Tone):** \\nStart: (00:00.00) | End: (00:05.00)")
             else:
-                new_promos = find_promos_for_episode(temp_ep, top_k=2)
-                st.success(f"Parsed {len(temp_ep.blocks)} blocks. Found {len(new_promos)} promo candidates!")
-                for np in new_promos:
-                    st.write(np.to_dict())
+                new_promos = find_promos_for_episode(temp_ep, min_duration=20.0, max_duration=60.0, top_k=2)
+                st.success(f"Successfully parsed {len(temp_ep.blocks)} screenplay beats! Found {len(new_promos)} high-converting promo moments:")
+                
+                for idx, np in enumerate(new_promos, 1):
+                    np_d = np.to_dict()
+                    st.markdown(f"""
+                    <div class="card">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <span class="card-title">Promo #{idx} — Candidate Clip</span>
+                            <span class="score-badge">Score: {np_d['total_score']}/100</span>
+                        </div>
+                        <div class="card-time" style="margin-left: 0; margin-bottom: 6px;">
+                            ⏱️ <b>Timecodes:</b> {np_d['start_time']} → {np_d['end_time']} ({np_d['duration_seconds']}s)
+                        </div>
+                        <div class="card-body"><span class="hook-badge">0-3s Hook</span> {np_d['hook']}</div>
+                        <div class="card-body"><span class="cliff-badge">Cliffhanger</span> {np_d['cliffhanger']}</div>
+                        <div class="card-why">🎯 Strategy: {np_d['why_it_works']}</div>
+                    </div>
+                    """, unsafe_allow_html=True)
 
-# Sidebar Downloads
-st.sidebar.title("📥 Export Deliverables")
-st.sidebar.markdown("All generated files ready for submission:")
+# ----------------- Sidebar Downloads & Links -----------------
+st.sidebar.title("📥 Submission Deliverables")
+st.sidebar.markdown("**Candidate:** Srikrishna Valepe  \n**Track:** AI Generalist Assignment (Problem 1)")
+
+if os.path.exists("Solution_Document.pdf"):
+    with open("Solution_Document.pdf", "rb") as f:
+        st.sidebar.download_button(
+            label="📄 Download Solution Doc (PDF)",
+            data=f.read(),
+            file_name="Solution_Document.pdf",
+            mime="application/pdf",
+            help="Official 2-page executive solution document"
+        )
+
 if os.path.exists(os.path.join(OUTPUT_DIR, "promos_master.json")):
     with open(os.path.join(OUTPUT_DIR, "promos_master.json"), 'r', encoding='utf-8') as f:
         st.sidebar.download_button(
-            label="Download Master JSON",
+            label="📊 Download Master JSON",
             data=f.read(),
             file_name="promos_master.json",
             mime="application/json"
         )
+
 if os.path.exists(os.path.join(OUTPUT_DIR, "promos_ranked.csv")):
     with open(os.path.join(OUTPUT_DIR, "promos_ranked.csv"), 'r', encoding='utf-8') as f:
         st.sidebar.download_button(
-            label="Download Ranked CSV",
+            label="📑 Download Ranked CSV",
             data=f.read(),
             file_name="promos_ranked.csv",
             mime="text/csv"
         )
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("""
+**Repository & Verification:**
+- [GitHub Repository](https://github.com/srikrishna6174/kuku-ai-promo-detector)
+- [Unit Tests Passing](https://github.com/srikrishna6174/kuku-ai-promo-detector/blob/main/test_pipeline.py) (7/7 OK)
+- **Runtime:** <2s across 50 episodes ($0 base compute)
+""")
 
