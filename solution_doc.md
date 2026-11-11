@@ -4,26 +4,34 @@
 
 ---
 
-## 1. Problem Choice, Strategic Context & Framing
+## 1. Problem Choice, Tech Stack & Framing
 
 ### Why Problem 1?
-Microdramas are a high-velocity, organic acquisition format. The bottleneck for user acquisition (UA) on TikTok, Instagram Reels, and YouTube Shorts is manual video clipping: human editors spend hours per season scrubbing timelines to find 20–60s hooks. Automating this directly impacts top-of-funnel customer acquisition cost (CAC), publishing speed, and organic viral reach.
+Microdramas are a high-velocity vertical video format where editors manually scrub episode timelines to extract 20–60s social hooks for TikTok, Instagram Reels, and YouTube Shorts. Automating promo scouting turns raw screenplays directly into ranked, ready-to-use timestamp cut sheets.
+
+### Tech Stack
+* **Application & UI:** Python 3.12, Streamlit multi-page studio (`Home`, `New Input`, `Project Library`, per-project `Promos`, `Script Explorer`, `Quality Audit`).
+* **Parsing & Detection:** Regex screenplay/subtitle parser (`.txt`, `.srt`, `.vtt`, `.zip`), sliding-window scorer, multi-segment intercut builder, and manual timestamp pin support.
+* **AI Layer:** Swappable REST adapters for **Gemini** (`gemini-3.8-flash`) and **OpenAI** (`gpt-4o-mini`) with automatic failover and LLM-as-a-Judge refinement.
+* **Exports & Testing:** Plain-text cut sheets (`.txt`/`.zip`), JSON, CSV, FFmpeg stream-copy (`-c copy`) scripts, Premiere/Resolve markers, ReportLab PDF builder, and **20/20** `unittest` suite.
 
 ### Key Scoping Assumptions:
 1. **Strict Duration Enforcement:** Clips must respect short-form algorithmic drop-off curves (optimal 25–45s; hard boundary 20–60s).
-2. **Continuous & Multi-Segment Modes:** The primary focus is on single continuous dramatic beats to preserve raw emotional momentum without jarring cuts, accompanied by automated support for high-tempo 2-beat jumpcuts (e.g., Episode 1 Doorway Confrontation + Altar Betrayal; Episode 1 Humiliation + Episode 3 Hero Rescue).
-3. **Zero-Lore Comprehension:** A top-of-funnel ad must be immediately understandable to a cold scroller within 3 seconds without knowing previous plotlines.
+2. **Continuous & Multi-Segment Modes:** Primary focus on single continuous dramatic beats, paired with automated 2-beat stitched trailers (e.g., Episode 1 Doorway Confrontation + Altar Betrayal; Episode 1 Humiliation + Episode 3 Hero Rescue).
+3. **Zero-Lore Comprehension:** A top-of-funnel ad must be understandable to a cold scroller within 3 seconds without prior plot context.
 
 ---
 
-## 2. Technical Architecture: Two-Stage Hybrid Engine
+## 2. Studio Workflow, Key Features & Architecture
 
-To balance operational cost, latency, and nuanced creative reasoning at real-world scale, we rejected a naive "feed all 50 scripts into a closed LLM" approach. Instead, we architected a **Two-Stage Hybrid Pipeline**:
+1. **Create & Manage Projects:** Upload single/batch files or `.zip` archives in **New Input**, or rename/delete/switch projects (along with all their promos) inside **Project Library**.
+2. **Per-Project Workspaces:** **Promos**, **Script Explorer**, and **Quality Audit** each scope directly to the active project via an inline project switcher.
+3. **Flexible Detection & Manual Pinning:** Start offline with rule-based extraction or with Gemini/OpenAI; later, inside **Promos**, request AI refinement, add rule-based cuts, or **Pin a Manual Timestamp Cut** cleanly in collapsible promo-type sections.
 
 | Component | Deterministic Code / Simple Rules | Generative AI / LLM Layer |
 | :--- | :--- | :--- |
-| **Responsibilities** | • Screenplay parsing (`.txt`, `.srt`, `.vtt`, `.zip`) & regex extraction of millisecond timestamps.<br/>• Sliding window generation (20s–60s constraints, +0.75s reaction buffer).<br/>• Anchor detection: Dialogue starts, high-intensity tones (Cold, Furious, Desperate), confrontation keywords.<br/>• Mathematical scoring of 0–3s hook & final cliffhanger. | • Semantic tension assessment & context check.<br/>• Generates punchy social-media rationale ("Why it works") & LLM-as-a-Judge refinement.<br/>• Clickbait hook/cliffhanger framing & marketing angle identification.<br/>• Swappable API adapter (`Gemini` & `OpenAI` with automatic failover). |
-| **Cost & Scale** | **$0.00 base cost**; runs in <2.0s across 50 episodes on standard CPU. | Only evaluates top filtered candidate windows (~2–4/ep) or selected episodes. Cost: **~$0.008 per show**. |
+| **Responsibilities** | • Screenplay parsing (`.txt`, `.srt`, `.vtt`, `.zip`) & regex extraction of millisecond timestamps.<br/>• Sliding window generation (20s–60s constraints, +0.75s reaction buffer).<br/>• Anchor detection: Dialogue starts, high-intensity tones (Cold, Furious, Desperate), confrontation keywords.<br/>• Mathematical scoring of 0–3s hook & final cliffhanger. | • Semantic tension assessment & context check.<br/>• Generates punchy social-media rationale ("Why it works") & LLM-as-a-Judge refinement.<br/>• Hook/cliffhanger framing & marketing tier identification.<br/>• Swappable API adapter (`Gemini` & `OpenAI` with automatic failover). |
+| **Throughput & Scope** | Offline-capable on CPU; scans 50 episodes cleanly in <2.0s. | Evaluates filtered top candidate windows (~2–4/ep) or selected episodes only. |
 
 ---
 
@@ -70,13 +78,12 @@ We ran an automated quality audit (`src/quality_checker.py`) across all 100 extr
 
 ---
 
-## 7. Production Scaling, Cost Analysis & Deliverables (Moments Only — No Overlays/Editing)
+## 7. Production Workflow, Scaling & Deliverables (Moments Only — No Overlays/Editing)
 
-* **Cost at Scale:** Processing 20 new shows/week (1,000 episodes) using our hybrid approach costs **under $0.16/week** in API calls ($0 on base tier) and takes under 45 seconds of compute.
-* **Human-in-the-Loop Workflow:** The tool acts as an AI Copilot for video editors—finding the exact promo start/end moments and manual cut pins without adding overlays, music, or baked video edits—reducing promo scouting from 4 hours to 10 minutes.
+* **Scaling & Human-in-the-Loop Workflow:** Deterministic rule filtering scans 1,000+ episodes in under 45 seconds on standard CPU and dispatches only top filtered windows to LLMs; editors review ranked 20–60s cuts per project, pin manual timestamp adjustments, and export timestamped cut sheets without adding overlays, music, or baked video edits.
 * **Deliverables Provided:**
-  1. *Per-Project Streamlit Web App* (`Home`, `New Input`, `Project Library`, `Promos`, `Script Explorer`, `Quality Audit`) with live unseen-script upload and `.txt` promo cut sheets.
-  2. *Unedited `outputs/` pack*: `promos_master.json`, `promos_ranked.csv`, and `quality_audit_and_failures.json` covering all 50 episodes.
-  3. *Post-production cut exports*: FFmpeg cut scripts (`cut_promos.sh` / `.bat`) and timeline markers (`premiere_markers.csv`).
+  1. *Per-Project Streamlit Web Studio* (`Home`, `New Input`, `Project Library`, `Promos`, `Script Explorer`, `Quality Audit`) with live unseen-script upload and `.txt`/`.zip` cut sheets.
+  2. *Unedited `outputs/` pack*: `promos_master.json`, `promos_ranked.csv`, `promos_report.txt`, and `quality_audit_and_failures.json` covering all 50 episodes.
+  3. *Post-production cut exports*: FFmpeg stream-copy scripts (`cut_promos.sh` / `.bat`) and timeline markers (`premiere_markers.csv`).
   4. *GitHub Repository* with 1-command reproducibility and **20/20** automated unit tests (`test_pipeline.py` & `test_universal_and_multi_llm.py`).
 

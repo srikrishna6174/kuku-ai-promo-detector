@@ -97,21 +97,19 @@ def build_solution_pdf(output_filename="Solution_Document.pdf"):
     story.append(Spacer(1, 6))
 
     # Section 1
-    story.append(Paragraph("1. Problem Choice, Strategic Context & Framing", h1_style))
+    story.append(Paragraph("1. Problem Choice, Tech Stack & Framing", h1_style))
     story.append(Paragraph(
-        "<b>Why Problem 1?</b> Microdramas are a high-velocity, acquisition-driven format. The bottleneck for organic and paid growth on TikTok, Instagram Reels, and YouTube Shorts is manual video clipping: human editors spend hours per season scrubbing timelines to find 20–60s hooks. Automating this directly impacts top-of-funnel customer acquisition cost (CAC) and throughput.<br/>"
-        "<b>Key Assumptions Made:</b><br/>"
-        "• <i>Strict Duration Enforcement:</i> Clips must respect platform drop-off curves (optimal 25–45s; hard range 20–60s).<br/>"
-        "• <i>Continuous & Multi-Segment Modes:</i> Primary focus on single continuous beats for natural momentum, with automated support for high-tempo 2-beat jumpcuts (e.g., Ep 1 Doorway Confrontation + Altar Betrayal; Ep 1 Humiliation + Ep 3 Hero Rescue).<br/>"
-        "• <i>Zero-Lore Comprehension:</i> A top-of-funnel ad must be understandable to a cold scroller within 3 seconds without knowing previous plotlines.",
+        "<b>Why Problem 1?</b> Microdramas are a high-velocity vertical video format where editors manually scrub full episode timelines to extract 20–60s social hooks for Instagram Reels, TikTok, and YouTube Shorts. Our tool automates promo scouting from raw screenplays into ready-to-use timestamp cut sheets.<br/>"
+        "<b>Tech Stack:</b> Python 3.12, Streamlit multi-page studio, multi-format screenplay parser (<i>.txt/.srt/.vtt/.zip</i>), deterministic hook/cliffhanger scorer, swappable REST adapters (<b>Gemini</b> &amp; <b>OpenAI</b> with LLM-as-a-Judge &amp; auto failover), ReportLab, and a 20-test <i>unittest</i> suite.<br/>"
+        "<b>Key Assumptions:</b> Strict 20–60s duration bounds (optimal 25–45s), single continuous + 2-beat multi-segment intercut support, and zero-lore standalone hooks readable within 3 seconds.",
         body_style
     ))
-    story.append(Spacer(1, 6))
+    story.append(Spacer(1, 5))
 
     # Section 2
-    story.append(Paragraph("2. Technical Architecture: Two-Stage Hybrid Engine", h1_style))
+    story.append(Paragraph("2. Studio Workflow, Key Features & Architecture", h1_style))
     story.append(Paragraph(
-        "To balance operational cost, latency, and nuanced creative reasoning at real-world scale, we rejected a naive 'throw all 50 scripts at a closed LLM' approach. Instead, we architected a <b>Two-Stage Hybrid Pipeline</b>:",
+        "<b>End-to-End Workflow:</b> (1) <i>Home</i> launches <b>Add New Project</b> or <b>Project Library</b>; (2) <i>New Input</i> ingests multi-format scripts via rules, AI, or Hybrid mode; (3) Per-project views (<i>Promos</i>, <i>Script Explorer</i>, <i>Quality Audit</i>) inspect results for one project at a time with inline switching, collapsible sections per promo type, <b>Pin a Manual Timestamp Cut</b>, on-demand AI/rule passes, and <i>.txt/.zip</i> downloads:",
         body_style
     ))
 
@@ -125,12 +123,12 @@ def build_solution_pdf(output_filename="Solution_Document.pdf"):
         [
             Paragraph("<b>Responsibilities</b>", body_style),
             Paragraph("• Screenplay parsing (.txt, .srt, .vtt, .zip) &amp; regex timestamp extraction.<br/>• Sliding window generation (20s–60s constraints, +0.75s reaction buffer).<br/>• Anchor detection: Dialogue starts, high-intensity tones, confrontation verbs.<br/>• Mathematical scoring of 0–3s hook &amp; final cliffhanger.", body_style),
-            Paragraph("• Semantic tension assessment, hook/cliffhanger summaries &amp; 'Why it works'.<br/>• LLM-as-a-Judge pass &amp; auto failover on outage/rate limit.<br/>• Swappable provider adapter (default: Gemini &amp; OpenAI; zero lock-in to add stronger APIs).", body_style)
+            Paragraph("• Semantic tension assessment, hook/cliffhanger summaries &amp; 'Why it works'.<br/>• LLM-as-a-Judge pass &amp; auto failover on outage/rate limit.<br/>• Swappable provider adapter (Gemini &amp; OpenAI; easy to plug in any model API).", body_style)
         ],
         [
-            Paragraph("<b>Cost & Scale</b>", body_style),
-            Paragraph("<b>$0.00 base cost</b>; runs in &lt;2.0s across 50 episodes on standard CPU.", body_style),
-            Paragraph("Only evaluates top filtered candidate windows (~2–4/ep) or selected episodes. Cost: <b>~$0.008 per show</b>.", body_style)
+            Paragraph("<b>Throughput &amp; Scope</b>", body_style),
+            Paragraph("Offline-capable on CPU; scans 50 episodes cleanly in &lt;2.0s.", body_style),
+            Paragraph("Evaluates filtered top candidate windows (~2–4/ep) or chosen episodes only.", body_style)
         ]
     ]
     t_arch = Table(arch_table_data, colWidths=[1.1*inch, 3.4*inch, 2.7*inch])
@@ -218,10 +216,10 @@ def build_solution_pdf(output_filename="Solution_Document.pdf"):
     story.append(Spacer(1, 4))
 
     # Section 7
-    story.append(Paragraph("7. Production Scaling, Cost & Deliverables (Moments Only — No Overlays/Editing)", h1_style))
+    story.append(Paragraph("7. Production Workflow, Scaling & Deliverables (Moments Only — No Overlays/Editing)", h1_style))
     story.append(Paragraph(
-        "• <b>Scale &amp; Cost:</b> Processing 20 new shows/week (1,000 episodes) costs &lt;$0.16/week ($0 rules tier) in &lt;45s compute; editors receive ranked 20–60s cut sheets and manual timestamp pinning without unwanted overlays or edits.<br/>"
-        "• <b>Deliverables:</b> (1) Per-project <i>Streamlit Promo Studio</i> for unseen scripts during live testing; (2) Unedited <i>outputs/</i> pack (<i>promos_master.json</i>, <i>promos_ranked.csv</i>, <i>quality_audit_and_failures.json</i>, .txt cut sheets &amp; markers); (3) 20/20 verified unit tests.",
+        "• <b>Scaling &amp; Human-in-the-Loop Workflow:</b> Rule filtering processes 1,000+ episodes in under 45 seconds on standard CPU and dispatches only top candidate windows to LLMs; editors review ranked 20–60s cuts per project, pin manual adjustments, and export timestamped cut sheets without baked video overlays or music.<br/>"
+        "• <b>Deliverables:</b> (1) Per-project <i>Streamlit Promo Studio</i> for unseen scripts during live testing; (2) Unedited <i>outputs/</i> pack (<i>promos_master.json</i>, <i>promos_ranked.csv</i>, <i>promos_report.txt</i>, <i>quality_audit_and_failures.json</i>, stream-copy scripts &amp; markers); (3) 20/20 verified unit tests.",
         body_style
     ))
 
