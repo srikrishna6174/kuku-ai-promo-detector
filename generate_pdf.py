@@ -109,7 +109,7 @@ def build_solution_pdf(output_filename="Solution_Document.pdf"):
     # Section 2
     story.append(Paragraph("2. Studio Workflow, Key Features & Architecture", h1_style))
     story.append(Paragraph(
-        "<b>End-to-End Workflow:</b> (1) <i>Home</i> launches <b>Add New Project</b> or <b>Project Library</b>; (2) <i>New Input</i> ingests multi-format scripts via rules, AI, or Hybrid mode; (3) Per-project views (<i>Promos</i>, <i>Script Explorer</i>, <i>Quality Audit</i>) inspect results for one project at a time with inline switching, collapsible sections per promo type, <b>Pin a Manual Timestamp Cut</b>, on-demand AI/rule passes, and <i>.txt/.zip</i> downloads:",
+        "<b>End-to-End Workflow:</b> (1) <i>Home</i> launches <b>Add New Project</b> or <b>Project Library</b>; (2) <i>New Input</i> configures AI/rules/Hybrid detection while creating the project; (3) Per-project views (<i>Promos</i>, <i>Script Explorer</i>, <i>Quality Audit</i>) inspect results per project with collapsible sections per promo type, <b>Pin a Manual Timestamp Cut</b>, and <i>.txt/.zip</i> downloads:",
         body_style
     ))
 

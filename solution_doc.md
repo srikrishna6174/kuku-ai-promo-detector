@@ -26,7 +26,7 @@ Microdramas are a high-velocity vertical video format where editors manually scr
 
 1. **Create & Manage Projects:** Upload single/batch files or `.zip` archives in **New Input**, or rename/delete/switch projects (along with all their promos) inside **Project Library**.
 2. **Per-Project Workspaces:** **Promos**, **Script Explorer**, and **Quality Audit** each scope directly to the active project via an inline project switcher.
-3. **Flexible Detection & Manual Pinning:** Start offline with rule-based extraction or with Gemini/OpenAI; later, inside **Promos**, request AI refinement, add rule-based cuts, or **Pin a Manual Timestamp Cut** cleanly in collapsible promo-type sections.
+3. **Flexible Detection & Manual Pinning:** Choose rule-based extraction, Gemini/OpenAI AI detection, or Hybrid mode while creating the project in **New Input**; afterwards inside **Promos**, inspect clips in collapsible promo-type sections, add rule-based cuts, or **Pin a Manual Timestamp Cut**.
 
 | Component | Deterministic Code / Simple Rules | Generative AI / LLM Layer |
 | :--- | :--- | :--- |

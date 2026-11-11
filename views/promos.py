@@ -5,7 +5,6 @@ import streamlit as st
 from src.input_manager import (
     add_rule_based_promos_to_bundle,
     build_promos_txt_zip,
-    enhance_bundle_with_ai,
     format_stitched_promo_txt,
     pin_manual_cut_any_bundle,
 )
@@ -13,7 +12,6 @@ from src.parser import parse_time_str
 from views.ui_shared import (
     navigate_to,
     render_active_header,
-    render_ai_provider_controls,
     render_promo_card,
     resolve_active_bundle,
     select_kw,
@@ -348,7 +346,7 @@ def render_promos_page():
                         default_expanded=True,
                     )
 
-    # ---- Secondary Project Enhancements (AI Generation + Manual Cut) ----
+    # ---- Secondary Project Enhancements (Manual Cut + Rule-Based Fallback) ----
     has_episode_sources = bool(active_bundle.get("episodes") or active_bundle.get("ep_files"))
     if has_episode_sources:
         bundle_key = active_bundle["id"]
@@ -359,106 +357,6 @@ def render_promos_page():
         )
 
         st.markdown("<div style='height: 0.45rem;'></div>", unsafe_allow_html=True)
-        with st.expander("Request AI-Generated Promos (Gemini / OpenAI)", expanded=False):
-            st.caption(
-                "Run AI promo generation or LLM-as-a-Judge refinement directly on this project without re-uploading scripts."
-            )
-            if active_bundle.get("is_builtin"):
-                st.caption("Running AI on the built-in benchmark creates an AI-enhanced project copy so the baseline stays intact.")
-
-            scope_opts = (
-                ["All Episodes"]
-                if len(ep_nums) <= 3
-                else ["Pilots (Episodes 1–3)", "Top 5 Scoring Episodes", "Specific Episode", "All Episodes"]
-            )
-            ai_c1, ai_c2, ai_c3 = st.columns([1.3, 1.3, 0.9])
-            with ai_c1:
-                ai_scope = st.selectbox(
-                    "Target episodes",
-                    scope_opts,
-                    key=f"pr_ai_scope_{bundle_key}",
-                    **select_kw(),
-                )
-            with ai_c2:
-                ai_action = st.selectbox(
-                    "AI action",
-                    [
-                        "Add AI Promos + Keep Existing",
-                        "Run AI Judge on Existing Promos",
-                        "Replace Selected Episodes with AI",
-                    ],
-                    key=f"pr_ai_act_{bundle_key}",
-                    **select_kw(),
-                )
-            with ai_c3:
-                if ai_scope == "Specific Episode":
-                    picked_ep = st.selectbox(
-                        "Episode #",
-                        ep_nums,
-                        format_func=lambda x: f"Episode {x}",
-                        key=f"pr_ai_ep_{bundle_key}",
-                        **select_kw(),
-                    )
-                else:
-                    picked_ep = ep_nums[0] if ep_nums else 1
-
-            llm_providers, use_judge, judge_provider_name, run_all_active_llms = render_ai_provider_controls(
-                key_prefix=f"pr_ai_{bundle_key}",
-                default_single_judge=True,
-            )
-
-            if st.button("Generate AI Promos", type="primary", key=f"pr_ai_go_{bundle_key}"):
-                if not llm_providers:
-                    st.error("Please enable Gemini or OpenAI (or provide a session API key) first.")
-                else:
-                    if ai_scope == "Specific Episode":
-                        target_eps = [int(picked_ep)]
-                    elif ai_scope == "Pilots (Episodes 1–3)":
-                        target_eps = [e for e in ep_nums if e in (1, 2, 3)] or ep_nums[:3]
-                    elif ai_scope == "Top 5 Scoring Episodes":
-                        seen_top = []
-                        for p in promos_master:
-                            ep_i = int(p.get("episode", 1))
-                            if ep_i not in seen_top:
-                                seen_top.append(ep_i)
-                            if len(seen_top) >= 5:
-                                break
-                        target_eps = seen_top or ep_nums[:5]
-                    else:
-                        target_eps = ep_nums
-
-                    act_code = (
-                        "judge_only"
-                        if ai_action.startswith("Run AI Judge")
-                        else ("replace" if ai_action.startswith("Replace") else "merge")
-                    )
-
-                    prog = st.progress(0.0, text="Starting AI promo analysis...")
-                    try:
-                        def _on_prog(done: int, total: int, ep_n: int):
-                            prog.progress(min(1.0, done / max(1, total)), text=f"Analyzing Episode {ep_n} ({done}/{total})...")
-
-                        updated_bundle, tel = enhance_bundle_with_ai(
-                            bundle=active_bundle,
-                            llm_providers=llm_providers,
-                            target_episodes=target_eps,
-                            action=act_code,
-                            use_judge=use_judge,
-                            judge_provider_name=judge_provider_name,
-                            run_all_active_llms=run_all_active_llms,
-                            progress_cb=_on_prog,
-                        )
-                        prog.empty()
-                        if not updated_bundle.get("is_saved") and not updated_bundle.get("is_builtin"):
-                            st.session_state["unsaved_inputs"][updated_bundle["id"]] = updated_bundle
-                        st.session_state["active_input_id"] = updated_bundle["id"]
-                        for sec_k in ("manual_cut", "ai", "rule"):
-                            st.session_state[f"pg_{updated_bundle['id']}_{sec_k}"] = 1
-                        st.rerun()
-                    except Exception as exc:
-                        prog.empty()
-                        st.error(f"AI promo generation failed: {exc}")
-
         has_rule_promos = any(_classify_promo_type(p) == "rule" for p in promos_master)
         if not has_rule_promos:
             with st.expander("Request Rule-Based Promos (Fast, Offline)", expanded=False):

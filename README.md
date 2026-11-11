@@ -32,7 +32,7 @@ Microdrama ads drive user acquisition by converting cold scrollers into app down
 * **Home:** Simple launcher with quick **Add New Project** & **Project Library** cards plus an inline active project switcher for its workspaces.
 * **New Input:** Upload single/multiple scripts or season `.zip` archives, or paste dialogue directly; run offline **Rule-Based Cuts**, **Gemini** (`gemini-3.8-flash`), **OpenAI** (`gpt-4o-mini`), or **Hybrid + LLM-as-a-Judge** with automatic failover.
 * **Project Library:** Switch between projects, rename via the inline edit icon, or delete projects along with all of their promos.
-* **Promos:** Per-project view featuring **Stitched Multi-Segment Trailers**, collapsible sections grouped by promo type (`Manual Timestamp Cuts`, `AI-Generated & Enhanced Promos`, `Rule-Based Promos` with 10/page navigation), on-demand **Request AI / Rule-Based Promos**, **Pin a Manual Timestamp Cut**, and one-click `.txt` cut-sheet downloads (single promo or full `.zip`).
+* **Promos:** Per-project view featuring **Stitched Multi-Segment Trailers**, collapsible sections grouped by promo type (`Manual Timestamp Cuts`, `AI-Generated & Enhanced Promos`, `Rule-Based Promos` with 10/page navigation), **Pin a Manual Timestamp Cut**, rule-based additions for AI-first projects, and one-click `.txt` cut-sheet downloads (single promo or full `.zip`).
 * **Script Explorer:** Read any episode beat-by-beat with detected promo time windows highlighted inline.
 * **Quality Audit:** Automated failure-mode inspection (premature cut buffers, off-target peripheral cast, exposition overload, visual-only ambiguity).
 

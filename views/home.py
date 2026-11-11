@@ -95,7 +95,7 @@ def render_home_page():
             "step": "03 · Promos",
             "step_cls": "hub-step-2",
             "title": "Detected Promos",
-            "desc": "Browse promos grouped by type, inspect intercut trailers, add AI or manual cuts, and download .txt sheets.",
+            "desc": "Browse promos grouped by type, inspect intercut trailers, add manual cuts, and download .txt sheets.",
             "meta": f"{promos_count} promos · {stitched_count} intercuts",
             "btn_label": f"View Promos ({promos_count})",
             "icon": ":material/movie:",
