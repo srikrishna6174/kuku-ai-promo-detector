@@ -1,0 +1,36 @@
+========================================================================
+PROMO RANK #43  |  Score: 81.1/100  |  Duration: 22.8s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 32
+Intercut         : No — Single Continuous Cut (Episode 32)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 7.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 32 | 01:59.60 -> 02:22.40 (22.8s)
+
+0-3s Hook        : CATHERINE: "Silence! Silence!" (Hysterical, Screaming)
+Cliffhanger Cut  : Cuts on: Medium shot of Catherine gripping the glowing tongs as Juliana continues speaking over her.
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:59.60 - 02:01.80] CATHERINE (Hysterical, Screaming): "Silence! Silence!"
+  [02:01.80 - 02:02.80] CATHERINE (Shrieking): "Why?!"
+  [02:01.80 - 02:03.00] [CAMERA] Close-up of Catherine's crazed, gasping face.
+  [02:02.80 - 02:05.00] [CAMERA] Close-up of Juliana crying out her defiance.
+  [02:03.00 - 02:05.20] JULIANA (Forceful): "Because I am right!"
+  [02:05.00 - 02:08.50] [CAMERA] Low-angle tracking shot of the red-hot branding tip trailing across the wet dungeon floor, steaming.
+  [02:05.40 - 02:08.80] JULIANA (Scathing, Direct): "You want everyone to believe you are powerful."
+  [02:08.50 - 02:11.80] [CAMERA] Medium shot of Juliana sitting under the cold skylight bars, her posture majestic despite her imprisonment.
+  [02:09.00 - 02:11.60] JULIANA (Continuing): "You want everyone to fear you."
+  [02:11.80 - 02:14.80] [CAMERA] Medium shot of Juliana looking directly at Catherine, gestures restrained by the heavy iron chains.
+  [02:12.00 - 02:14.00] JULIANA (Mocking, Direct): "But look at you."
+  [02:14.80 - 02:18.50] [CAMERA] Close-up of Juliana, her eyes burning with fiery contempt.
+  [02:15.00 - 02:18.60] JULIANA (Stripping Her Bare): "You have to threaten a chained woman to feel powerful!"
+  [02:18.50 - 02:20.40] [CAMERA] Close-up of Catherine trembling with uncontrollable rage, teeth bared.
+  [02:18.60 - 02:20.20] CATHERINE (Choking with Rage): "You insolent—!"
+  [02:20.40 - 02:22.30] JULIANA (Steely, Triumphant): "You may have the title you have always wanted..."
+  [02:20.40 - 02:22.40] [CAMERA] Medium shot of Catherine gripping the glowing tongs as Juliana continues speaking over her.

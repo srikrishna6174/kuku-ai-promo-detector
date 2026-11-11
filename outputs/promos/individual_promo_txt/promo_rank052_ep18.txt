@@ -1,0 +1,33 @@
+========================================================================
+PROMO RANK #52  |  Score: 74.5/100  |  Duration: 40.2s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 18
+Intercut         : No — Single Continuous Cut (Episode 18)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 18 | 01:43.80 -> 02:24.00 (40.2s)
+
+0-3s Hook        : JULIANA: "The window!" (Urgent, Shouting)
+Cliffhanger Cut  : Cuts on: Alexander kneels beside her in the grass, resting a steady, protective hand on her back.
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:43.80 - 01:45.00] JULIANA (Urgent, Shouting): "The window!"
+  [01:45.20 - 01:46.80] ALEXANDER (Steely, Determined): "Hold on to me."
+  [01:46.80 - 01:49.50] [CAMERA] Medium close-up of Alexander gritting his teeth, holding Juliana securely as she buries her face into his neck.
+  [01:49.50 - 01:54.00] [CAMERA] Slow-motion shot as Alexander sprints through the burning room toward the framed glass window.
+  [01:51.50 - 01:55.50] [ACTION] Alexander leaps forward, using his shoulder and back to shatter through the burning window frame, carrying Juliana safely in his arms out into the night.
+  [01:52.00 - 01:55.50] [SOUND FX] Loud explosion of shattering window glass and splintering wood.
+  [01:55.50 - 01:59.80] [CAMERA] Wide interior shot as the entire parlor collapses into an uncontrollable inferno of roaring flames.
+  [01:59.80 - 02:04.00] [CAMERA] Night exterior shot in the dark grass outside. Juliana sits over Alexander, brushing ashes from his face as he coughs and catches his breath.
+  [02:04.00 - 02:08.50] [CAMERA] Wide shot of villagers running toward the cottage carrying wooden water buckets through the smoke-filled darkness.
+  [02:08.50 - 02:14.50] [CAMERA] Close-up of Juliana kneeling in the mud, her face blackened with soot and tears streaming down her cheeks as she clutches the charred ledger.
+  [02:14.50 - 02:20.00] [CAMERA] Wide shot of the cottage completely consumed by towering flames against the dark night sky.
+  [02:16.20 - 02:18.00] JULIANA (Sobbing, Heartbroken): "Our home..."
+  [02:19.80 - 02:22.50] JULIANA (Crying, Shattered): "Everything we had is gone."
+  [02:20.50 - 02:24.00] [ACTION] Alexander kneels beside her in the grass, resting a steady, protective hand on her back.

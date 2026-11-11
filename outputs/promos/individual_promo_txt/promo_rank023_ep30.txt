@@ -1,0 +1,29 @@
+========================================================================
+PROMO RANK #23  |  Score: 85.8/100  |  Duration: 24.5s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 30
+Intercut         : No — Single Continuous Cut (Episode 30)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.2/10 | Cliffhanger 9.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 30 | 00:08.80 -> 00:33.30 (24.5s)
+
+0-3s Hook        : ELDER NOBLEMAN: "You have a rat in your cellar, Rupert. And the servants are beginning to smell it." (Cold, Accusatory)
+Cliffhanger Cut  : Cuts on RUPERT: "If she speaks..."
+Why It Works     : Explosive confrontation with rapid dialogue and an unanswered ultimatum that drives high click-through.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:08.80 - 00:13.30] ELDER NOBLEMAN (Cold, Accusatory): "You have a rat in your cellar, Rupert. And the servants are beginning to smell it."
+  [00:13.50 - 00:16.90] [CAMERA] Close-up of Rupert defensive and agitated.
+  [00:13.60 - 00:16.80] RUPERT (Defensive, Anxious): "The Ashcroft girl is locked tight. Nobody knows she is down there."
+  [00:16.90 - 00:26.00] [CAMERA] Medium close-up of the Elder Nobleman fixing Rupert with a piercing, contemptuous glare.
+  [00:17.30 - 00:25.80] ELDER NOBLEMAN (Stern, Disapproving): "The kitchen maids are whispering. They see the soup bowls returned unwiped. They see your guards outside the lower grates."
+  [00:26.00 - 00:29.80] [CAMERA] Medium shot of Rupert looking down, nervously pulling at his black leather gloves as dread creeps over his face.
+  [00:26.50 - 00:29.20] RUPERT (Muttered, Paranoid): "She knows the Duchess was poisoned."
+  [00:29.80 - 00:32.00] [CAMERA] Tight close-up on the Elder Nobleman's unyielding eyes narrowing in cold calculation.
+  [00:32.00 - 00:33.40] [CAMERA] Tight close-up of Rupert swallows hard, breathless with dread.
+  [00:32.10 - 00:33.30] RUPERT (Fearful): "If she speaks..."

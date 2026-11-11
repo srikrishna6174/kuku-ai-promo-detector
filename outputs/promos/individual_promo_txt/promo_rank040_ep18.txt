@@ -1,0 +1,27 @@
+========================================================================
+PROMO RANK #40  |  Score: 76.2/100  |  Duration: 34.0s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 18
+Intercut         : No — Single Continuous Cut (Episode 18)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 7.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 18 | 02:38.00 -> 03:12.00 (34.0s)
+
+0-3s Hook        : ALEXANDER: "Someone wanted us out." (Cold, Ominous)
+Cliffhanger Cut  : Cuts on: Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [02:38.00 - 02:40.80] ALEXANDER (Cold, Ominous): "Someone wanted us out."
+  [02:43.00 - 02:45.50] JULIANA (Despairing, Weeping): "We have nowhere to go."
+  [02:45.50 - 02:51.00] [CAMERA] Slow push-in on Alexander's face over Juliana's shoulder. His expression hardens into a mask of pure, lethal fury.
+  [02:51.00 - 02:59.50] [CAMERA] Extreme close-up of Alexander's piercing eyes and combat scar bathed in the flickering orange glow of the fire.
+  [02:51.80 - 02:57.20] ALEXANDER (Cold Fury, Resolute): "They took our home. I will not let them take anything else now."
+  [02:59.50 - 03:04.00] [ACTION] Juliana slowly pulls back slightly from his embrace, her tear-filled blue eyes looking up into his hardened features.
+  [03:04.20 - 03:06.50] JULIANA (Trembling, Apprehensive): "What are you going to do?"
+  [03:06.50 - 03:12.00] [CAMERA] Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black.

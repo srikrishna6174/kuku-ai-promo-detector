@@ -1,0 +1,42 @@
+========================================================================
+PROMO RANK #29  |  Score: 79.3/100  |  Duration: 27.4s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 11
+Intercut         : No — Single Continuous Cut (Episode 11)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 11 | 00:20.90 -> 00:48.30 (27.4s)
+
+0-3s Hook        : GERALD: "The last time I came here." (Cold, Certain)
+Cliffhanger Cut  : Cuts on GERALD: "If he has nothing to hide..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:20.90 - 00:22.30] GERALD (Cold, Certain): "The last time I came here."
+  [00:22.00 - 00:24.60] [CAMERA] Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her.
+  [00:23.00 - 00:24.80] JULIANA (Contemptuous, Outraged): "You never even entered the cottage!"
+  [00:24.60 - 00:26.90] [CAMERA] Close-up of Gerald smirking with condescending amusement.
+  [00:25.20 - 00:27.00] GERALD (Smug, Threatening): "Then you should have nothing to fear from a search."
+  [00:26.90 - 00:28.90] [CAMERA] Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle.
+  [00:27.30 - 00:29.00] JULIANA (Adamant, Protective): "Alexander would never steal from you."
+  [00:28.90 - 00:32.40] [CAMERA] Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter.
+  [00:29.30 - 00:32.80] GERALD (Mocking, Spiteful): "Of course you would defend him. You married a beggar!"
+  [00:32.40 - 00:34.90] [CAMERA] Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid.
+  [00:33.00 - 00:34.90] ALEXANDER (Low, Menacing): "Choose your next words carefully."
+  [00:34.90 - 00:37.00] [CAMERA] Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm.
+  [00:35.10 - 00:37.10] GERALD (Shouting, Dramatic): "You hear that? He threatens me again!"
+  [00:37.00 - 00:39.10] [CAMERA] Medium shot of the Constable marching into frame between them, holding his truncheon horizontally.
+  [00:37.40 - 00:39.20] CONSTABLE (Authoritative, Stern): "I have received a complaint of theft."
+  [00:39.10 - 00:41.00] [CAMERA] Extreme close-up of Juliana, defiant and resolute.
+  [00:39.70 - 00:41.10] JULIANA (Fierce): "A complaint is not proof."
+  [00:41.00 - 00:43.30] [CAMERA] Close-up of the Constable gesturing with his truncheon toward the cottage door.
+  [00:41.40 - 00:43.30] CONSTABLE (Cold, Procedural): "Then a search will settle the matter."
+  [00:43.30 - 00:46.00] [CAMERA] Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance.
+  [00:43.50 - 00:46.30] JULIANA (Desperate, Shouting): "You cannot simply invade our home because this man makes an accusation!"
+  [00:46.00 - 00:47.80] [CAMERA] Medium close-up of Gerald crossing his arms smugly.
+  [00:46.80 - 00:48.30] GERALD (Taunting): "If he has nothing to hide..."

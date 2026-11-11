@@ -1,0 +1,38 @@
+========================================================================
+PROMO RANK #75  |  Score: 76.1/100  |  Duration: 38.1s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 27
+Intercut         : No — Single Continuous Cut (Episode 27)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.4/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 27 | 00:13.40 -> 00:51.50 (38.1s)
+
+0-3s Hook        : JULIANA: "He is a soldier. A veteran from the Peninsula." (Earnest, Defending)
+Cliffhanger Cut  : Cuts on: The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine a
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:13.40 - 00:16.40] JULIANA (Earnest, Defending): "He is a soldier. A veteran from the Peninsula."
+  [00:16.80 - 00:21.60] [CAMERA] Medium two-shot as the Duchess leans forward slightly, staring at the ring between their joined hands.
+  [00:17.20 - 00:21.20] DOWAGER DUCHESS (Trembling, Revelatory): "That is no ordinary band. It bears the Ashbourne crest."
+  [00:21.60 - 00:26.10] [CAMERA] Close-up on Juliana, shaking her head in disbelief and growing confusion.
+  [00:21.80 - 00:25.80] JULIANA (Confused, Gentle): "No. He lives in a barn. He has nothing but his word."
+  [00:26.10 - 00:31.80] [CAMERA] Low-angle shot on the Duchess, tears welling in her eyes as grief and shock overtake her.
+  [00:26.60 - 00:31.40] DOWAGER DUCHESS (Emotionally Strained, Weeping): "My lost son wore that exact ring. He went to war..."
+  [00:31.80 - 00:34.90] [CAMERA] Close-up of Juliana's eyes widening in stunned revelation.
+  [00:32.10 - 00:34.80] JULIANA (Shocked, Breathless): "Your son? He told me he was only a sergeant."
+  [00:34.90 - 00:37.40] [CAMERA] Side-angle medium shot of the bed, the Duchess holding onto Juliana's forearm with fierce insistence.
+  [00:35.20 - 00:37.60] DOWAGER DUCHESS (Desperate, Clinging): "My lost son wore that ring!"
+  [00:37.40 - 00:40.40] [CAMERA] Close-up of Juliana looking down with compassionate concern.
+  [00:37.80 - 00:40.20] DOWAGER DUCHESS (O.S.) (Pleading): "Did your husband serve beside him?"
+  [00:41.00 - 00:44.20] JULIANA (Soft, Reverent): "He never spoke of his officers. He only spoke of survival."
+  [00:44.20 - 00:46.40] [CAMERA] Close-up of the Duchess gazing up at Juliana, her voice barely a whisper.
+  [00:44.50 - 00:46.40] DOWAGER DUCHESS (Hushed, Desperate): "What is your husband's name?"
+  [00:46.40 - 00:48.30] [SOUND FX] Loud, violent pounding echoes on the wooden double doors.
+  [00:46.50 - 00:48.80] [CAMERA] Juliana gasps, snapping her head toward the entrance in alarm.
+  [00:48.80 - 00:51.50] [ACTION] The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform.

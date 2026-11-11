@@ -1,0 +1,27 @@
+========================================================================
+PROMO RANK #99  |  Score: 62.6/100  |  Duration: 23.5s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 42
+Intercut         : No — Single Continuous Cut (Episode 42)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 6.2/10 | Cliffhanger 4.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 42 | 00:30.50 -> 00:54.00 (23.5s)
+
+0-3s Hook        : BLOND NOBLEMAN: "You cannot be him. Alexander died!" (Denial, Shaken)
+Cliffhanger Cut  : Cuts on: His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the 
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:30.50 - 00:33.80] BLOND NOBLEMAN (Denial, Shaken): "You cannot be him. Alexander died!"
+  [00:33.80 - 00:39.90] [CAMERA] Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave.
+  [00:34.00 - 00:39.80] ALEXANDER (Cold, Commanding): "And yet, here I stand. That is the lie you built your life upon."
+  [00:39.90 - 00:44.80] [CAMERA] Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe.
+  [00:40.20 - 00:42.50] ALEXANDER'S MOTHER (Choked with Tears): "Alexander..."
+  [00:44.80 - 00:48.00] [ACTION] Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest.
+  [00:48.00 - 00:49.00] ALEXANDER (Soft, Reverent): "Mother."
+  [00:49.00 - 00:54.00] [ACTION] His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence.

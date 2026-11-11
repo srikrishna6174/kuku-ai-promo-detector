@@ -1,0 +1,36 @@
+========================================================================
+PROMO RANK #19  |  Score: 81.1/100  |  Duration: 33.5s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 23
+Intercut         : No — Single Continuous Cut (Episode 23)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 7.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 23 | 01:19.00 -> 01:52.50 (33.5s)
+
+0-3s Hook        : LADY JULIANA: "Someone is poisoning her." (Cold, Deadly Serious)
+Cliffhanger Cut  : Cuts on: Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:19.00 - 01:21.50] LADY JULIANA (Cold, Deadly Serious): "Someone is poisoning her."
+  [01:21.50 - 01:22.50] [SOUND FX] Sharp intake of breath from Prudence.
+  [01:21.50 - 01:24.50] [CAMERA] Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror.
+  [01:22.00 - 01:24.00] PRUDENCE (Muffled, Horrified): "Poison?"
+  [01:24.50 - 01:28.00] [CAMERA] Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust.
+  [01:26.00 - 01:28.00] LADY JULIANA (Venomous, Resolute): "Arsenic."
+  [01:28.00 - 01:30.50] [SOUND FX] Sudden violent coughing and sputtering from the Duchess.
+  [01:28.00 - 01:31.00] [CAMERA] Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately.
+  [01:31.00 - 01:34.50] [CAMERA] Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles.
+  [01:34.50 - 01:37.00] PRUDENCE (Desperate, Begging): "Can you save her?"
+  [01:34.50 - 01:37.50] [CAMERA] Close-up of Prudence pleading desperately, tears flowing down her cheeks.
+  [01:37.50 - 01:40.00] LADY JULIANA (Focused, Resolute): "I can try."
+  [01:37.50 - 01:40.50] [CAMERA] Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her.
+  [01:40.50 - 01:44.50] [CAMERA] Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves.
+  [01:44.50 - 01:47.00] [CAMERA] Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar.
+  [01:44.50 - 01:52.00] [SOUND FX] Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs.
+  [01:47.00 - 01:52.50] [CAMERA] Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority.

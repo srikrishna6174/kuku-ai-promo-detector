@@ -1,0 +1,38 @@
+========================================================================
+PROMO RANK #31  |  Score: 84.1/100  |  Duration: 28.8s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 29
+Intercut         : No — Single Continuous Cut (Episode 29)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 9.4/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 29 | 00:24.80 -> 00:53.60 (28.8s)
+
+0-3s Hook        : CATHERINE: "You still call this a legacy?" (Cruel, Smug)
+Cliffhanger Cut  : Cuts on CATHERINE: "And when they find your corpse at the end of the rope..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:24.80 - 00:26.70] CATHERINE (Cruel, Smug): "You still call this a legacy?"
+  [00:26.80 - 00:28.90] [CAMERA] Close-up of Juliana held firmly between the guards, glaring back with fierce defiance.
+  [00:27.10 - 00:28.70] JULIANA (Defiant, Furious): "It is medicine!"
+  [00:28.90 - 00:31.90] [CAMERA] Medium close-up of Catherine smiling condescendingly.
+  [00:30.40 - 00:31.80] CATHERINE (Smooth, Patronizing): "Of course."
+  [00:31.90 - 00:37.30] CATHERINE (O.S.) (Disdainful, Calculating): "Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand."
+  [00:31.90 - 00:37.40] [CAMERA] Overhead close-up of Catherine's gloved fingers flipping through the herbarium's delicate, hand-drawn floral remedies and annotations.
+  [00:37.40 - 00:40.00] [CAMERA] Medium shot of Catherine tucking the book under her arm, her eyes glinting with malicious intent.
+  [00:37.70 - 00:40.00] CATHERINE (Icy, Threatening): "The magistrate will call it witchcraft."
+  [00:40.00 - 00:41.90] [CAMERA] Close-up of Juliana lunging against the guard's grip, her teeth bared in indignation.
+  [00:40.10 - 00:41.80] JULIANA (Furious, Shouted): "You know that is a lie!"
+  [00:41.90 - 00:44.30] [CAMERA] Medium shot of Catherine lifting her chin arrogantly against the stone backdrop.
+  [00:42.00 - 00:44.20] CATHERINE (Calm, Sinister): "I know exactly what I need him to believe."
+  [00:44.30 - 00:46.90] [CAMERA] Medium shot of Juliana thrashing frantically against the two guards.
+  [00:44.40 - 00:46.50] JULIANA (Screaming, Desperate): "You cannot just destroy it!"
+  [00:46.90 - 00:49.80] [CAMERA] Tight close-up of Catherine's eyes narrowing into an icy, venomous gaze.
+  [00:47.30 - 00:49.10] CATHERINE (Whispered, Malicious): "I can burn it."
+  [00:49.80 - 00:53.60] [CAMERA] Close-up of Juliana's stricken expression, her eyes widening in horror.
+  [00:50.10 - 00:53.60] CATHERINE (O.S.) (Chilling, Relentless): "And when they find your corpse at the end of the rope..."

@@ -1,0 +1,42 @@
+========================================================================
+PROMO RANK #4  |  Score: 84.1/100  |  Duration: 32.4s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 2
+Intercut         : No — Single Continuous Cut (Episode 2)
+Marketing Tier   : Tier 1: Top-of-Funnel (Cold UA) - Post First
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 9.4/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 2 | 00:00.00 -> 00:32.40 (32.4s)
+
+0-3s Hook        : Opens with THE FORMER GROOM declaring: 'I cannot marry you, Juliana.'
+Cliffhanger Cut  : Cuts off right after LADY JULIANA's unanswered confrontation: 'Father...'
+Why It Works     : High-stakes public humiliation and betrayal immediately hooks cold viewers; unresolved climax forces app download.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:00.00 - 00:02.50] THE FORMER GROOM (Cold, Callous): "I cannot marry you, Juliana."
+  [00:00.00 - 00:02.80] [CAMERA] Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating.
+  [00:02.80 - 00:04.60] [CAMERA] Medium close-up on Juliana trembling in disbelief, her hands clasped tightly to her chest.
+  [00:02.80 - 00:04.60] [ACTION] Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.
+  [00:04.60 - 00:06.60] [CAMERA] Medium shot returning to Gerald, sneering down at Juliana.
+  [00:04.70 - 00:06.50] THE FORMER GROOM (Cruel, Derisive): "You are far too plain..."
+  [00:06.60 - 00:09.50] [CAMERA] Close-up on Juliana's tear-streaked face, crushed under his biting words.
+  [00:06.80 - 00:09.50] THE FORMER GROOM (Off-screen) (Dismissive): "...far too silent..."
+  [00:09.50 - 00:12.00] [CAMERA] Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.
+  [00:09.60 - 00:12.00] THE FORMER GROOM (Arrogant, Conceited): "...and completely beneath the future I deserve."
+  [00:12.00 - 00:15.80] [CAMERA] Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a trembling hand.
+  [00:12.40 - 00:15.50] LADY JULIANA (Desperate, Pleading): "Gerald... Look at me."
+  [00:15.80 - 00:18.00] [CAMERA] Close-up on Gerald's cold, merciless face staring ahead unblinkingly.
+  [00:18.00 - 00:20.70] [CAMERA] Tight insert on Juliana's hand clutching the heirloom amethyst pendant resting against her gown.
+  [00:18.20 - 00:20.60] LADY JULIANA (Trembling, Betrayed): "You gave me your word before both our families."
+  [00:20.70 - 00:23.80] [CAMERA] Medium two-shot of Gerald and Clarissa standing side by side before the priest.
+  [00:20.90 - 00:23.70] THE FORMER GROOM (Indifferent, Unapologetic): "Promises change when a better choice appears."
+  [00:23.80 - 00:27.60] [CAMERA] Medium close-up on Juliana clutching her chest, her voice quivering with disbelief.
+  [00:24.00 - 00:27.40] LADY JULIANA (Shattered, Disbelieving): "A better choice? Is that what she is?"
+  [00:27.60 - 00:30.60] [CAMERA] Wide shot from behind Juliana looking up the altar stairs at Gerald with Clarissa linked to his arm.
+  [00:27.80 - 00:30.50] THE FORMER GROOM (Resolute, Harsh): "She is what I should have chosen from the beginning."
+  [00:30.60 - 00:32.40] [CAMERA] Medium shot of Juliana's father seated prominently in the family pew, clutching his gold-topped cane.
+  [00:30.90 - 00:32.40] LADY JULIANA (Off-screen) (Vulnerable, Begging): "Father..."

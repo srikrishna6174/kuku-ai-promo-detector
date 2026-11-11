@@ -1,0 +1,42 @@
+========================================================================
+PROMO RANK #1  |  Score: 97.0/100  |  Duration: 30.3s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 3
+Intercut         : No — Single Continuous Cut (Episode 3)
+Marketing Tier   : Tier 1: Top-of-Funnel (Cold UA) - Post First
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 10.0/10 | Cliffhanger 9.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 3 | 00:25.90 -> 00:56.20 (30.3s)
+
+0-3s Hook        : Opens with NOBLE MATRIARCH declaring: 'You have humiliated this family enough for one day.'
+Cliffhanger Cut  : Cuts off right after NOBLE MATRIARCH's unanswered confrontation: 'Your father has chosen his family...'
+Why It Works     : High-stakes public humiliation and betrayal immediately hooks cold viewers; unresolved climax forces app download.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:25.90 - 00:28.00] NOBLE MATRIARCH (Cold, Disgusted): "You have humiliated this family enough for one day."
+  [00:28.00 - 00:30.30] [CAMERA] Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep.
+  [00:30.30 - 00:35.50] [CAMERA] Medium shot on Juliana as she speaks out against her family's injustice.
+  [00:30.40 - 00:33.20] LADY JULIANA (Pained, Betrayed): "I was humiliated by your family."
+  [00:33.30 - 00:35.60] LADY JULIANA (Accusing): "And my father said nothing."
+  [00:35.50 - 00:38.20] [CAMERA] Medium close-up on the Noble Matriarch, completely unsympathetic.
+  [00:36.50 - 00:38.40] NOBLE MATRIARCH (Brutal, Dismissive): "Your father has made his choice."
+  [00:38.20 - 00:40.40] [CAMERA] Close-up on Juliana's stricken, vulnerable face.
+  [00:38.50 - 00:40.40] LADY JULIANA (Choked, Vulnerable): "And what happens to me?"
+  [00:40.40 - 00:42.00] [CAMERA] Close-up of the Noble Matriarch delivering her verdict.
+  [00:40.50 - 00:41.90] NOBLE MATRIARCH (Cold, Heartless): "You leave."
+  [00:42.00 - 00:43.30] [CAMERA] Close-up on Juliana blinking in disbelief.
+  [00:42.10 - 00:43.30] LADY JULIANA (Disbelieving): "Leave where?"
+  [00:43.30 - 00:45.90] [CAMERA] Medium shot of the Noble Matriarch looking down her nose in disdain.
+  [00:43.40 - 00:46.00] NOBLE MATRIARCH (Cruel, Scornful): "Wherever a discarded daughter belongs."
+  [00:45.90 - 00:48.80] [CAMERA] Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket.
+  [00:46.40 - 00:48.60] LADY JULIANA (Fierce, Choked): "This is my mother's church."
+  [00:48.80 - 00:51.20] [CAMERA] Close-up on Juliana's face, teeth clenched in desperate defiance.
+  [00:48.90 - 00:51.10] LADY JULIANA (Defiant, Firm): "I have every right to stand here."
+  [00:51.20 - 00:53.00] [CAMERA] Tight close-up of the Noble Matriarch leaning in with vicious delight.
+  [00:51.30 - 00:53.00] NOBLE MATRIARCH (Venomous): "Not anymore."
+  [00:53.00 - 00:56.20] [CAMERA] Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her.
+  [00:53.30 - 00:56.20] NOBLE MATRIARCH (Stern, Final): "Your father has chosen his family..."

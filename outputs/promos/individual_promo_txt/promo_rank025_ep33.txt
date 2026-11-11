@@ -1,0 +1,38 @@
+========================================================================
+PROMO RANK #25  |  Score: 85.0/100  |  Duration: 36.0s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 33
+Intercut         : No — Single Continuous Cut (Episode 33)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 9.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 33 | 00:34.00 -> 01:10.00 (36.0s)
+
+0-3s Hook        : LORD: "That is not what I asked." (Coldly Dismissive)
+Cliffhanger Cut  : Cuts on: The maid gasps in sheer terror, her chest heaving as tears stream.
+Why It Works     : Explosive confrontation with rapid dialogue and an unanswered ultimatum that drives high click-through.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:34.00 - 00:36.20] LORD (Coldly Dismissive): "That is not what I asked."
+  [00:36.50 - 00:40.20] [CAMERA] Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness.
+  [00:37.50 - 00:40.00] LORD (Accusatory): "Did she use her mother's book?"
+  [00:40.20 - 00:44.20] [CAMERA] Close-up of the maid trembling, tears spilling down her face.
+  [00:42.20 - 00:43.60] MAID (Quietly Weeping): "Yes."
+  [00:44.20 - 00:49.20] [CAMERA] Close-up of the Lord's sinister, unyielding face.
+  [00:44.80 - 00:48.80] LORD (Insistent, Cornering): "Did she prepare things no physician had prescribed?"
+  [00:49.20 - 00:52.50] [CAMERA] Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt.
+  [00:50.00 - 00:51.60] MAID (Choked Sob): "Yes."
+  [00:52.50 - 00:56.80] [CAMERA] Close-up of the Lord's mouth curling into a sinister, predatory smile.
+  [00:53.00 - 00:56.50] LORD (Sly, Sinister): "And did she perform anything unusual?"
+  [00:56.80 - 00:59.00] [CAMERA] Close-up of the maid gasping, shaking her head vigorously in panic.
+  [00:57.40 - 00:58.80] MAID (Desperate, Denying): "No!"
+  [00:59.00 - 01:01.00] LORD (Low, Menacing): "Think carefully."
+  [00:59.00 - 01:04.20] [CAMERA] Profile medium two-shot as the Lord looms inches from the maid's face.
+  [01:01.20 - 01:03.50] LORD (Ruthless): "Your brother is still a pauper."
+  [01:04.20 - 01:08.80] [CAMERA] Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality.
+  [01:04.40 - 01:08.50] LORD (Threatening): "One word from me, and the county gaol will take him before sunrise."
+  [01:08.50 - 01:10.00] [ACTION] The maid gasps in sheer terror, her chest heaving as tears stream.

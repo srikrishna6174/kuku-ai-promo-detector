@@ -1,0 +1,46 @@
+========================================================================
+PROMO RANK #51  |  Score: 74.5/100  |  Duration: 42.7s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 15
+Intercut         : No — Single Continuous Cut (Episode 15)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 15 | 00:13.00 -> 00:55.70 (42.7s)
+
+0-3s Hook        : THUG WITH CAP: "We're clearing this rubbish." (Mocking, Smug)
+Cliffhanger Cut  : Cuts on JULIANA: "My mother's plants..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:13.00 - 00:15.70] THUG WITH CAP (Mocking, Smug): "We're clearing this rubbish."
+  [00:15.80 - 00:18.80] [CAMERA] Close-up on Juliana, her face tight with anguish and fury as she clutches her bandaged hands against her chest.
+  [00:16.40 - 00:18.70] JULIANA (Furious, Pleading): "Those are medicinal plants!"
+  [00:18.80 - 00:22.50] [CAMERA] Low-angle shot tracking down from the bald thug's grinning face to his worn leather boots on the muddy flagstones.
+  [00:20.00 - 00:22.30] BALD THUG (Callous): "They look like weeds to me."
+  [00:20.50 - 00:22.50] [ACTION] The bald thug flings the bouquet into the mud and grinds his heavy boot directly onto the delicate flowers.
+  [00:22.50 - 00:26.80] [CAMERA] High-angle two-shot as Juliana rushes forward and drops directly onto her knees in the cold mud before the thug.
+  [00:22.80 - 00:26.50] [ACTION] Juliana frantically tries to scoop the crushed soil and torn stems back into the bed with her bandaged hands.
+  [00:23.20 - 00:26.30] JULIANA (Choked with Tears, Desperate): "Please! Those plants took months to grow!"
+  [00:26.80 - 00:31.50] [CAMERA] Medium two-shot of the Tall Thug with the club and the Thug with Cap bursting into raucous laughter under the full moon.
+  [00:27.50 - 00:31.20] TALL THUG (Contemptuous, Derisive): "Months? You actually spend your days growing this filth?"
+  [00:31.50 - 00:34.00] [CAMERA] Tight close-up of Juliana's bandaged hands trembling as she tenderly gathers the soiled white flowers from the puddles.
+  [00:34.00 - 00:37.00] [CAMERA] Low-angle medium shot tilting up as Juliana rises from the ground, standing tall despite her trembling frame.
+  [00:34.80 - 00:36.80] JULIANA (Defiant, Firm): "Leave my garden alone."
+  [00:37.00 - 00:40.50] [CAMERA] Medium close-up of the Thug with Cap scoffing derisively.
+  [00:37.20 - 00:40.40] THUG WITH CAP (Sneering, Disdainful): "A noble lady playing in the dirt. What a joke."
+  [00:40.50 - 00:44.20] [CAMERA] Medium close-up of Juliana, her eyes blazing with indignation and wounded pride.
+  [00:41.00 - 00:44.00] JULIANA (Resolute, Dignified): "It is my home. You have no right to destroy anything here."
+  [00:44.20 - 00:46.50] [CAMERA] Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling with venom.
+  [00:44.80 - 00:46.40] THUG WITH CAP (Menacing Snarl): "Get out of the way!"
+  [00:46.50 - 00:47.30] JULIANA (Steely, Fearless): "No."
+  [00:46.50 - 00:48.00] [CAMERA] Extreme close-up on Juliana's piercing blue eyes and set jaw, unflinching.
+  [00:47.40 - 00:49.50] [ACTION] The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.
+  [00:47.80 - 00:49.00] JULIANA (Gasping Cry): "Ah!"
+  [00:49.50 - 00:53.50] [CAMERA] Close-up tracking down to Juliana's hand hitting the mud next to the crushed chamomile flowers.
+  [00:50.00 - 00:53.50] [ACTION] Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms.
+  [00:53.50 - 00:55.70] JULIANA (Broken, Sobbing): "My mother's plants..."

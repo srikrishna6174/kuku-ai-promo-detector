@@ -1,0 +1,45 @@
+========================================================================
+PROMO RANK #44  |  Score: 81.1/100  |  Duration: 47.25s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 36
+Intercut         : No — Single Continuous Cut (Episode 36)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 7.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 36 | 02:33.50 -> 03:20.75 (47.25s)
+
+0-3s Hook        : ALEXANDER'S MOTHER: "Two days from now." (Deadly Serious)
+Cliffhanger Cut  : Cuts on: A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into sil
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [02:33.50 - 02:36.00] ALEXANDER'S MOTHER (Deadly Serious): "Two days from now."
+  [02:36.50 - 02:40.00] [CAMERA] Profile shot of Alexander as dark realization settles over his face, turning to a grim, predatory glare.
+  [02:36.80 - 02:39.80] ALEXANDER (Simmering with Fury): "They are marrying in two days..."
+  [02:40.00 - 02:43.00] [CAMERA] Tight, terrifying close-up on Alexander's eyes flashing with murderous wrath.
+  [02:40.50 - 02:43.00] ALEXANDER (Deadly, Throaty): "...and killing my wife afterward."
+  [02:43.00 - 02:47.00] [CAMERA] Medium shot as his mother urgently grabs Alexander's coat, pleading with him.
+  [02:43.20 - 02:46.80] ALEXANDER'S MOTHER (Pleading, Terrified): "Alexander, you cannot go back there alone!"
+  [02:47.00 - 02:51.00] [CAMERA] Close-up on Alexander, towering over her, immovable and consumed by purpose.
+  [02:48.50 - 02:50.80] ALEXANDER (Grave, Seething): "They already took my name."
+  [02:51.00 - 02:54.00] [CAMERA] Close-up on Alexander stepping forward, his voice rising with lethal thunder.
+  [02:51.60 - 02:53.60] ALEXANDER (Roaring with Conviction): "They stole my home!"
+  [02:54.00 - 02:57.00] [CAMERA] Tight close-up on his furious, bared teeth and wild eyes.
+  [02:54.20 - 02:56.80] ALEXANDER (Venomous): "And now they have taken Juliana!"
+  [02:57.00 - 02:59.50] [ACTION] Close-up of Alexander's gloved hand clenching into a tight, leather-creaking fist.
+  [02:57.50 - 02:59.20] [SOUND FX] The sharp, taut creak of leather straining under monstrous grip strength.
+  [02:59.50 - 03:04.00] [CAMERA] Tracking shot following Alexander as he turns his back on the warmth of the cabin and walks boldly toward the open double barn doors.
+  [03:00.00 - 03:04.00] [ACTION] Alexander stands framed in the doorway, staring out into the vast, snow-covered pine forest under the cold moonlight.
+  [03:02.00 - 03:03.50] ALEXANDER (Calm, Chilling): "Two days."
+  [03:04.00 - 03:08.00] [CAMERA] Medium shot from inside the cabin, showing his mother clutching her chest, looking after Alexander's imposing silhouette standing at the threshold of the blizzard.
+  [03:04.50 - 03:07.80] ALEXANDER (Vow of Vengeance): "Then they have two days to celebrate."
+  [03:08.00 - 03:12.50] [CAMERA] Side profile close-up on Alexander as his breath fogs into the icy winter night air, his jaw clenched tight.
+  [03:09.50 - 03:12.20] ALEXANDER (Low, Menacing Promise): "Because before that wedding begins..."
+  [03:12.50 - 03:20.75] [CAMERA] Tight side profile close-up of Alexander's battle-scarred cheek and burning gaze as he makes his final declaration.
+  [03:13.00 - 03:16.80] ALEXANDER (Cold, Thunderous Finale): "...their dead Duke is coming home."
+  [03:17.00 - 03:20.75] [ACTION] Alexander stares resolutely ahead into the dark, snowy woods as the camera holds on his grim, determined expression before cutting to black.
+  [03:17.00 - 03:20.75] [SOUND FX] A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into silence.

@@ -1,0 +1,41 @@
+========================================================================
+PROMO RANK #3  |  Score: 84.1/100  |  Duration: 31.8s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 1
+Intercut         : No — Single Continuous Cut (Episode 1)
+Marketing Tier   : Tier 1: Top-of-Funnel (Cold UA) - Post First
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 9.4/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 1 | 00:11.30 -> 00:43.10 (31.8s)
+
+0-3s Hook        : Opens with MATRIARCH declaring: 'You should turn around, Juliana.'
+Cliffhanger Cut  : Cuts off right after LADY JULIANA's unanswered confrontation: 'No...'
+Why It Works     : High-stakes public humiliation and betrayal immediately hooks cold viewers; unresolved climax forces app download.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:11.30 - 00:13.10] MATRIARCH (Cold, Commanding): "You should turn around, Juliana."
+  [00:13.50 - 00:14.30] LADY JULIANA (Confused, Breathless): "Why?"
+  [00:14.30 - 00:17.80] [CAMERA] Over-the-shoulder medium close-up past the Matriarch to Juliana, looking past her toward the altar.
+  [00:15.50 - 00:17.50] LADY JULIANA (Desperate, Unbelieving): "Gerald is waiting for me."
+  [00:17.80 - 00:20.50] [CAMERA] Close-up on the Matriarch wearing an ornate tiara and sapphire jewelry, gazing down with merciless disdain.
+  [00:18.00 - 00:19.40] MATRIARCH (Blunt, Unforgiving): "Not anymore."
+  [00:20.50 - 00:23.60] [CAMERA] Close-up on Juliana's stricken face as the weight of the words sinks in.
+  [00:21.80 - 00:23.50] LADY JULIANA (Trembling, Pleading): "What do you mean?"
+  [00:23.60 - 00:25.80] [CAMERA] Medium shot of the Matriarch gesturing dismissively toward the altar.
+  [00:23.80 - 00:25.50] MATRIARCH (Dismissive): "Look for yourself."
+  [00:25.60 - 00:29.80] [ACTION] Juliana walks forward past the Matriarch, her breath hitching as she approaches the altar steps, looking up in shock.
+  [00:25.80 - 00:29.80] [CAMERA] Medium front tracking shot moving backward ahead of Juliana as she advances down the center aisle.
+  [00:29.80 - 00:32.80] [CAMERA] Panning shot across the seated wedding guests whispering and casting judging glances from the wooden pews.
+  [00:32.80 - 00:33.70] [CAMERA] Low-angle shot from behind Juliana looking up at Gerald and the Lady in Gold Gown standing proudly before the altar.
+  [00:33.70 - 00:35.30] [CAMERA] Close-up on Juliana's trembling lips and shocked, tearful blue eyes.
+  [00:33.80 - 00:35.00] LADY JULIANA (Shaken, Whispering): "Gerald?"
+  [00:35.40 - 00:37.70] LADY JULIANA (Heartbroken): "Why are you holding her hand?"
+  [00:36.50 - 00:39.00] [CAMERA] Close-up insert of Gerald's fingers firmly interlocked with the white-gloved hand of the Lady in Gold Gown.
+  [00:39.00 - 00:41.50] [CAMERA] Close-up on the Lady in Gold Gown beaming with cruel triumph.
+  [00:39.10 - 00:41.20] LADY IN GOLD GOWN (Gloating, Smug): "Because he is marrying me."
+  [00:41.50 - 00:43.90] [CAMERA] Close-up on Juliana as tears spill over her eyelashes.
+  [00:41.70 - 00:43.10] LADY JULIANA (Gasping, Devastated): "No..."

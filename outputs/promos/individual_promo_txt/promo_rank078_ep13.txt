@@ -1,0 +1,38 @@
+========================================================================
+PROMO RANK #78  |  Score: 71.0/100  |  Duration: 21.6s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 13
+Intercut         : No — Single Continuous Cut (Episode 13)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 5.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 13 | 00:37.00 -> 00:58.60 (21.6s)
+
+0-3s Hook        : CLARISSA: "Careful, sister." (O.S.) (Mocking, Vindictive)
+Cliffhanger Cut  : Cuts on CLARISSA: "Look at her hands."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:37.00 - 00:38.20] CLARISSA (O.S.) (Mocking, Vindictive): "Careful, sister."
+  [00:39.80 - 00:41.60] [CAMERA] Low-angle shot of Clarissa smirking down over the carved stone balustrade.
+  [00:39.90 - 00:41.50] CLARISSA (Cruel, Sarcastic): "That garden has swallowed better women than you."
+  [00:41.60 - 00:45.80] [CAMERA] Medium close-up of Gerald leaning against the balcony beside Clarissa, wearing an arrogant smirk.
+  [00:41.80 - 00:45.50] GERALD (Condescending, Arrogant): "Perhaps the beggar's wife will finally learn what her new life is worth."
+  [00:45.80 - 00:47.00] [ACTION] Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath.
+  [00:45.80 - 00:47.00] [CAMERA] Medium shot of Juliana kneeling on the frozen soil at the edge of the briars.
+  [00:47.00 - 00:50.00] [CAMERA] Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Constable grabs him.
+  [00:47.20 - 00:48.80] ALEXANDER (Screaming, Panicked): "Juliana, stop!"
+  [00:47.80 - 00:49.20] [SOUND FX] Rattling of heavy iron chains.
+  [00:50.00 - 00:52.00] [CAMERA] Eye-level shot looking through the thorny thicket at Juliana crawling deeper into the briars.
+  [00:50.00 - 00:53.00] [ACTION] Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.
+  [00:51.50 - 00:52.60] ALEXANDER (Strangled, Weeping): "Please..."
+  [00:52.00 - 00:53.50] [CAMERA] Extreme close-up of Alexander's anguished face as he strains furiously against his handcuffs.
+  [00:53.50 - 00:56.00] [CAMERA] Ground-level shot of Juliana's bare hands reaching out onto the cracked, frozen ground.
+  [00:54.00 - 00:56.50] [ACTION] Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.
+  [00:54.50 - 00:55.80] JULIANA (Gasping in Pain): "No..."
+  [00:56.00 - 00:58.20] [CAMERA] Extreme close-up of Juliana's hand scraping against the frost-covered stone, bright red blood welling from deep puncture wounds.
+  [00:57.20 - 00:58.60] CLARISSA (O.S.) (Gleeful, Derisive): "Look at her hands."

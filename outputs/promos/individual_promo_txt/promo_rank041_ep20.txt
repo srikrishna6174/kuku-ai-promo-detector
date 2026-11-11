@@ -1,0 +1,31 @@
+========================================================================
+PROMO RANK #41  |  Score: 76.2/100  |  Duration: 24.85s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 20
+Intercut         : No — Single Continuous Cut (Episode 20)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 7.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 20 | 01:29.90 -> 01:54.75 (24.85s)
+
+0-3s Hook        : CATHERINE: "Let the peasants rot in their barns." (Cruel, Callous)
+Cliffhanger Cut  : Cuts on: Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable 
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:29.90 - 01:32.40] CATHERINE (Cruel, Callous): "Let the peasants rot in their barns."
+  [01:32.60 - 01:34.50] CATHERINE (Mocking, Spiteful): "Let them pray to their weeds."
+  [01:34.80 - 01:39.20] [CAMERA] Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively.
+  [01:34.90 - 01:37.30] RUPERT (Intimate, Reassuring): "You have no rival here, Catherine."
+  [01:37.40 - 01:39.10] RUPERT (Fawning): "No one to stand in your way."
+  [01:39.20 - 01:43.80] [CAMERA] Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold.
+  [01:39.30 - 01:41.40] CATHERINE (Triumphant, Greedy): "Once the old Duchess is gone..."
+  [01:41.50 - 01:43.70] CATHERINE (Possessive): "...Ashbury will finally belong to us."
+  [01:43.80 - 01:49.00] [ACTION] Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds.
+  [01:44.00 - 01:49.50] [CAMERA] Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette.
+  [01:46.80 - 01:49.20] CATHERINE (Cold, Ruthless): "This house will only bow to me."
+  [01:49.50 - 01:54.75] [CAMERA] Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.

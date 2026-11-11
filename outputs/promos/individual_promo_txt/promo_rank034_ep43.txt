@@ -1,0 +1,51 @@
+========================================================================
+PROMO RANK #34  |  Score: 84.1/100  |  Duration: 36.4s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 43
+Intercut         : No — Single Continuous Cut (Episode 43)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 9.4/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 43 | 00:00.60 -> 00:37.00 (36.4s)
+
+0-3s Hook        : BLOND NOBLEMAN: "You're lying!" (Hysterical, Panicked)
+Cliffhanger Cut  : Cuts on: The Crown Official receives the dossier solemnly with both hands.
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:00.60 - 00:02.40] BLOND NOBLEMAN (Hysterical, Panicked): "You're lying!"
+  [00:02.40 - 00:03.90] [ACTION] Rupert lunges forward, his facial features contorting in venomous desperation.
+  [00:03.80 - 00:08.00] [CAMERA] Tracking shot swinging around Rupert as he turns toward the royal guards stationed along the aisle, pointing furiously down the center of the hall.
+  [00:03.90 - 00:07.40] BLOND NOBLEMAN (Shrieking, Frantic): "This man is an imposter! Arrest him!"
+  [00:08.00 - 00:10.50] [CAMERA] Wide symmetrical shot framing Alexander Ashburn standing immovable in the center of the cathedral, flanking lines of red-coated guards on both sides.
+  [00:08.20 - 00:10.50] [ACTION] Alexander stands completely composed in his dark embroidered aristocratic coat, staring Rupert down with unyielding authority.
+  [00:10.50 - 00:13.20] BLOND NOBLEMAN (Enraged, Screaming): "I said arrest him!"
+  [00:10.50 - 00:13.50] [CAMERA] Extreme close-up on Rupert's furious face, veins bulging at his temples.
+  [00:13.50 - 00:16.20] [CAMERA] Medium shot on the Royal Guard Captain in ceremonial bearskin uniform standing steadfast.
+  [00:13.80 - 00:16.00] [ACTION] The Guard Captain brings his ceremonial sword upright to attention, his expression stern and resolute.
+  [00:14.20 - 00:15.80] ROYAL GUARD (Firm, Defiant): "We will not."
+  [00:16.20 - 00:17.80] [CAMERA] Low-angle shot looking down along the polished stone floor as the guard's sword tip grounds firmly between Rupert and the guards.
+  [00:16.20 - 00:18.00] BLOND NOBLEMAN (Outraged, Stunned): "I am Lord Rupert Ashburn!"
+  [00:17.80 - 00:19.20] [CAMERA] Medium close-up on Rupert thumping his chest in indignant disbelief.
+  [00:18.10 - 00:19.00] BLOND NOBLEMAN (Desperate): "Your Duke!"
+  [00:19.20 - 00:21.50] ROYAL GUARD (Calm, Resolute): "No. He is your Duke."
+  [00:19.20 - 00:21.60] [ACTION] The Guard Captain snaps a crisp salute toward Alexander.
+  [00:19.20 - 00:21.80] [CAMERA] Medium shot framing the Guard Captain and Alexander in profile.
+  [00:21.80 - 00:24.00] [CAMERA] Medium shot on Catherine in her bridal gown and Lord Henry Sterling seated in the front pew, both frozen in stunned shock.
+  [00:22.00 - 00:24.00] [ACTION] Lord Sterling clutches his gold-headed walking cane tightly, his jaw clenching as tension spreads through the church.
+  [00:24.00 - 00:26.00] [CAMERA] Medium shot on Rupert spinning toward the gathered congregation, his hands flailing.
+  [00:24.10 - 00:25.80] BLOND NOBLEMAN (Desperate, Flustered): "You have all been deceived!"
+  [00:26.00 - 00:28.00] [CAMERA] Medium close-up on Alexander, commanding and icy.
+  [00:26.10 - 00:28.00] ALEXANDER (Cold, Authoritative): "Then let the Crown decide."
+  [00:28.00 - 00:30.00] [CAMERA] Close-up on Alexander's hands holding an official War Office document bundle sealed with red wax and ribbon.
+  [00:28.20 - 00:30.00] [ACTION] Alexander brings forth the dossier stamped "WAR OFFICE - TOP SECRET" with the royal crest.
+  [00:30.00 - 00:33.40] ALEXANDER (Grave, Powerful): "These were delivered to me under the seal of the Crown."
+  [00:30.00 - 00:33.80] [CAMERA] Medium shot of Alexander holding up the sealed parcel before the room.
+  [00:33.50 - 00:34.50] ALEXANDER (Commanding): "Read the first."
+  [00:33.80 - 00:35.00] [CAMERA] Close-up on Lord Sterling looking sideways, his face pale with rising dread.
+  [00:35.00 - 00:37.00] [CAMERA] Two-shot of Alexander handing the dossier to a Crown Military Magistrate wearing white gloves and a high-collared black uniform.
+  [00:35.20 - 00:37.00] [ACTION] The Crown Official receives the dossier solemnly with both hands.

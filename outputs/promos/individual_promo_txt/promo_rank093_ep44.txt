@@ -1,0 +1,34 @@
+========================================================================
+PROMO RANK #93  |  Score: 70.5/100  |  Duration: 21.2s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 44
+Intercut         : No — Single Continuous Cut (Episode 44)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 4.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 44 | 00:46.60 -> 01:07.80 (21.2s)
+
+0-3s Hook        : CATHERINE: "I was supposed to be your Duchess!" (Desperate, Demanding)
+Cliffhanger Cut  : Cuts on: Tilt-up shot starting from heavy iron chains resting on the wooden floor up to the shackled wrists o
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:46.60 - 00:48.80] CATHERINE (Desperate, Demanding): "I was supposed to be your Duchess!"
+  [00:49.00 - 00:51.00] [CAMERA] Medium two-shot of Catherine and Alexander confronting each other.
+  [00:49.20 - 00:51.00] ALEXANDER (Cold, Implacable): "You were never my Duchess."
+  [00:51.00 - 00:53.00] [CAMERA] Extreme close-up on Catherine's tearful face.
+  [00:51.10 - 00:52.80] CATHERINE (Sobbing, Pleading): "But I loved you!"
+  [00:53.00 - 00:55.50] ALEXANDER (Scornful, Biting): "You loved the Duke you thought you would marry."
+  [00:53.00 - 00:55.60] [CAMERA] Medium close-up on Alexander, his scarred jaw set firm.
+  [00:55.60 - 00:59.00] [CAMERA] Close-up on Catherine, gasping in protest.
+  [00:56.20 - 00:58.20] CATHERINE (Defiant, Pained): "No!"
+  [00:59.00 - 01:02.40] [CAMERA] Medium shot as Catherine clutches her chest, pouring her heart out.
+  [00:59.80 - 01:02.40] CATHERINE (Passionate, Crying): "I loved you before all this!"
+  [01:02.40 - 01:03.80] [CAMERA] Close-up on Alexander tilting his head slightly, his gaze piercing through her.
+  [01:02.50 - 01:03.40] ALEXANDER (Skeptical, Cutting): "Did you?"
+  [01:03.80 - 01:05.00] [CAMERA] Close-up on Catherine, rendered speechless by his doubt.
+  [01:05.00 - 01:07.80] [CAMERA] Tilt-up shot starting from heavy iron chains resting on the wooden floor up to the shackled wrists of Juliana dressed in her rustic grey gown.

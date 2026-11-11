@@ -1,0 +1,39 @@
+========================================================================
+PROMO RANK #90  |  Score: 71.1/100  |  Duration: 28.0s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 38
+Intercut         : No — Single Continuous Cut (Episode 38)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.4/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 38 | 00:45.50 -> 01:13.50 (28.0s)
+
+0-3s Hook        : JULIANA: "What if I die here?" (Fearful, Pleading)
+Cliffhanger Cut  : Cuts on: Juliana rushes toward the front of the cell, clutching the iron bars with both hands.
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:45.50 - 00:47.50] JULIANA (Fearful, Pleading): "What if I die here?"
+  [00:45.50 - 00:51.00] [CAMERA] Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest.
+  [00:47.80 - 00:50.50] JULIANA (Heartbroken): "What if I never see you again?"
+  [00:48.50 - 00:51.00] [ACTION] A heavy tear drips down from her jaw, falling into the dark dampness below.
+  [00:51.00 - 00:55.50] [CAMERA] Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself.
+  [00:51.50 - 00:53.50] JULIANA (Fervent Prayer): "Keep him safe."
+  [00:53.80 - 00:55.30] JULIANA (Resigned): "Wherever he is."
+  [00:55.50 - 00:57.00] JULIANA (Determined): "Let him live."
+  [00:55.50 - 01:00.50] [CAMERA] Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity.
+  [00:57.50 - 01:00.50] JULIANA (Steely): "And if I have only one thing left to give..."
+  [01:00.50 - 01:04.00] [CAMERA] Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty.
+  [01:00.80 - 01:02.50] JULIANA (Defiant, Unshakable): "I will not give them my husband."
+  [01:02.80 - 01:04.20] JULIANA (Resolute): "I will not betray him."
+  [01:04.00 - 01:07.00] [CAMERA] Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath.
+  [01:04.50 - 01:06.50] [ACTION] Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above.
+  [01:04.80 - 01:27.00] [SOUND FX] Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon.
+  [01:07.00 - 01:10.50] [CAMERA] Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell.
+  [01:09.00 - 01:10.30] JULIANA (Startled Whisper): "Bells."
+  [01:10.50 - 01:12.50] [CAMERA] Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts.
+  [01:11.00 - 01:13.50] [ACTION] Juliana rushes toward the front of the cell, clutching the iron bars with both hands.

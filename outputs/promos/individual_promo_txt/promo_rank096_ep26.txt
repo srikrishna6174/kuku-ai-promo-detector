@@ -1,0 +1,30 @@
+========================================================================
+PROMO RANK #96  |  Score: 68.2/100  |  Duration: 23.5s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 26
+Intercut         : No — Single Continuous Cut (Episode 26)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 5.0/10 | Cliffhanger 7.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 26 | 01:36.00 -> 01:59.50 (23.5s)
+
+0-3s Hook        : DOWAGER DUCHESS: "Your hand... Let me see your hand." (Breathless, Shaken)
+Cliffhanger Cut  : Cuts on: Medium close-up of Juliana frozen in shock, her breath catching as the Duchess's desperate words ech
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:36.00 - 01:39.80] DOWAGER DUCHESS (Breathless, Shaken): "Your hand... Let me see your hand."
+  [01:40.00 - 01:45.50] [CAMERA] Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy.
+  [01:40.50 - 01:45.00] JULIANA (Confused, Alarmed): "Your Grace? What is wrong? You look as though you've seen a ghost."
+  [01:45.50 - 01:49.00] [CAMERA] Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm.
+  [01:46.00 - 01:49.00] [ACTION] The Duchess reaches outward with trembling fingers, grasping frantically for Juliana.
+  [01:48.80 - 01:50.00] [SOUND FX] A sudden sharp rustle of fabric as her fingers snap tight.
+  [01:49.00 - 01:50.80] [CAMERA] Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve.
+  [01:49.20 - 01:50.60] DOWAGER DUCHESS (Stern, Desperate): "Do not move!"
+  [01:50.80 - 01:55.80] [CAMERA] Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes.
+  [01:51.00 - 01:55.50] DOWAGER DUCHESS (Intense, Demanding): "Where... where... Where did you get this ring? Speak to me!"
+  [01:55.80 - 01:59.50] [CAMERA] Medium close-up of Juliana frozen in shock, her breath catching as the Duchess's desperate words echo in the silence of the room.

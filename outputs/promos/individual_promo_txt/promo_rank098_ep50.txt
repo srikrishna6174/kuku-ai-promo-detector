@@ -1,0 +1,30 @@
+========================================================================
+PROMO RANK #98  |  Score: 63.0/100  |  Duration: 27.4s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 50
+Intercut         : No — Single Continuous Cut (Episode 50)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 5.0/10 | Cliffhanger 5.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 50 | 00:12.00 -> 00:39.40 (27.4s)
+
+0-3s Hook        : CATHERINE: "Then let's stop pretending this was only appetite." (Intense, Whispering)
+Cliffhanger Cut  : Cuts on CATHERINE: "Unsupervised. In your hands alone."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:12.00 - 00:15.50] CATHERINE (Intense, Whispering): "Then let's stop pretending this was only appetite."
+  [00:15.80 - 00:18.80] [CAMERA] Medium two-shot from the side as both sit up in bed, sheets pulled up around their waists.
+  [00:16.80 - 00:18.50] CATHERINE (Direct, Transactional): "Name your price."
+  [00:18.80 - 00:26.50] [CAMERA] Medium profile close-up on Father Thomas sitting up tall and bare-chested, Catherine resting her hand firmly over his heart.
+  [00:19.40 - 00:25.00] FATHER THOMAS (Calculated, Demanding): "The west territory. Tax collection, all of it. Routed through my office."
+  [00:26.50 - 00:30.50] [CAMERA] Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief.
+  [00:27.20 - 00:30.20] CATHERINE (Scoffing, Incredulous): "That's not absolution, Thomas. That's a fortune."
+  [00:30.50 - 00:35.80] [CAMERA] Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising.
+  [00:31.00 - 00:35.00] FATHER THOMAS (Steady, Cold): "Absolution is free. Discretion has a price."
+  [00:35.80 - 00:39.80] [CAMERA] Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek.
+  [00:36.50 - 00:39.40] CATHERINE (Soft, Calculating): "Unsupervised. In your hands alone."

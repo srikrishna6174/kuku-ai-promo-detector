@@ -1,0 +1,34 @@
+========================================================================
+PROMO RANK #76  |  Score: 76.1/100  |  Duration: 23.9s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 29
+Intercut         : No — Single Continuous Cut (Episode 29)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.4/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 29 | 01:09.80 -> 01:33.70 (23.9s)
+
+0-3s Hook        : JULIANA: "My husband will find me." (Steely, Resolute)
+Cliffhanger Cut  : Cuts on: Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror w
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:09.80 - 01:11.40] JULIANA (Steely, Resolute): "My husband will find me."
+  [01:11.80 - 01:14.30] [CAMERA] Medium shot of Catherine letting out a scornful laugh, tilting her head.
+  [01:12.10 - 01:14.30] CATHERINE (Scoffing, Amused): "Your scarred soldier?"
+  [01:14.30 - 01:18.50] [CAMERA] Close-up of Catherine's face hardening into sharp mockery.
+  [01:14.70 - 01:18.10] CATHERINE (Derisive, Biting): "What exactly do you think a penniless veteran can do against Ashbrook?"
+  [01:18.50 - 01:20.90] [CAMERA] Medium shot as the guard clamps a heavy hand on Juliana's shoulder, shoving her forward.
+  [01:18.70 - 01:20.60] GUARD (Gruff, Dismissive): "Move along, girl."
+  [01:20.90 - 01:23.00] [CAMERA] Wide shot tracking behind the guards as they march Juliana down the vaulted, puddle-strewn corridor toward the heavy iron cell door.
+  [01:23.00 - 01:26.50] [CAMERA] Wide shot inside the pitch-dark cell as the heavy iron door swings open.
+  [01:24.00 - 01:26.50] [ACTION] The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor.
+  [01:25.70 - 01:26.50] JULIANA (Crying Out, Broken): "Please!"
+  [01:26.50 - 01:28.00] [SOUND FX] The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked.
+  [01:26.50 - 01:28.80] [CAMERA] Static shot of the locked iron door, deadlocked in total isolation.
+  [01:28.80 - 01:33.70] [CAMERA] Medium close-up of Juliana kneeling on the floor, clutching her chest as hyperventilation overtakes her.
+  [01:29.50 - 01:33.70] [ACTION] Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her.

@@ -1,0 +1,55 @@
+========================================================================
+PROMO RANK #10  |  Score: 89.6/100  |  Duration: 52.1s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 28
+Intercut         : No — Single Continuous Cut (Episode 28)
+Marketing Tier   : Tier 2: High-Engagement Escalation - Post Second
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 9.4/10 | Cliffhanger 9.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 28 | 00:12.70 -> 01:04.80 (52.1s)
+
+0-3s Hook        : Opens with CATHERINE declaring: 'She looks exactly like a poisoner.'
+Cliffhanger Cut  : Cuts off right after CATHERINE's unanswered confrontation: 'How convenient that the only person who can prove the poison exists...'
+Why It Works     : Explosive confrontation with rapid dialogue and an unanswered ultimatum that drives high click-through.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:12.70 - 00:15.00] CATHERINE (Venomous): "She looks exactly like a poisoner."
+  [00:15.20 - 00:18.50] [CAMERA] Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder.
+  [00:15.30 - 00:18.40] JULIANA (Furious, Defiant): "I did not poison her! Look at her eyes, the fever has broken!"
+  [00:18.50 - 00:22.80] [CAMERA] Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves.
+  [00:18.90 - 00:20.30] BLOND NOBLEMAN (Sardonic, Chilling): "A clever story, girl."
+  [00:20.40 - 00:22.70] BLOND NOBLEMAN (Threatening): "But the guards know how to extract the truth."
+  [00:22.80 - 00:26.70] [CAMERA] Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort.
+  [00:24.80 - 00:26.50] DOWAGER DUCHESS (Weak, Straining): "Rupert..."
+  [00:26.70 - 00:28.20] DOWAGER DUCHESS (O.S.) (Commanding): "Stop this!"
+  [00:26.70 - 00:28.40] [CAMERA] Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed.
+  [00:28.40 - 00:32.80] [CAMERA] Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger.
+  [00:28.80 - 00:30.30] DOWAGER DUCHESS (Desperate, Firm): "She is innocent."
+  [00:30.80 - 00:32.40] DOWAGER DUCHESS (Adamant): "She saved me!"
+  [00:32.80 - 00:34.90] [CAMERA] Close-up of Juliana, tears of relief welling in her eyes.
+  [00:33.20 - 00:34.60] JULIANA (Breathless, Relieved): "Your Grace..."
+  [00:34.90 - 00:37.70] [CAMERA] Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror.
+  [00:35.00 - 00:37.40] DOWAGER DUCHESS (Trembling, Shouting): "I know what happened to me!"
+  [00:37.70 - 00:43.00] [CAMERA] Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless.
+  [00:38.20 - 00:40.00] DOWAGER DUCHESS (Fierce, Condemning): "I was poisoned!"
+  [00:40.30 - 00:42.20] DOWAGER DUCHESS (Accusing): "And you... you knew!"
+  [00:43.00 - 00:47.40] [CAMERA] Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine.
+  [00:43.60 - 00:45.30] DOWAGER DUCHESS (Choking, Weakening): "Catherine knew!"
+  [00:45.60 - 00:47.00] DOWAGER DUCHESS (Gasping): "They have been—"
+  [00:46.80 - 00:48.00] [ACTION] The Duchess collapses back onto the pillows, coughing violently and clutching her chest.
+  [00:47.40 - 00:52.20] [CAMERA] Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back.
+  [00:48.20 - 00:49.70] JULIANA (Panicked, Screaming): "Let me help her!"
+  [00:49.50 - 00:52.10] JULIANA (Desperate): "She's still weak, you cannot leave her like this!"
+  [00:52.20 - 00:56.80] [CAMERA] Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips.
+  [00:52.80 - 00:53.60] BLOND NOBLEMAN (Smooth, Feigning Concern): "You see?"
+  [00:54.00 - 00:56.60] BLOND NOBLEMAN (Sinister): "The poison has clearly damaged her mind."
+  [00:56.80 - 01:01.30] [CAMERA] Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed.
+  [00:57.00 - 00:58.70] DOWAGER DUCHESS (Hoarse, Straining): "I am not delusional!"
+  [00:58.60 - 01:00.00] BLOND NOBLEMAN (Condescending, Whispering): "Of course you are not."
+  [01:00.10 - 01:01.20] BLOND NOBLEMAN (Dismissive): "You are merely confused."
+  [01:01.30 - 01:06.80] [CAMERA] Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism.
+  [01:01.60 - 01:04.80] CATHERINE (Amused, Mocking): "How convenient that the only person who can prove the poison exists..."

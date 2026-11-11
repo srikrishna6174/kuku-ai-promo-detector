@@ -1,0 +1,47 @@
+========================================================================
+PROMO RANK #37  |  Score: 72.1/100  |  Duration: 31.7s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 6
+Intercut         : No — Single Continuous Cut (Episode 6)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 6.4/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 6 | 01:14.30 -> 01:46.00 (31.7s)
+
+0-3s Hook        : Action: Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting an
+Cliffhanger Cut  : Cuts on JULIANA: "And yet..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:14.30 - 01:16.80] [ACTION] Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help.
+  [01:14.30 - 01:16.80] [CAMERA] Medium low shot of the Mysterious Bearded Man kneeling beside Juliana as she wipes the table.
+  [01:16.80 - 01:17.80] [ACTION] Juliana picks up a straw broom and sweeps the stone floor in front of the stone hearth.
+  [01:16.80 - 01:17.80] [CAMERA] Wide shot of Juliana sweeping dust toward the large stone fireplace.
+  [01:17.80 - 01:21.00] [ACTION] The Mysterious Bearded Man carries a heavy wooden log across the room and places it onto the iron grate in the hearth.
+  [01:17.80 - 01:21.00] [CAMERA] Tracking shot following the Mysterious Bearded Man as he sets the firewood into the stone fireplace.
+  [01:21.00 - 01:23.80] [ACTION] He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame.
+  [01:21.00 - 01:23.80] [CAMERA] Extreme close-up on hands striking flint, sparks showering onto the twigs and catching fire.
+  [01:23.80 - 01:25.00] [CAMERA] Medium close-up of vibrant orange flames rapidly spreading across the dry logs, crackling warmly.
+  [01:23.80 - 01:30.00] [SOUND FX] Crisp crackling and snapping of dry wood catching fire in the hearth.
+  [01:25.00 - 01:27.50] [CAMERA] Medium shot of Juliana standing by the table, broom resting against her hip, bathed in the amber firelight.
+  [01:27.50 - 01:29.80] [ACTION] The Mysterious Bearded Man stands up from the hearth, dusting his hands on his coat.
+  [01:27.50 - 01:29.80] [CAMERA] Medium shot of the Mysterious Bearded Man rising before the blazing fireplace.
+  [01:29.00 - 01:29.80] MYSTERIOUS BEARDED MAN (Relieved): "There."
+  [01:29.80 - 01:31.70] [CAMERA] Close-up of Juliana looking at him with radiant gratitude and a gentle smile.
+  [01:31.70 - 01:33.80] [CAMERA] Medium close-up of the Mysterious Bearded Man gesturing faintly to the modest room.
+  [01:32.10 - 01:33.60] MYSTERIOUS BEARDED MAN (Quiet, Modest): "It is not much."
+  [01:33.80 - 01:35.80] [CAMERA] Medium shot of Juliana kneeling on the stone floor before the blazing hearth, wrapping her dark cloak around her shoulders.
+  [01:34.20 - 01:36.20] JULIANA (Soft, Comforted): "It is enough for tonight."
+  [01:35.80 - 01:38.20] [CAMERA] Wide shot framing the roaring hearth fire between them as the Mysterious Bearded Man crouches down beside her on the stone floor.
+  [01:38.20 - 01:41.00] [CAMERA] Close-up of Juliana pulling her cloak tighter, her face glowing warmly in the firelight.
+  [01:38.40 - 01:40.40] JULIANA (V.O.) (Reflective, Vulnerable): "I lost my home today."
+  [01:40.60 - 01:41.80] JULIANA (V.O.) (Reflective, Vulnerable): "My family."
+  [01:41.00 - 01:43.00] [CAMERA] Close-up of the glowing embers and dancing flames inside the fireplace.
+  [01:42.00 - 01:44.80] JULIANA (V.O.) (Reflective, Vulnerable): "Everything I thought my life would be."
+  [01:43.00 - 01:44.30] [CAMERA] Close-up on the Mysterious Bearded Man's scarred, work-worn hands resting quietly on his knees.
+  [01:44.30 - 01:46.00] [CAMERA] Medium close-up of Juliana looking down into the flames, a peaceful serenity washing over her features.
+  [01:45.00 - 01:46.00] JULIANA (V.O.) (Gentle, Surprised): "And yet..."

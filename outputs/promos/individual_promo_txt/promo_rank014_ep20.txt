@@ -1,0 +1,34 @@
+========================================================================
+PROMO RANK #14  |  Score: 82.8/100  |  Duration: 23.7s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 20
+Intercut         : No — Single Continuous Cut (Episode 20)
+Marketing Tier   : Tier 2: High-Engagement Escalation - Post Second
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 9.5/10 | Cliffhanger 6.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 20 | 00:15.40 -> 00:39.10 (23.7s)
+
+0-3s Hook        : CATHERINE: "'Practically' is a word for beggars. I do not marry a practical Duke." (Cold, Haughty)
+Cliffhanger Cut  : Cuts on CATHERINE: "How much longer can the frail thing survive?"
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:15.40 - 00:18.70] CATHERINE (Cold, Haughty): "'Practically' is a word for beggars. I do not marry a practical Duke."
+  [00:18.80 - 00:20.10] CATHERINE (Stern, Ambitious): "I marry the Lord of Ashbury."
+  [00:20.00 - 00:25.50] [CAMERA] Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction.
+  [00:20.10 - 00:21.20] RUPERT (Reassuring, Firm): "And so you shall."
+  [00:21.30 - 00:24.20] RUPERT (Dark, Conspiratorial): "Once my cousin Alexander's death is formally sealed by the Crown..."
+  [00:24.30 - 00:25.40] RUPERT (Decisive): "...the title is mine."
+  [00:25.50 - 00:28.20] CATHERINE (Wary, Inquiring): "And what of the Dowager? The old woman still breathes."
+  [00:25.50 - 00:30.20] [CAMERA] Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern.
+  [00:28.30 - 00:30.20] CATHERINE (Disdainful): "Her shadow still hangs over this house."
+  [00:30.20 - 00:32.80] RUPERT (Quiet, Sinister): "Her health fails more each day. The physicians are baffled."
+  [00:30.20 - 00:34.00] [CAMERA] Tight close-up of Rupert's face as a sinister grin spreads across his features.
+  [00:32.90 - 00:34.40] RUPERT (Gloating): "They call it a wasting of the lungs."
+  [00:34.10 - 00:39.20] [CAMERA] Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment.
+  [00:34.20 - 00:36.80] CATHERINE (Mock-Sympathetic, Cruel): "How tragic. The slow, quiet decline."
+  [00:36.90 - 00:39.10] CATHERINE (Scheming): "How much longer can the frail thing survive?"

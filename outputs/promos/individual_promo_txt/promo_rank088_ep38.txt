@@ -1,0 +1,35 @@
+========================================================================
+PROMO RANK #88  |  Score: 72.8/100  |  Duration: 25.11s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 38
+Intercut         : No — Single Continuous Cut (Episode 38)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.4/10 | Cliffhanger 7.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 38 | 01:02.80 -> 01:27.91 (25.11s)
+
+0-3s Hook        : JULIANA: "I will not betray him." (Resolute)
+Cliffhanger Cut  : Cuts on: Dramatic cut to black.
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:02.80 - 01:04.20] JULIANA (Resolute): "I will not betray him."
+  [01:04.00 - 01:07.00] [CAMERA] Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath.
+  [01:04.50 - 01:06.50] [ACTION] Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above.
+  [01:04.80 - 01:27.00] [SOUND FX] Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon.
+  [01:07.00 - 01:10.50] [CAMERA] Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell.
+  [01:09.00 - 01:10.30] JULIANA (Startled Whisper): "Bells."
+  [01:10.50 - 01:12.50] [CAMERA] Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts.
+  [01:11.00 - 01:13.50] [ACTION] Juliana rushes toward the front of the cell, clutching the iron bars with both hands.
+  [01:12.50 - 01:18.50] [CAMERA] Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound.
+  [01:12.80 - 01:14.20] JULIANA (Realizing): "The wedding."
+  [01:14.50 - 01:15.80] JULIANA (Grim): "It's beginning."
+  [01:16.00 - 01:18.50] JULIANA (Somber, Steely): "Then I suppose I'm next."
+  [01:18.50 - 01:24.50] [CAMERA] Close-up between the vertical iron bars framed directly on Juliana's face. The terror in her eyes softens into an unexpected, brave smile of enduring faith.
+  [01:21.00 - 01:24.00] [ACTION] Juliana grips the bars tightly, her lips curving into a warm, defiant smile as she whispers her husband's name.
+  [01:22.50 - 01:24.00] JULIANA (Hopeful, Tender): "Alexander..."
+  [01:24.50 - 01:27.91] [CAMERA] Dramatic cut to black.

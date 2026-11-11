@@ -1,0 +1,46 @@
+========================================================================
+PROMO RANK #26  |  Score: 84.8/100  |  Duration: 35.0s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 44
+Intercut         : No — Single Continuous Cut (Episode 44)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 10.0/10 | Cliffhanger 6.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 44 | 00:11.40 -> 00:46.40 (35.0s)
+
+0-3s Hook        : POLICE CONSTABLE: "I have more than enough." (Cold, Definite)
+Cliffhanger Cut  : Cuts on CATHERINE: "You don't remember?"
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:11.40 - 00:13.20] POLICE CONSTABLE (Cold, Definite): "I have more than enough."
+  [00:11.40 - 00:13.80] [CAMERA] Close-up on the Constable's black-gloved hands holding out a thick, red-ribboned dossier stamped with the Crown's royal wax seal.
+  [00:13.80 - 00:16.40] [CAMERA] Wide shot of the ruined nave littered with rubble as royal redcoat guards surround the aisle, forcing Rupert down onto his knees.
+  [00:14.00 - 00:16.40] [ACTION] A royal redcoat guard firmly forces Rupert down into the stone dust.
+  [00:14.00 - 00:16.80] BLOND NOBLEMAN (Frantic, Shouting): "Get your hands off me! Catherine!"
+  [00:16.40 - 00:19.40] [CAMERA] Close-up on Rupert struggling fiercely against the white-gloved grip of the guard pinning his shoulder.
+  [00:17.40 - 00:19.30] BLOND NOBLEMAN (Desperate, Screaming): "Do something!"
+  [00:19.40 - 00:22.00] [CAMERA] Medium close-up on Catherine beneath her bridal veil, looking downward in conflicted silence.
+  [00:21.80 - 00:24.40] [ACTION] Catherine's satin-gloved hand clenches tightly into a trembling fist against the folds of her ornate gown.
+  [00:22.00 - 00:24.40] [CAMERA] Close-up on Catherine's gloved hand tightening into a fist.
+  [00:24.40 - 00:27.80] [CAMERA] Wide shot as Catherine gathers her heavy train and steps away from Rupert, walking toward Alexander who stands watching her stoically.
+  [00:25.20 - 00:28.00] CATHERINE (Shaken, Tearful): "Alexander... I thought you had died."
+  [00:27.80 - 00:31.20] [CAMERA] Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure.
+  [00:28.40 - 00:31.00] CATHERINE (Choked, Weeping): "Do you know what this did to me?"
+  [00:31.20 - 00:32.40] [CAMERA] Medium shot on Alexander standing tall in his ducal coat, his gaze utterly detached.
+  [00:31.20 - 00:32.40] CATHERINE (O.S.) (Pleading): "I mourned you."
+  [00:32.40 - 00:34.00] [CAMERA] Profile close-up of Catherine as a tear slips down her cheek.
+  [00:32.40 - 00:34.00] CATHERINE (Vulnerable, Trembling): "I waited for you."
+  [00:34.00 - 00:35.80] [CAMERA] Medium shot of Catherine standing in the center of the aisle before the seated congregation.
+  [00:34.20 - 00:38.80] CATHERINE (Heartbroken): "For three years, I believed the man I loved was buried somewhere across the sea."
+  [00:35.80 - 00:38.80] [CAMERA] Tracking two-shot over Alexander's shoulder as Catherine approaches him pleadingly.
+  [00:38.80 - 00:41.20] [CAMERA] Close profile two-shot as Catherine gently reaches her gloved hand up to Alexander's bearded cheek.
+  [00:38.90 - 00:41.20] CATHERINE (Whispering, Longing): "I never stopped loving you."
+  [00:41.20 - 00:42.80] [ACTION] Alexander abruptly pulls his face back, refusing her touch and leaving her hand suspended in mid-air.
+  [00:41.20 - 00:42.80] [CAMERA] Close-up on Catherine's empty gloved hand trembling in the empty space between them.
+  [00:42.80 - 00:46.40] [CAMERA] Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection.
+  [00:44.20 - 00:46.40] CATHERINE (Breathless, Hurt): "You don't remember?"

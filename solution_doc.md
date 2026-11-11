@@ -83,7 +83,9 @@ We ran an automated quality audit (`src/quality_checker.py`) across all 100 extr
 * **Scaling & Human-in-the-Loop Workflow:** Deterministic rule filtering scans 1,000+ episodes in under 45 seconds on standard CPU and dispatches only top filtered windows to LLMs; editors review ranked 20–60s cuts per project, pin manual timestamp adjustments, and export timestamped cut sheets without adding overlays, music, or baked video edits.
 * **Deliverables Provided:**
   1. *Per-Project Streamlit Web Studio* (`Home`, `New Input`, `Project Library`, `Promos`, `Script Explorer`, `Quality Audit`) with live unseen-script upload and `.txt`/`.zip` cut sheets.
-  2. *Unedited `outputs/` pack*: `promos_master.json`, `promos_ranked.csv`, `promos_report.txt`, and `quality_audit_and_failures.json` covering all 50 episodes.
-  3. *Post-production cut exports*: FFmpeg stream-copy scripts (`cut_promos.sh` / `.bat`) and timeline markers (`premiere_markers.csv`).
-  4. *GitHub Repository* with 1-command reproducibility and **20/20** automated unit tests (`test_pipeline.py` & `test_universal_and_multi_llm.py`).
+  2. *Unedited structured `outputs/` pack*:
+     - `outputs/promos/` (`promos_master.json`, `promos_ranked.csv`, `promos_report.txt`, `individual_promo_txt/`, `intercut_trailers/`)
+     - `outputs/quality_audit/` (`quality_audit_and_failures.json`)
+     - `outputs/editor_exports/` (`cut_promos.sh`, `cut_promos.bat`, `premiere_markers.csv`)
+  3. *GitHub Repository* with 1-command reproducibility and **20/20** automated unit tests (`test_pipeline.py` & `test_universal_and_multi_llm.py`).
 

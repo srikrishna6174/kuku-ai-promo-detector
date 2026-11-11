@@ -1,0 +1,28 @@
+========================================================================
+PROMO RANK #97  |  Score: 65.8/100  |  Duration: 25.7s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 49
+Intercut         : No — Single Continuous Cut (Episode 49)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 4.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 49 | 00:15.80 -> 00:41.50 (25.7s)
+
+0-3s Hook        : CATHERINE: "Good. That's what I pay her for." (Pleased, Cold)
+Cliffhanger Cut  : Cuts on FATHER THOMAS: "A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:15.80 - 00:18.80] CATHERINE (Pleased, Cold): "Good. That's what I pay her for."
+  [00:19.80 - 00:22.00] [CAMERA] Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them.
+  [00:20.00 - 00:22.00] [ACTION] Catherine sets down the brass candleholder, the flame flickering across their faces.
+  [00:22.00 - 00:27.50] [CAMERA] Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes.
+  [00:22.20 - 00:27.20] FATHER THOMAS (Grave): "No shadows tonight, Catherine. Just us and an empty wing."
+  [00:27.50 - 00:33.20] [CAMERA] Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly.
+  [00:27.80 - 00:33.00] CATHERINE (Unfazed): "You didn't need them the first time, either. I just prefer my secrets thorough."
+  [00:33.20 - 00:41.80] [CAMERA] Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her.
+  [00:33.50 - 00:41.50] FATHER THOMAS (Dry, Cynical): "A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well."

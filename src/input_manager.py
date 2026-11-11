@@ -733,13 +733,21 @@ def add_rule_based_promos_to_bundle(
     return updated, added
 
 
+def _resolve_output_path(output_dir: str, subfolder: str, filename: str) -> str:
+    """Resolves structured output subfolders while preserving flat-directory backwards compatibility."""
+    nested = os.path.join(output_dir, subfolder, filename)
+    if os.path.exists(nested):
+        return nested
+    return os.path.join(output_dir, filename)
+
+
 def load_builtin_bundle(
     data_folder: str = "I Married a Broken Soldier. He was a Duke",
     output_dir: str = "outputs",
 ) -> Dict[str, Any]:
     """Loads the precomputed benchmark show into the unified bundle structure."""
-    json_path = os.path.join(output_dir, "promos_master.json")
-    audit_path = os.path.join(output_dir, "quality_audit_and_failures.json")
+    json_path = _resolve_output_path(output_dir, "promos", "promos_master.json")
+    audit_path = _resolve_output_path(output_dir, "quality_audit", "quality_audit_and_failures.json")
 
     promos_data: List[Dict[str, Any]] = []
     stitched_data: List[Dict[str, Any]] = []

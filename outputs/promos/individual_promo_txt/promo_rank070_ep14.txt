@@ -1,0 +1,42 @@
+========================================================================
+PROMO RANK #70  |  Score: 71.3/100  |  Duration: 36.5s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 14
+Intercut         : No — Single Continuous Cut (Episode 14)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 6.2/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 14 | 00:10.50 -> 00:47.00 (36.5s)
+
+0-3s Hook        : JULIANA: "Now release my husband." (Firm, Commanding)
+Cliffhanger Cut  : Cuts on: Alexander gently wraps clean linen bandages around Juliana's torn wrist and palm.
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:10.50 - 00:12.70] JULIANA (Firm, Commanding): "Now release my husband."
+  [00:12.50 - 00:13.50] [ACTION] The Constable takes the ring from her bloodied fingers.
+  [00:13.50 - 00:15.50] [CAMERA] Tight shot on the iron shackles locking Alexander's wrists together against the thorny backdrop.
+  [00:14.20 - 00:15.40] [SOUND FX] Sharp metallic click and clinking rattle of heavy iron handcuffs unlocking and falling away.
+  [00:14.50 - 00:15.60] [ACTION] The Constable unlocks the cuffs, freeing Alexander's large hands.
+  [00:15.60 - 00:18.50] [CAMERA] Tracking shot as Alexander lunges forward without hesitation, rushing past the Constable straight to Juliana.
+  [00:16.80 - 00:18.00] ALEXANDER (Gasping, Urgent): "Juliana."
+  [00:18.50 - 00:23.00] [CAMERA] Close-up on Alexander's rugged hands tenderly grasping Juliana's bloodied, lacerated hands, turning them over with immense care.
+  [00:18.80 - 00:23.00] [ACTION] Alexander gently turns her palms up, his thumbs trembling as he inspects the deep, bleeding gashes gouged into her skin.
+  [00:23.00 - 00:25.50] [CAMERA] Close-up on Alexander's agonized, furious expression as he stares at her wounds.
+  [00:23.10 - 00:25.00] ALEXANDER (Trembling, Heartbroken): "What have they done to you?"
+  [00:25.50 - 00:29.50] [CAMERA] Close-up on Juliana's pale, tear-streaked face looking back into his eyes with tender relief.
+  [00:26.50 - 00:28.50] JULIANA (Softly, Stifling Pain): "Nothing they didn't promise."
+  [00:29.50 - 00:32.50] [CAMERA] Medium profile two-shot of Alexander and Juliana gazing into each other's eyes amidst the cold mist.
+  [00:29.80 - 00:32.00] JULIANA (Faint, Pleading): "Take me home."
+  [00:32.50 - 00:38.50] [CAMERA] Low-angle medium shot as Alexander effortlessly scoops Juliana into his arms, gathering her up against his chest.
+  [00:33.20 - 00:37.00] [ACTION] Alexander lifts Juliana bridal-style, wrapping his strong arms protectively around her as she rests against his shoulder.
+  [00:35.80 - 00:38.50] ALEXANDER (Deep, Sorrowful): "You should never have had to bleed for me."
+  [00:38.50 - 00:40.50] [CAMERA] Medium tracking shot behind stone balustrades as Alexander carries Juliana past the foggy estate grounds.
+  [00:40.50 - 00:43.50] [CAMERA] Wide establishing shot of the humble stone cottage standing isolated beneath dark, overcast stormy skies on a rain-slicked dirt road.
+  [00:40.50 - 00:43.50] [SOUND FX] Gentle patter of rain and cold wind howling in the desolate countryside.
+  [00:43.50 - 00:47.00] [CAMERA] Warm interior wide shot in front of a roaring hearth fire. Juliana sits on a wooden chair while Alexander kneels on the floor before her, a washbasin of water between them.
+  [00:44.00 - 00:47.00] [ACTION] Alexander gently wraps clean linen bandages around Juliana's torn wrist and palm.

@@ -1,0 +1,35 @@
+========================================================================
+PROMO RANK #83  |  Score: 74.5/100  |  Duration: 23.9s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 45
+Intercut         : No — Single Continuous Cut (Episode 45)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 45 | 00:27.60 -> 00:51.50 (23.9s)
+
+0-3s Hook        : JULIANA: "All this time?" (Incredulous, Moved)
+Cliffhanger Cut  : Cuts on CATHERINE: "Alexander..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:27.60 - 00:29.60] JULIANA (Incredulous, Moved): "All this time?"
+  [00:29.80 - 00:35.80] [CAMERA] Close-up two-shot as Alexander tenderly cradles Juliana's cheek in his gloved hand.
+  [00:30.20 - 00:33.00] ALEXANDER (Tender, Deep): "You chose me when you believed I was nobody."
+  [00:33.20 - 00:34.90] JULIANA (Sincere, Loving): "I chose you because you were kind."
+  [00:35.10 - 00:36.80] ALEXANDER (Low, Passionate): "You chose me when I had nothing."
+  [00:35.80 - 00:38.50] [CAMERA] Medium shot framed between them as Alexander holds her face with both hands, the crowd watching in stunned silence.
+  [00:37.00 - 00:38.70] JULIANA (Resolute, Warm): "I chose you because you had honor."
+  [00:38.50 - 00:42.00] [CAMERA] Tight close-up on Alexander looking deep into Juliana's blue eyes.
+  [00:38.80 - 00:41.80] ALEXANDER (Earnest, Devoted): "And I chose you because you saw the man before the title."
+  [00:42.00 - 00:48.90] [CAMERA] Extreme close-up as Alexander and Juliana rest their foreheads and noses together in an intimate embrace.
+  [00:42.20 - 00:48.50] [ACTION] Alexander and Juliana close their eyes, breathing together with their foreheads pressed gently against one another.
+  [00:43.80 - 00:46.00] JULIANA (Soft, Heartfelt): "I loved you before I ever knew who you were."
+  [00:46.10 - 00:48.80] ALEXANDER (Soft, Vowing): "And I loved you before I ever dared to tell you."
+  [00:48.90 - 00:51.80] [CAMERA] Medium shot as Alexander turns back toward the altar, where Catherine stands in her disheveled wedding gown.
+  [00:49.00 - 00:51.50] [ACTION] Catherine takes a desperate step forward, clutching her skirts and weeping.
+  [00:49.80 - 00:51.50] CATHERINE (Pleading, Desperate): "Alexander..."

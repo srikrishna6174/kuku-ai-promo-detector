@@ -219,7 +219,7 @@ def build_solution_pdf(output_filename="Solution_Document.pdf"):
     story.append(Paragraph("7. Production Workflow, Scaling & Deliverables (Moments Only — No Overlays/Editing)", h1_style))
     story.append(Paragraph(
         "• <b>Scaling &amp; Human-in-the-Loop Workflow:</b> Rule filtering processes 1,000+ episodes in under 45 seconds on standard CPU and dispatches only top candidate windows to LLMs; editors review ranked 20–60s cuts per project, pin manual adjustments, and export timestamped cut sheets without baked video overlays or music.<br/>"
-        "• <b>Deliverables:</b> (1) Per-project <i>Streamlit Promo Studio</i> for unseen scripts during live testing; (2) Unedited <i>outputs/</i> pack (<i>promos_master.json</i>, <i>promos_ranked.csv</i>, <i>promos_report.txt</i>, <i>quality_audit_and_failures.json</i>, stream-copy scripts &amp; markers); (3) 20/20 verified unit tests.",
+        "• <b>Deliverables:</b> (1) Per-project <i>Streamlit Promo Studio</i> for unseen scripts during live testing; (2) Structured unedited <i>outputs/</i> pack (<i>outputs/promos/</i> with JSON, CSV, .txt report &amp; individual cut sheets; <i>outputs/quality_audit/</i>; <i>outputs/editor_exports/</i> stream-copy scripts &amp; markers); (3) 20/20 verified unit tests.",
         body_style
     ))
 

@@ -1,0 +1,35 @@
+========================================================================
+PROMO RANK #62  |  Score: 67.8/100  |  Duration: 25.0s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 10
+Intercut         : No — Single Continuous Cut (Episode 10)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 6.2/10 | Cliffhanger 5.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 10 | 00:54.00 -> 01:19.00 (25.0s)
+
+0-3s Hook        : ALEXANDER: "Not much." (Gruff)
+Cliffhanger Cut  : Cuts on ALEXANDER: "Perhaps it is your hand."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:54.00 - 00:55.20] ALEXANDER (Gruff): "Not much."
+  [00:54.00 - 00:55.50] [CAMERA] Close-up of Alexander trying not to wince under her touch.
+  [00:55.50 - 00:58.00] [CAMERA] Close-up of Juliana smiling softly, amused by his stubborn pride.
+  [00:55.60 - 00:57.60] JULIANA (Playful, Whispering): "You are a terrible liar."
+  [00:58.00 - 01:00.00] [CAMERA] Extreme close-up of Juliana's fingers taking a dollop of green herbal salve and smoothing it gently over his shoulder wound.
+  [01:00.00 - 01:03.00] [CAMERA] Close-up over Juliana's shoulder looking at Alexander, who stares intently into her face, oblivious to the wound.
+  [01:03.00 - 01:06.20] [CAMERA] Close-up of Juliana looking up from his shoulder into his eyes, sensing the intensity of his gaze.
+  [01:03.90 - 01:06.10] JULIANA (Soft, Breathless): "Why do you look at me like that?"
+  [01:06.20 - 01:08.80] [CAMERA] Close-up of Alexander, his voice deep and laden with restrained emotion.
+  [01:06.50 - 01:08.40] ALEXANDER (Intense, Sincere): "Because you are looking at me."
+  [01:08.80 - 01:11.50] [CAMERA] Medium close-up of Juliana looking back down at his shoulder to hide her growing fluster, applying the salve carefully.
+  [01:09.60 - 01:10.90] JULIANA (Flustered, Whispering): "Hold still."
+  [01:11.50 - 01:14.50] [CAMERA] Medium shot of Alexander leaning closer to her, his breathing heavy.
+  [01:12.10 - 01:14.20] ALEXANDER (Low, Husky): "I am holding still."
+  [01:14.50 - 01:17.00] [CAMERA] Close-up two-shot of their faces drawing mere inches apart in the warm firelight.
+  [01:16.80 - 01:19.00] ALEXANDER (Whispering, Vulnerable): "Perhaps it is your hand."

@@ -1,0 +1,41 @@
+========================================================================
+PROMO RANK #82  |  Score: 74.5/100  |  Duration: 30.7s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 43
+Intercut         : No — Single Continuous Cut (Episode 43)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 43 | 00:24.10 -> 00:54.80 (30.7s)
+
+0-3s Hook        : BLOND NOBLEMAN: "You have all been deceived!" (Desperate, Flustered)
+Cliffhanger Cut  : Cuts on: Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade.
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:24.10 - 00:25.80] BLOND NOBLEMAN (Desperate, Flustered): "You have all been deceived!"
+  [00:26.00 - 00:28.00] [CAMERA] Medium close-up on Alexander, commanding and icy.
+  [00:26.10 - 00:28.00] ALEXANDER (Cold, Authoritative): "Then let the Crown decide."
+  [00:28.00 - 00:30.00] [CAMERA] Close-up on Alexander's hands holding an official War Office document bundle sealed with red wax and ribbon.
+  [00:28.20 - 00:30.00] [ACTION] Alexander brings forth the dossier stamped "WAR OFFICE - TOP SECRET" with the royal crest.
+  [00:30.00 - 00:33.40] ALEXANDER (Grave, Powerful): "These were delivered to me under the seal of the Crown."
+  [00:30.00 - 00:33.80] [CAMERA] Medium shot of Alexander holding up the sealed parcel before the room.
+  [00:33.50 - 00:34.50] ALEXANDER (Commanding): "Read the first."
+  [00:33.80 - 00:35.00] [CAMERA] Close-up on Lord Sterling looking sideways, his face pale with rising dread.
+  [00:35.00 - 00:37.00] [CAMERA] Two-shot of Alexander handing the dossier to a Crown Military Magistrate wearing white gloves and a high-collared black uniform.
+  [00:35.20 - 00:37.00] [ACTION] The Crown Official receives the dossier solemnly with both hands.
+  [00:37.00 - 00:42.80] [CAMERA] Medium close-up on the Crown Official opening the binder and reading aloud.
+  [00:37.20 - 00:38.60] [SOUND FX] Crisp sound of parchment turning.
+  [00:37.80 - 00:42.50] CROWN OFFICIAL (Clear, Formal): "Military Intelligence Report, Iberian front, three years ago."
+  [00:42.80 - 00:43.90] [CAMERA] Close-up on Rupert staring wide-eyed, completely petrified.
+  [00:43.90 - 00:47.80] [CAMERA] Medium close-up on the Crown Official continuing the official reading.
+  [00:44.00 - 00:47.40] CROWN OFFICIAL (Solemn, Objective): "Duke Alexander Ashburn's unit was ambushed after his location was compromised."
+  [00:47.80 - 00:50.80] [CAMERA] Frontal medium shot of the Crown Official turning a page as the congregation listens in breathless silence.
+  [00:47.80 - 00:50.80] CROWN OFFICIAL (Accusing, Measured): "The report identifies the leak as deliberate."
+  [00:50.80 - 00:54.80] [CAMERA] Wide shot across the rubble of the cathedral floor showing Rupert crumbling in fear against the choir railing.
+  [00:51.00 - 00:54.40] CROWN OFFICIAL (Voice Continuing): "Information regarding the Duke's position was transmitted through British channels."
+  [00:51.80 - 00:54.80] [ACTION] Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade.

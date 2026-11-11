@@ -1,0 +1,36 @@
+========================================================================
+PROMO RANK #45  |  Score: 80.5/100  |  Duration: 31.7s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 46
+Intercut         : No — Single Continuous Cut (Episode 46)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.5/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 46 | 00:17.30 -> 00:49.00 (31.7s)
+
+0-3s Hook        : HIGH PRIEST: "None shall leave until every witness is accounted for." (Stern, Commanding)
+Cliffhanger Cut  : Cuts on HIGH PRIEST: "No licensed clergyman presided..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:17.30 - 00:20.40] HIGH PRIEST (Stern, Commanding): "None shall leave until every witness is accounted for."
+  [00:20.50 - 00:22.80] [CAMERA] Wide shot of Alexander and Juliana standing defiant at the altar as congregation members watch in silence.
+  [00:20.60 - 00:22.80] HIGH PRIEST (O.S.) (Cold, Accusatory): "You married this woman as a nameless beggar..."
+  [00:22.80 - 00:26.80] [CAMERA] Medium close-up of the High Priest holding the decree, his gaze burning with disdain.
+  [00:22.90 - 00:26.50] HIGH PRIEST (Scornful, Harsh): "...in a hedge ceremony no clerk in England ever recorded."
+  [00:26.80 - 00:30.50] [CAMERA] Full shot of the High Priest brandishing the letter aloft in the center of the chapel nave.
+  [00:26.80 - 00:31.80] HIGH PRIEST (Resonant, Dismissive): "Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him."
+  [00:30.50 - 00:34.20] [CAMERA] Medium shot of Alexander turning toward Juliana, placing a protective hand on her arm.
+  [00:32.50 - 00:34.50] [ACTION] Juliana places her hand over Alexander's as he steps forward to shield her.
+  [00:34.20 - 00:37.00] [CAMERA] Close-up of Alexander, his scarred face hardening with unwavering conviction.
+  [00:34.30 - 00:36.70] ALEXANDER (Gravely, Firm): "She married the man... not the title."
+  [00:37.00 - 00:42.80] [CAMERA] Low-angle shot looking up at the High Priest as he raises the parchment toward the vaulted ceiling.
+  [00:37.30 - 00:42.50] HIGH PRIEST (Harsh, Derisive): "The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone."
+  [00:42.80 - 00:47.00] [CAMERA] Medium shot of the High Priest lowering the document, raising a single finger in admonishment.
+  [00:42.80 - 00:47.00] HIGH PRIEST (Rigid, Formal): "No Crown license was sought, because no one thought to ask leave for a Duke to marry."
+  [00:47.00 - 00:49.00] [CAMERA] Two-shot of Juliana and Alexander listening intently, Juliana's eyes flashing with hurt and defiance.
+  [00:47.10 - 00:49.00] HIGH PRIEST (O.S.) (Sharp): "No licensed clergyman presided..."

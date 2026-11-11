@@ -1,0 +1,38 @@
+========================================================================
+PROMO RANK #77  |  Score: 76.1/100  |  Duration: 43.18s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 40
+Intercut         : No — Single Continuous Cut (Episode 40)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.4/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 40 | 01:06.90 -> 01:50.08 (43.18s)
+
+0-3s Hook        : ROYAL GUARD: "Every one, my Lord." (Obedient, Firm)
+Cliffhanger Cut  : Cuts on: Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the solemn organ cho
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:06.90 - 01:08.20] ROYAL GUARD (Obedient, Firm): "Every one, my Lord."
+  [01:08.30 - 01:09.30] ELDER NOBLEMAN (Calculating): "Good."
+  [01:09.50 - 01:14.50] [CAMERA] Over-the-shoulder shot from behind the elder nobleman, his gloved hand resting on the stone balustrade, looking down upon the altar and seated aristocrats.
+  [01:09.80 - 01:14.20] ELDER NOBLEMAN (Ruthless, Victorious): "By sunset, Ashburgh will have its new Duke and Duchess."
+  [01:14.50 - 01:18.50] [CAMERA] Tight, menacing close-up on the elder nobleman's face as a cold, sinister smile spreads across his lips.
+  [01:14.80 - 01:17.40] ELDER NOBLEMAN (Deadly, Uncompromising): "And its witch will be dead."
+  [01:18.50 - 01:21.00] [SOUND FX] The heavy creak of massive wooden cathedral doors swinging open, accompanied by swelling bridal organ music.
+  [01:18.50 - 01:21.00] [CAMERA] Wide symmetrical shot down the candlelit aisle as the double doors part, flooding the cathedral with brilliant golden daylight.
+  [01:21.00 - 01:22.50] [CAMERA] Close-up of Rupert turning his head sharply, his eyes widening in awe.
+  [01:22.50 - 01:25.80] [CAMERA] Framed wide shot of Catherine silhouetted in the bright doorway, wearing a breathtaking cream and gold imperial bridal gown with puffed sleeves and an exquisite sheer veil.
+  [01:25.80 - 01:30.80] [CAMERA] Majestic high-angle wide tracking shot following Catherine from behind as her magnificent cathedral-length veil trails down the aisle between seated guests.
+  [01:30.80 - 01:34.50] [CAMERA] Medium close-up of Lady Harrington leaning forward from her pew, utterly captivated.
+  [01:32.00 - 01:34.20] LADY HARRINGTON (Awestruck, Whispering): "She looks like a queen."
+  [01:34.50 - 01:37.50] [CAMERA] Medium shot of Rupert at the altar, a proud, possessive smile breaking across his handsome face.
+  [01:37.50 - 01:42.80] [CAMERA] Full shot as Catherine reaches the top of the altar steps. Rupert steps forward and takes her gloved hands into his.
+  [01:40.00 - 01:42.80] BLOND NOBLEMAN (Enamored, Flattering): "You look more queen than bride."
+  [01:42.80 - 01:50.08] [CAMERA] Tight two-shot profile of Catherine and Rupert clasping hands intimately, gazing into each other's eyes with shared aristocratic vanity.
+  [01:45.00 - 01:49.00] CATHERINE (Smug, Coquettish): "And you look better in silk than you ever did as an ignored cousin."
+  [01:49.00 - 01:50.08] [ACTION] Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the solemn organ chord holds and the scene cuts to black.

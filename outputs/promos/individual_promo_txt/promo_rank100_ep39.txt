@@ -1,0 +1,33 @@
+========================================================================
+PROMO RANK #100  |  Score: 58.6/100  |  Duration: 22.7s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 39
+Intercut         : No — Single Continuous Cut (Episode 39)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 5.2/10 | Cliffhanger 4.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 39 | 00:13.80 -> 00:36.50 (22.7s)
+
+0-3s Hook        : Action: Four royal guards in red ceremonial tunics and tall black bearskin hats stand rigidly at attention w
+Cliffhanger Cut  : Cuts on: Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench.
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:13.80 - 00:15.80] [ACTION] Four royal guards in red ceremonial tunics and tall black bearskin hats stand rigidly at attention with rifles on the grand cathedral staircase.
+  [00:15.80 - 00:18.00] [CAMERA] Medium shot in a nearby alleyway where two loyalist conspirators huddle beside bundles of hay, discreetly passing a folded message.
+  [00:18.00 - 00:22.40] [CAMERA] Close profile two-shot of the two loyalist soldiers watching the cathedral spires in the distance.
+  [00:18.30 - 00:19.90] LOYALIST SCOUT (Low, Urgent): "Six at the front."
+  [00:20.20 - 00:21.80] LOYALIST FIGHTER (Grave): "Four more inside."
+  [00:22.40 - 00:24.20] [CAMERA] Medium over-the-shoulder shot of the two men conferring as townsfolk pass in the foreground.
+  [00:22.50 - 00:23.20] LOYALIST SCOUT (Focused): "And the east gate?"
+  [00:23.30 - 00:24.20] LOYALIST FIGHTER (Determined): "Ours."
+  [00:24.20 - 00:29.60] [CAMERA] Wide crane shot panning down as a horse-drawn cart loaded with cut firewood pulls up along the wet stone pavement in front of the cathedral steps.
+  [00:24.20 - 00:29.60] [ACTION] A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding the arched entryway.
+  [00:29.60 - 00:32.40] [CAMERA] Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart.
+  [00:29.80 - 00:30.60] ROYAL SENTRY (Commanding): "Stop!"
+  [00:30.80 - 00:32.40] CART DRIVER (Meek, Deferential): "Firewood for the kitchens, sir."
+  [00:32.40 - 00:36.50] [CAMERA] Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench.

@@ -1,0 +1,19 @@
+========================================================================
+INTERCUT TRAILER #1: The Altar Betrayal Speedrun (Intra-Episode Jumpcut)
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 1
+Intercut         : Yes — Multi-Segment (Intra-Episode) (2 segments)
+Total Duration   : 47.2s
+Score            : 96.5/100
+Marketing Tier   : Tier 1: Top-of-Funnel (Cold UA) - High Pacing
+
+INTERCUT SEGMENTS (IN PLAYBACK ORDER):
+  Segment 1: Episode 1 | 00:11.30 -> 00:25.50 (14.2s)
+    Beat: Matriarch blocks bride at church doors: 'You should turn around, Juliana... Gerald is waiting for me... Not anymore!'
+  Segment 2: Episode 1 | 01:45.00 -> 02:18.00 (33.0s)
+    Beat: Groom at altar: 'I cannot marry a woman of such plainness... when Clarissa is the true jewel of the county.' Drone swells to cliffhanger peak, cut to black.
+
+0-3s Hook        : Matriarch blocks the bride at the church threshold, sneering that the groom is no longer waiting for her.
+Cliffhanger Cut  : Groom publicly discards Juliana for her sister before the entire congregation, cutting to black on an ominous drone swell.
+Why It Works     : Bypasses 60 seconds of walking exposition to connect the initial shock directly to the altar rejection, doubling pacing.

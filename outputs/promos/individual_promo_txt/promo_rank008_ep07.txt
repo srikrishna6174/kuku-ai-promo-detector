@@ -1,0 +1,31 @@
+========================================================================
+PROMO RANK #8  |  Score: 80.6/100  |  Duration: 22.8s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 7
+Intercut         : No — Single Continuous Cut (Episode 7)
+Marketing Tier   : Tier 2: High-Engagement Escalation - Post Second
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 9.4/10 | Cliffhanger 5.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 7 | 00:22.00 -> 00:44.80 (22.8s)
+
+0-3s Hook        : Opens with ARISTOCRATIC WOMAN declaring: 'This is where you live now?'
+Cliffhanger Cut  : Cuts off right after JULIANA's unanswered confrontation: 'I work with my hands. There is no shame in that.'
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:22.00 - 00:24.50] ARISTOCRATIC WOMAN (Mocking, Condescending): "This is where you live now?"
+  [00:24.50 - 00:29.80] [CAMERA] Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully.
+  [00:25.00 - 00:29.80] GERALD (Arrogant, Scornful): "A fitting home for a woman who threw away everything for a penniless soldier."
+  [00:29.80 - 00:32.80] [CAMERA] Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair.
+  [00:30.00 - 00:32.60] JULIANA (Sharp, Unintimidated): "You came all this way just to insult my home?"
+  [00:32.80 - 00:37.50] [CAMERA] Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol.
+  [00:33.20 - 00:37.80] ARISTOCRATIC WOMAN (Gloating, Mocking): "Home? Look at your hands, Juliana."
+  [00:37.80 - 00:39.80] [CAMERA] Close-up of Juliana's mud-stained palms held open against her apron.
+  [00:38.20 - 00:39.80] ARISTOCRATIC WOMAN (O.S.) (Cruel): "You look like a servant."
+  [00:39.80 - 00:41.00] [CAMERA] Close-up of Gerald's smug expression watching Juliana.
+  [00:41.00 - 00:45.00] [CAMERA] Medium close-up of Juliana lifting her chin with unwavering dignity.
+  [00:41.20 - 00:44.80] JULIANA (Proud, Resolute): "I work with my hands. There is no shame in that."

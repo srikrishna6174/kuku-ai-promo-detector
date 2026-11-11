@@ -1,0 +1,38 @@
+========================================================================
+PROMO RANK #56  |  Score: 79.3/100  |  Duration: 32.4s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 37
+Intercut         : No — Single Continuous Cut (Episode 37)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 37 | 00:23.80 -> 00:56.20 (32.4s)
+
+0-3s Hook        : CATHERINE: "Juliana's execution comes after the wedding." (Venomous Satisfaction)
+Cliffhanger Cut  : Cuts on LADY CLARISSA: "And after the ceremony..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:23.80 - 00:26.40] CATHERINE (Venomous Satisfaction): "Juliana's execution comes after the wedding."
+  [00:26.50 - 00:30.00] [CAMERA] Wide shot framing the two conspirators beneath the towering archways of the estate.
+  [00:26.60 - 00:29.80] CATHERINE (Gleeful): "Perfect timing. It will be a feast for our guests."
+  [00:30.00 - 00:32.50] [CAMERA] Medium close-up of Rupert turning his gaze toward the grand entrance.
+  [00:30.20 - 00:32.20] BLOND NOBLEMAN (Rupert) (Decisive): "Send the invitations."
+  [00:32.50 - 00:34.50] [CAMERA] Close-up of Catherine looking sideways with narrowed eyes.
+  [00:32.80 - 00:34.50] CATHERINE (Spiteful): "Especially to the Ashcrofts."
+  [00:34.50 - 00:37.00] [CAMERA] Wide tracking shot down a palatial marble hall as a butler carries a silver tray toward double doors.
+  [00:37.00 - 00:39.80] [CAMERA] Medium shot inside an opulent drawing room with a roaring fireplace. Lady Clarissa sits gracefully in an emerald satin gown as the butler presents the tray.
+  [00:37.00 - 00:39.80] BUTLER (Formal): "Lady Clarissa, an invitation from Ashbridge Manor."
+  [00:39.50 - 00:44.00] [ACTION] Clarissa takes the cream envelope, breaks the red wax seal with her gloved thumbs, and slides out the heavy card.
+  [00:44.00 - 00:46.80] [CAMERA] Close-up of Clarissa's face lighting up with malicious excitement, the warm hearth flickering in the background.
+  [00:44.50 - 00:46.50] LADY CLARISSA (Amused, Thrilled): "Catherine's wedding."
+  [00:46.80 - 00:49.50] [CAMERA] Medium two-shot as her dark-haired husband steps up behind her chair, crossing his arms.
+  [00:47.00 - 00:49.20] NOBLEMAN (Observant): "So it is finally official."
+  [00:49.50 - 00:53.00] [CAMERA] Close-up of Clarissa smiling down at the calligraphy.
+  [00:50.00 - 00:52.80] LADY CLARISSA (Mockingly Reverent): "Lady Catherine Ashbridge."
+  [00:53.00 - 00:56.00] [CAMERA] Medium shot as Clarissa unfolds the second page attached to the invitation, her expression shifting to intrigue.
+  [00:54.00 - 00:56.20] LADY CLARISSA (Intrigued): "And after the ceremony..."

@@ -1,0 +1,32 @@
+========================================================================
+PROMO RANK #48  |  Score: 80.1/100  |  Duration: 39.1s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 26
+Intercut         : No — Single Continuous Cut (Episode 26)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 6.2/10 | Cliffhanger 9.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 26 | 00:40.30 -> 01:19.40 (39.1s)
+
+0-3s Hook        : JULIANA: "Rest now, Your Grace. You are safe tonight." (Gentle, Calming)
+Cliffhanger Cut  : Cuts on DOWAGER DUCHESS: "Then tell me... why is a girl of such noble spirit working as a common maid?"
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:40.30 - 00:43.00] JULIANA (Gentle, Calming): "Rest now, Your Grace. You are safe tonight."
+  [00:43.20 - 00:47.50] [CAMERA] Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper.
+  [00:43.50 - 00:47.00] JULIANA (Hushed, Tense Whisper): "If the guards hear us, we are both dead."
+  [00:47.50 - 00:50.80] [CAMERA] Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap.
+  [00:50.80 - 00:55.80] [CAMERA] Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face.
+  [00:52.50 - 00:55.50] [ACTION] The Duchess clutches the blanket against her chest, her breathing quickening with dismay.
+  [00:55.80 - 01:02.50] [CAMERA] Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty.
+  [00:56.00 - 01:02.00] DOWAGER DUCHESS (Trembling, Heartbroken): "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?"
+  [01:02.50 - 01:07.00] [CAMERA] Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears.
+  [01:02.60 - 01:06.70] JULIANA (Reassuring, Steadfast): "Yes. But the charcoal is fighting the poison. You are safe now."
+  [01:07.00 - 01:11.80] [CAMERA] Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp.
+  [01:11.80 - 01:19.60] [CAMERA] Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing.
+  [01:13.80 - 01:19.40] DOWAGER DUCHESS (Curious, Searching): "Then tell me... why is a girl of such noble spirit working as a common maid?"

@@ -1,0 +1,29 @@
+========================================================================
+PROMO RANK #92  |  Score: 65.8/100  |  Duration: 20.3s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 19
+Intercut         : No — Single Continuous Cut (Episode 19)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 4.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 19 | 01:16.50 -> 01:36.80 (20.3s)
+
+0-3s Hook        : ALEXANDER: "My mother is a prisoner in her own house." (Cold, Pained Fury)
+Cliffhanger Cut  : Cuts on: Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:16.50 - 01:18.80] ALEXANDER (Cold, Pained Fury): "My mother is a prisoner in her own house."
+  [01:18.80 - 01:21.20] [CAMERA] Close-up of the informant looking steadily at Alexander.
+  [01:19.00 - 01:21.00] INFORMANT (Quiet, Solemn): "And everyone believes you are dead."
+  [01:21.20 - 01:23.80] [CAMERA] Extreme close-up of Alexander's scarred eye and grimly set mouth.
+  [01:21.50 - 01:23.70] ALEXANDER (Lethal, Calculating): "Then let them believe it a little longer."
+  [01:24.00 - 01:25.50] INFORMANT (Inquiring, Tense): "And when we have the proof?"
+  [01:25.50 - 01:29.50] [CAMERA] Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog.
+  [01:25.90 - 01:28.90] ALEXANDER (Vow of Vengeance, Resolute): "Then Ashburg will remember who it belongs to."
+  [01:29.50 - 01:34.00] [CAMERA] Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern.
+  [01:34.00 - 01:36.80] [CAMERA] Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the charred page of her mother's herbal.

@@ -1,0 +1,53 @@
+========================================================================
+PROMO RANK #9  |  Score: 90.6/100  |  Duration: 57.41s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 39
+Intercut         : No — Single Continuous Cut (Episode 39)
+Marketing Tier   : Tier 2: High-Engagement Escalation - Post Second
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.4/10 | Cliffhanger 9.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 39 | 00:41.00 -> 01:38.41 (57.41s)
+
+0-3s Hook        : Opens with LOYALIST FIGHTER declaring: 'Sleep.'
+Cliffhanger Cut  : Abruptly cuts on high-tension visual action: Alexander's eyes burn with furious determination as the screen cuts sharply to black.
+Why It Works     : Explosive confrontation with rapid dialogue and an unanswered ultimatum that drives high click-through.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:41.00 - 00:42.20] LOYALIST FIGHTER (Whispering, Cold): "Sleep."
+  [00:42.80 - 00:46.80] [CAMERA] Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors.
+  [00:46.80 - 00:50.00] [CAMERA] Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary.
+  [00:47.00 - 00:48.10] CART DRIVER (Relieved, Firm): "The road is clear."
+  [00:48.20 - 00:49.20] LOYALIST FIGHTER (Resolute): "Tell the Duke."
+  [00:50.00 - 00:52.80] [CAMERA] Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek.
+  [00:50.00 - 00:52.80] [ACTION] Alexander stares solemnly at his rugged reflection, his expression dark and resolute.
+  [00:52.80 - 00:55.80] [CAMERA] Tilt-down medium close-up over a wooden table displaying a pristine navy-and-gold embroidered ducal uniform, ornate lion crest brooch, white cravat, razor, and scissors.
+  [00:55.80 - 00:59.80] [CAMERA] Medium profile shot of Alexander lifting the metal shears beside the window light, raising them toward his hair.
+  [00:56.50 - 00:59.80] [ACTION] Alexander snips through his overgrown locks, shedding the years of exile and camouflage.
+  [00:57.20 - 01:00.80] [SOUND FX] Rhythmic, metallic snips of heavy shears cutting through thick hair.
+  [00:59.80 - 01:01.20] [CAMERA] Medium shot as Alexander trims his beard at the jawline.
+  [01:01.20 - 01:06.60] [CAMERA] Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features.
+  [01:02.00 - 01:02.80] ALEXANDER (Deep, Steely Resolve): "Enough hiding."
+  [01:02.00 - 01:06.60] [ACTION] Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power.
+  [01:03.00 - 01:05.50] ALEXANDER (Dark, Unforgiving): "They buried Alexander Ashwin three years ago."
+  [01:05.60 - 01:06.90] ALEXANDER (Fierce, Commanding): "Today, he comes home."
+  [01:06.60 - 01:08.50] [CAMERA] Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench.
+  [01:08.50 - 01:11.80] [CAMERA] Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light.
+  [01:08.50 - 01:11.80] [ACTION] Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat.
+  [01:11.80 - 01:14.80] [CAMERA] Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat.
+  [01:14.80 - 01:17.80] [CAMERA] Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow.
+  [01:15.80 - 01:17.20] LOYALIST (Reverent, Submissive): "Your Grace."
+  [01:17.80 - 01:22.50] [CAMERA] Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel.
+  [01:20.50 - 01:22.20] ALEXANDER (Authoritative, Command): "Secure the chapel."
+  [01:22.50 - 01:25.20] [CAMERA] Medium close-up of the soldier rising and snapping a crisp military salute.
+  [01:23.80 - 01:25.20] LOYALIST (Resolute): "Yes, Your Grace."
+  [01:25.20 - 01:35.00] [CAMERA] Slow dramatic tracking shot moving backward in front of Alexander as he strides purposefully through the deep snow, the wooden chapel looming in the distance behind him.
+  [01:25.50 - 01:27.20] ALEXANDER (Powerful, Roaring Defiance): "No more hiding."
+  [01:27.50 - 01:30.20] ALEXANDER (Fierce, Unyielding): "I am taking back my house."
+  [01:30.20 - 01:35.00] [ACTION] Alexander marches forward unstoppably, his long coat fluttering in the winter wind as his icy gaze locks forward.
+  [01:35.00 - 01:38.00] ALEXANDER (Passionate, Unstoppable Vow): "And I am bringing my wife home."
+  [01:35.00 - 01:38.41] [CAMERA] Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction.
+  [01:37.80 - 01:38.41] [ACTION] Alexander's eyes burn with furious determination as the screen cuts sharply to black.

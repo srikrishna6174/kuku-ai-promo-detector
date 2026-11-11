@@ -1,0 +1,35 @@
+========================================================================
+PROMO RANK #2  |  Score: 84.8/100  |  Duration: 23.2s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 1
+Intercut         : No — Single Continuous Cut (Episode 1)
+Marketing Tier   : Tier 1: Top-of-Funnel (Cold UA) - Post First
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 10.0/10 | Cliffhanger 6.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 1 | 01:15.00 -> 01:38.20 (23.2s)
+
+0-3s Hook        : Opens with LADY IN GOLD GOWN declaring: 'Long enough to know he was never going to marry you.'
+Cliffhanger Cut  : Cuts off right after LADY JULIANA's unanswered confrontation: 'Embarrassed you?'
+Why It Works     : High-stakes public humiliation and betrayal immediately hooks cold viewers; unresolved climax forces app download.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:15.00 - 01:18.50] LADY IN GOLD GOWN (Cruel, Poised): "Long enough to know he was never going to marry you."
+  [01:19.00 - 01:21.00] [ACTION] Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.
+  [01:19.00 - 01:21.40] [CAMERA] Close-up on the father's hand tightly gripping the gold curved handle of his walking cane.
+  [01:20.10 - 01:21.20] LADY JULIANA (Desperate): "Father..."
+  [01:21.40 - 01:23.60] LADY JULIANA (Begging): "Tell them this is a mistake."
+  [01:21.40 - 01:23.70] [CAMERA] Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.
+  [01:23.70 - 01:26.00] [CAMERA] Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze.
+  [01:26.00 - 01:28.90] LADY JULIANA (Choking, Broken): "Father... please look at me."
+  [01:26.00 - 01:29.50] [CAMERA] Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks.
+  [01:29.50 - 01:30.80] [ACTION] The father tightens his jaw and stony expression, refusing to offer a single word or look.
+  [01:29.50 - 01:30.80] [CAMERA] Profile close-up of the father staring blankly forward.
+  [01:30.80 - 01:35.80] [CAMERA] Low-angle shot looking up at the Matriarch commanding the space with regal severity.
+  [01:30.90 - 01:31.90] MATRIARCH (Stern, Resolute): "Enough!"
+  [01:32.10 - 01:35.50] MATRIARCH (Disgusted): "You have embarrassed this family long enough."
+  [01:35.80 - 01:38.60] [CAMERA] Close-up on Juliana as she rises, stung by the utter betrayal.
+  [01:36.20 - 01:38.20] LADY JULIANA (Incredulous): "Embarrassed you?"

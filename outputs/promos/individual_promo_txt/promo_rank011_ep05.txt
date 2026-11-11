@@ -1,0 +1,38 @@
+========================================================================
+PROMO RANK #11  |  Score: 79.3/100  |  Duration: 39.0s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 5
+Intercut         : No — Single Continuous Cut (Episode 5)
+Marketing Tier   : Tier 2: High-Engagement Escalation - Post Second
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 5 | 00:06.80 -> 00:45.80 (39.0s)
+
+0-3s Hook        : LORD ASHCROFT: "You will not leave this church carrying the Ashcroft name." (Cold, Condemnatory)
+Cliffhanger Cut  : Cuts on LADY ASHCROFT: "And the ledger..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:06.80 - 00:10.40] LORD ASHCROFT (Cold, Condemnatory): "You will not leave this church carrying the Ashcroft name."
+  [00:10.50 - 00:15.80] [CAMERA] Medium close-up of Juliana looking up at her father. Her hand rises to touch the amethyst heirloom pendant resting at her throat.
+  [00:11.70 - 00:15.50] JULIANA (Defiant, Steadfast): "The vows are spoken, Father. I am his wife now."
+  [00:15.80 - 00:20.80] [CAMERA] Medium shot of Lord Ashcroft standing rigid outside the chapel archway, unforgiving and unyielding.
+  [00:16.00 - 00:18.00] LORD ASHCROFT (Harsh, Final): "Then leave as his wife."
+  [00:18.50 - 00:20.80] LORD ASHCROFT (Harsh, Final): "You leave as no daughter of mine."
+  [00:20.80 - 00:25.00] [CAMERA] Low-angle shot tracking Lord Ashcroft's polished black boots as he slowly descends the stone steps toward them.
+  [00:21.00 - 00:23.00] LORD ASHCROFT (O.S. / Continues): "Your dowry is revoked."
+  [00:23.10 - 00:25.10] LORD ASHCROFT (O.S. / Continues): "Your inheritance is revoked."
+  [00:25.00 - 00:29.00] [CAMERA] Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest.
+  [00:25.40 - 00:28.90] LORD ASHCROFT (O.S. / Continues): "From this moment, you are dead to the Ashcroft family."
+  [00:29.50 - 00:33.40] JULIANA (Shaking, Tearful): "You truly mean it? You are my father!"
+  [00:33.50 - 00:36.50] [CAMERA] Close-up of the Mysterious Bearded Man, observing Lord Ashcroft with an unblinking, quietly threatening stare.
+  [00:33.80 - 00:36.80] LORD ASHCROFT (O.S.): "And you have chosen to become a stranger."
+  [00:36.50 - 00:41.50] [CAMERA] Profile medium two-shot of Juliana and Lord Ashcroft standing face-to-face against the backdrop of the towering gothic facade.
+  [00:37.60 - 00:41.50] JULIANA (Quietly Resolute): "No, Father. You chose that long before today."
+  [00:41.50 - 00:46.00] [CAMERA] Medium close-up of Lady Ashcroft, resplendent in navy velvet and jewels, stepping forward with a smirk of malicious authority.
+  [00:42.50 - 00:44.20] LADY ASHCROFT (Sharply Dismissive): "Enough sentiment."
+  [00:44.30 - 00:45.80] LADY ASHCROFT (Cold, Demanding): "And the ledger..."

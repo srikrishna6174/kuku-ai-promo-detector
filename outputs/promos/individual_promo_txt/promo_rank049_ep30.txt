@@ -1,0 +1,40 @@
+========================================================================
+PROMO RANK #49  |  Score: 80.1/100  |  Duration: 37.8s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 30
+Intercut         : No — Single Continuous Cut (Episode 30)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 6.2/10 | Cliffhanger 9.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 30 | 00:26.50 -> 01:04.30 (37.8s)
+
+0-3s Hook        : RUPERT: "She knows the Duchess was poisoned." (Muttered, Paranoid)
+Cliffhanger Cut  : Cuts on RUPERT: "The law?"
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:26.50 - 00:29.20] RUPERT (Muttered, Paranoid): "She knows the Duchess was poisoned."
+  [00:29.80 - 00:32.00] [CAMERA] Tight close-up on the Elder Nobleman's unyielding eyes narrowing in cold calculation.
+  [00:32.00 - 00:33.40] [CAMERA] Tight close-up of Rupert swallows hard, breathless with dread.
+  [00:32.10 - 00:33.30] RUPERT (Fearful): "If she speaks..."
+  [00:33.40 - 00:35.20] [ACTION] The Elder Nobleman thrusts the gold knob of his walking stick directly against Rupert's chest, pinning him against the wall.
+  [00:33.40 - 00:39.80] [CAMERA] Medium two-shot as the Elder Nobleman lunges forward aggressively, stepping into Rupert's personal space.
+  [00:33.60 - 00:39.80] ELDER NOBLEMAN (Fierce, Venomous): "Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!"
+  [00:39.80 - 00:43.80] [CAMERA] Low-angle close-up of Rupert gasping softly, intimidated by the cane pressed firmly beneath his cravat.
+  [00:41.80 - 00:43.50] RUPERT (Faltering, Submissive): "What are you suggesting?"
+  [00:43.80 - 00:47.60] [CAMERA] Medium shot as the Elder Nobleman withdraws his cane and turns sharply toward the library doors.
+  [00:44.80 - 00:47.30] ELDER NOBLEMAN (Calculated, Ominous): "We stop hiding the prisoner."
+  [00:47.60 - 00:51.00] [CAMERA] Tracking shot from behind the Elder Nobleman as he pushes open the heavy double doors into the dark wood-paneled library.
+  [00:48.00 - 00:50.50] [SOUND FX] The heavy creak of massive mahogany doors gliding open on brass hinges.
+  [00:51.00 - 00:54.60] [CAMERA] Front medium shot of the Elder Nobleman pausing inside the library doorway, Rupert following behind him.
+  [00:51.20 - 00:54.00] ELDER NOBLEMAN (Deadpan, Sinister): "We give them a reason to condemn her."
+  [00:54.60 - 00:58.80] [CAMERA] Wide shot of Catherine standing regally before the roaring stone hearth, dressed in an ornate burgundy and gold brocade gown, slowly unfurling a red lace fan.
+  [00:57.00 - 00:58.80] CATHERINE (Inquiring, Sharp): "You have a solution?"
+  [00:58.80 - 01:02.80] [CAMERA] Side profile close-up of the Elder Nobleman speaking with icy confidence.
+  [00:59.40 - 01:02.50] ELDER NOBLEMAN (Ruthless): "We use the law to destroy her."
+  [01:02.80 - 01:04.80] [CAMERA] Close-up of Rupert looking bewildered.
+  [01:03.10 - 01:04.30] RUPERT (Confused): "The law?"

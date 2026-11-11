@@ -1,0 +1,46 @@
+========================================================================
+PROMO RANK #42  |  Score: 76.1/100  |  Duration: 31.7s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 16
+Intercut         : No — Single Continuous Cut (Episode 16)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.4/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 16 | 00:02.10 -> 00:33.80 (31.7s)
+
+0-3s Hook        : THUG WITH CAP: "Move aside, soldier." (Menacing, Goading)
+Cliffhanger Cut  : Cuts on JULIANA: "Alexander..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:02.10 - 00:04.20] THUG WITH CAP (Menacing, Goading): "Move aside, soldier."
+  [00:02.10 - 00:04.50] [CAMERA] Medium close-up of the Thug with Cap, his eyes wide and sneering with false bravado as his bald accomplice watches from behind.
+  [00:04.50 - 00:06.40] [CAMERA] Extreme close-up of Alexander's scarred, weathered face, his cold blue-grey eyes fixed intently on his opponent.
+  [00:06.40 - 00:08.80] THUG WITH CAP (Furious, Shouting): "I said, move!"
+  [00:06.40 - 00:09.50] [CAMERA] Low-angle medium shot of the Thug with Cap gripping his weapon with both hands and roaring into the night air.
+  [00:09.50 - 00:11.20] [CAMERA] Medium close-up of Alexander remaining completely motionless, his jaw clenched in stoic calm.
+  [00:11.20 - 00:12.70] JULIANA (Frightened, Whispering): "Alexander..."
+  [00:11.20 - 00:13.10] [CAMERA] Close-up of Juliana kneeling in the mud against the ruined planter, clutching her bandaged hands to her chest in trembling fear.
+  [00:13.10 - 00:14.30] ALEXANDER (Calm, Protective): "Stay behind me."
+  [00:14.30 - 00:16.00] [CAMERA] Medium action shot as the Thug with Cap lunges forward with his weapon raised high.
+  [00:14.40 - 00:15.50] THUG WITH CAP (Roaring): "Aaargh!"
+  [00:14.40 - 00:16.80] [ACTION] The thug swings the club down with full force, but Alexander catches the weapon mid-air in his bare hand with chilling ease.
+  [00:15.80 - 00:16.50] [SOUND FX] Heavy blunt impact of a solid hand gripping wood.
+  [00:16.80 - 00:19.50] [CAMERA] Close-up of the Thug with Cap staring in wide-eyed terror as Alexander grips the bar and wrenches it away effortlessly.
+  [00:19.20 - 00:21.80] [ACTION] Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.
+  [00:19.80 - 00:21.20] [SOUND FX] Heavy thud of a body crashing into soil and wood.
+  [00:21.80 - 00:23.00] [CAMERA] Close-up of Juliana watching in breathless astonishment.
+  [00:23.00 - 00:23.80] BALD THUG (Yelling): "Aaargh!"
+  [00:23.00 - 00:25.80] [CAMERA] Medium tracking shot as the Bald Thug charges in with a shout, only for Alexander to pivot and seize him by the neck, hurling him across the garden path.
+  [00:24.20 - 00:25.50] [SOUND FX] Loud wooden scrape and crunch as the Bald Thug slides across the planks into the fence.
+  [00:25.80 - 00:27.10] THIRD THUG (Desperate, Shouting): "Stay back!"
+  [00:25.80 - 00:28.50] [CAMERA] Medium shot of the Third Thug backing away nervously, raising a blunt rod with trembling arms before lunging.
+  [00:26.50 - 00:28.50] [ACTION] Alexander deflects the strike with his forearm, drives a swift counter-blow into the thug's torso, and spins him violently to the ground.
+  [00:27.00 - 00:28.20] [SOUND FX] Solid bone-and-fist impact followed by a groaning thud.
+  [00:28.50 - 00:31.00] [CAMERA] Wide cinematic shot under the full moon. Alexander towers over the three writhing thugs groaning in the mud as Juliana looks up from her knees.
+  [00:31.00 - 00:34.50] [CAMERA] Low-angle close-up of Juliana looking up at Alexander, tears glistening on her mud-splattered cheeks in profound relief.
+  [00:32.00 - 00:33.80] JULIANA (Breathless, Overwhelmed): "Alexander..."

@@ -1,0 +1,38 @@
+========================================================================
+PROMO RANK #50  |  Score: 69.5/100  |  Duration: 30.1s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 10
+Intercut         : No — Single Continuous Cut (Episode 10)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 6.2/10 | Cliffhanger 6.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 10 | 00:23.20 -> 00:53.30 (30.1s)
+
+0-3s Hook        : ALEXANDER: "It is only a scratch." (Low, Defiant)
+Cliffhanger Cut  : Cuts on JULIANA: "Does it hurt?"
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:23.20 - 00:24.90] ALEXANDER (Low, Defiant): "It is only a scratch."
+  [00:25.20 - 00:28.00] [CAMERA] Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance.
+  [00:25.50 - 00:28.00] JULIANA (Sarcastic, Challenging): "Then removing your shirt should not trouble you."
+  [00:28.00 - 00:31.80] [CAMERA] Medium shot as Alexander stares at her for a beat before pushing himself up from the chair and shedding his heavy leather coat.
+  [00:31.80 - 00:33.20] [CAMERA] Close-up of Juliana observing him with guarded anticipation.
+  [00:33.20 - 00:36.50] [CAMERA] Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations.
+  [00:36.50 - 00:38.00] [CAMERA] Tight pan over the scarred, wounded flesh along his chest and ribs.
+  [00:38.00 - 00:39.20] [CAMERA] Close-up of Juliana's eyes widening in horror and deep pity.
+  [00:38.10 - 00:38.90] JULIANA (Whispering, Distressed): "Dear God."
+  [00:39.20 - 00:43.00] [CAMERA] Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor.
+  [00:43.00 - 00:45.00] [CAMERA] Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest.
+  [00:45.00 - 00:47.30] [CAMERA] Close-up of Juliana looking up at him, her eyes softened with profound empathy.
+  [00:45.30 - 00:47.10] JULIANA (Soft, Sorrowful): "You have suffered terribly."
+  [00:47.30 - 00:49.50] [CAMERA] Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism.
+  [00:47.80 - 00:49.00] ALEXANDER (Quiet, Somber): "It is over."
+  [00:49.50 - 00:51.50] [CAMERA] Medium close-up of Juliana dipping a linen cloth into the water bowl.
+  [00:49.70 - 00:51.30] JULIANA (Gentle): "Your scars disagree."
+  [00:51.50 - 00:54.00] [CAMERA] Close-up shot of Juliana carefully dabbing the damp cloth against the bloody cut on Alexander's shoulder.
+  [00:52.00 - 00:53.30] JULIANA (Tender): "Does it hurt?"

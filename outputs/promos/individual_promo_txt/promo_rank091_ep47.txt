@@ -1,0 +1,36 @@
+========================================================================
+PROMO RANK #91  |  Score: 71.0/100  |  Duration: 31.2s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 47
+Intercut         : No — Single Continuous Cut (Episode 47)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 5.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 47 | 01:36.00 -> 02:07.20 (31.2s)
+
+0-3s Hook        : CATHERINE: "You want me? As a guest?" (Incredulous, Stunned)
+Cliffhanger Cut  : Cuts on JULIANA: "I offer you bread and honest labor. Take the apron, or leave the county."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:36.00 - 01:38.80] CATHERINE (Incredulous, Stunned): "You want me? As a guest?"
+  [01:38.80 - 01:41.20] [CAMERA] Close-up of Juliana staring straight into Catherine's eyes without blinking.
+  [01:39.20 - 01:41.00] JULIANA (Unflinching, Firm): "As a scullery maid."
+  [01:41.20 - 01:44.80] [CAMERA] Medium shot of Catherine recoiling in disgust, looking around at the gathered estate retainers.
+  [01:41.50 - 01:44.50] CATHERINE (Outraged, Venomous): "You expect me to scrub floors before these commoners?"
+  [01:44.80 - 01:48.50] [CAMERA] Dramatic profile two-shot of Juliana standing inches away from Catherine, dominating the confrontation.
+  [01:45.20 - 01:48.50] JULIANA (Measured, Commanding): "You will scrub the floors you walked on as an impostor."
+  [01:48.50 - 01:51.50] [CAMERA] Juliana extends the ring of iron keys outward in her fist.
+  [01:48.80 - 01:51.50] JULIANA (Stern, Demanding): "You will scrub the manor hearths at dawn."
+  [01:51.50 - 01:54.50] [CAMERA] Close profile two-shot of the two women locked in an intense psychological battle.
+  [01:51.80 - 01:54.50] JULIANA (Unforgiving): "You will scour the kitchen grease until midnight."
+  [01:54.50 - 01:58.50] [CAMERA] Juliana presents the rough hemp apron and heavy keys right to Catherine's face.
+  [01:54.80 - 01:58.50] JULIANA (Stern, Final): "One complaint from the housekeeper, and you are cast out with nothing."
+  [01:58.50 - 02:01.80] [CAMERA] Close-up of Catherine's trembling lips, humiliated tears spilling down her heavily made-up cheeks.
+  [01:59.20 - 02:01.60] CATHERINE (Choked, Humiliated): "You humiliate me."
+  [02:01.80 - 02:07.50] [CAMERA] Medium shot of both women standing beneath the cathedral vaulting of the hall.
+  [02:02.20 - 02:07.20] JULIANA (Calm, Sovereign): "I offer you bread and honest labor. Take the apron, or leave the county."

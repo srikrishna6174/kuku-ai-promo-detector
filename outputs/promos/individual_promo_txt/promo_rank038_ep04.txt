@@ -1,0 +1,48 @@
+========================================================================
+PROMO RANK #38  |  Score: 71.3/100  |  Duration: 40.2s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 4
+Intercut         : No — Single Continuous Cut (Episode 4)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 6.2/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 4 | 01:12.80 -> 01:53.00 (40.2s)
+
+0-3s Hook        : JULIANA: "Then I accept." (Resolved)
+Cliffhanger Cut  : Cuts on THE PRIEST: "By the authority entrusted to me, I now pronounce you..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:12.80 - 01:14.50] JULIANA (Resolved): "Then I accept."
+  [01:14.80 - 01:16.20] [CAMERA] Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them.
+  [01:16.20 - 01:19.00] [CAMERA] Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana.
+  [01:16.20 - 01:19.00] [ACTION] The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana.
+  [01:19.00 - 01:21.80] [CAMERA] Close-up of Juliana's slender hand resting gently into his large, weathered palm.
+  [01:19.20 - 01:21.50] [ACTION] He folds his fingers over hers, holding her hand with protective firmness.
+  [01:21.80 - 01:24.00] [CAMERA] Medium close-up of the Priest holding his open liturgical book, bewildered and trembling.
+  [01:22.00 - 01:23.80] THE PRIEST (Hesitant, Anxious): "My- My Lady..."
+  [01:24.00 - 01:25.80] THE PRIEST (Tentative): "Are you certain?"
+  [01:24.00 - 01:26.00] [CAMERA] Tight close-up of the Priest's alarmed, questioning eyes.
+  [01:26.00 - 01:28.80] [CAMERA] Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence.
+  [01:28.80 - 01:31.50] [CAMERA] Close-up profile of Juliana, her expression clear and unshakable.
+  [01:29.80 - 01:31.00] JULIANA (Unwavering): "I am."
+  [01:31.50 - 01:34.80] [CAMERA] Medium close-up of the Priest swallowing hard and looking down at his book.
+  [01:32.00 - 01:34.50] THE PRIEST (Resigned, Solemn): "Then... let us proceed."
+  [01:34.80 - 01:37.80] [CAMERA] Close two-shot of the Mysterious Bearded Man and Juliana gazing intimately into each other's eyes.
+  [01:35.80 - 01:38.00] MYSTERIOUS BEARDED MAN (Low, Reassuring): "You need not say anything you do not mean."
+  [01:37.80 - 01:40.20] [CAMERA] Close-up of Juliana smiling softly up at him.
+  [01:38.20 - 01:40.00] JULIANA (Warm, Sincere): "I truly mean it."
+  [01:40.20 - 01:42.20] [CAMERA] Close-up shot of his hands sliding the silver ring over her ring finger.
+  [01:40.20 - 01:42.20] [ACTION] The Mysterious Bearded Man carefully slides the band onto Juliana's finger.
+  [01:42.20 - 01:45.00] [CAMERA] Medium close-up of the Mysterious Bearded Man holding her hands tenderly.
+  [01:42.50 - 01:44.20] MYSTERIOUS BEARDED MAN (Solemn): "You have my protection."
+  [01:45.00 - 01:47.80] [CAMERA] Tight shot of the warrior's face, his eyes full of devotion.
+  [01:45.20 - 01:47.00] MYSTERIOUS BEARDED MAN (Steadfast): "You have my respect."
+  [01:47.80 - 01:49.80] MYSTERIOUS BEARDED MAN (Grave): "And you have my word."
+  [01:47.80 - 01:50.00] [CAMERA] Extreme close-up of his intense gaze.
+  [01:50.00 - 01:52.80] [CAMERA] Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands.
+  [01:50.00 - 01:53.00] THE PRIEST (Ceremonial): "By the authority entrusted to me, I now pronounce you..."

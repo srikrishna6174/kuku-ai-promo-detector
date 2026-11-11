@@ -1,0 +1,37 @@
+========================================================================
+PROMO RANK #16  |  Score: 81.5/100  |  Duration: 28.2s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 25
+Intercut         : No — Single Continuous Cut (Episode 25)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 8.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 25 | 01:45.60 -> 02:13.80 (28.2s)
+
+0-3s Hook        : ALEXANDER: "You treated her?" (Incredulous)
+Cliffhanger Cut  : Cuts on ALEXANDER: "Because you were standing inside a house where someone is poisoning a woman... and you never told me."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:45.60 - 01:47.00] ALEXANDER (Incredulous): "You treated her?"
+  [01:47.20 - 01:48.00] JULIANA (Firm): "Yes."
+  [01:47.80 - 01:51.80] [CAMERA] Close-up profile of the two facing each other.
+  [01:48.40 - 01:49.40] ALEXANDER (Tense): "Alone?"
+  [01:49.80 - 01:51.20] JULIANA (Soft): "With Prudence."
+  [01:51.80 - 01:54.80] [CAMERA] Close-up of Alexander, his brow furrowed with deep protective worry.
+  [01:52.20 - 01:54.40] ALEXANDER (Anxious): "Will you be going there again?"
+  [01:54.80 - 01:57.50] [CAMERA] Close-up of Juliana, her eyes filled with resolute purpose.
+  [01:55.20 - 01:56.80] JULIANA (Determined): "I have to."
+  [01:57.50 - 02:00.20] JULIANA (Pleading, Defiant): "She is still sick. I cannot leave her there."
+  [01:57.50 - 02:01.00] [ACTION] Juliana places her gentle hand against Alexander's broad chest, trying to soothe his rising anger.
+  [01:57.50 - 02:01.50] [CAMERA] Two-shot of Juliana leaning in, her hand resting over Alexander's coat.
+  [02:01.00 - 02:05.00] [ACTION] Alexander takes both of her hands into his own, gripping them tightly.
+  [02:01.50 - 02:05.50] [CAMERA] Medium two-shot of Alexander holding Juliana's hands in the dusky woods.
+  [02:05.50 - 02:08.00] [CAMERA] Close-up of Juliana looking up into his darkened face with questioning concern.
+  [02:05.80 - 02:07.50] JULIANA (Gentle, Perplexed): "Alexander... why are you so angry?"
+  [02:08.00 - 02:14.50] [CAMERA] Close-up of Alexander speaking through clenched teeth, barely containing his protective fury.
+  [02:08.20 - 02:13.80] ALEXANDER (Fierce, Reproachful): "Because you were standing inside a house where someone is poisoning a woman... and you never told me."

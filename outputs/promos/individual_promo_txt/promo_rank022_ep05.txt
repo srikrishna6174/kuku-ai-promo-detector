@@ -1,0 +1,45 @@
+========================================================================
+PROMO RANK #22  |  Score: 75.8/100  |  Duration: 45.3s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 5
+Intercut         : No — Single Continuous Cut (Episode 5)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 5.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 5 | 00:55.50 -> 01:40.80 (45.3s)
+
+0-3s Hook        : JULIANA: "Barbara, don't!" (Screaming, Desperate)
+Cliffhanger Cut  : Cuts on MYSTERIOUS BEARDED MAN: "Choose your next words carefully."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:55.50 - 00:56.80] JULIANA (Screaming, Desperate): "Barbara, don't!"
+  [00:57.00 - 00:58.20] [SOUND FX] A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.
+  [00:57.80 - 01:03.00] [CAMERA] Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter.
+  [00:59.00 - 01:02.50] CLARISSA (Gleeful, Mocking): "Even your mother's precious legacy has been cast into the dirt!"
+  [01:02.40 - 01:04.60] GERALD (Smug, Cruel): "Perhaps that is where it belongs."
+  [01:03.00 - 01:06.50] [CAMERA] Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.
+  [01:05.50 - 01:08.50] [ACTION] Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.
+  [01:06.50 - 01:09.00] [CAMERA] Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle.
+  [01:09.00 - 01:12.50] [CAMERA] Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her.
+  [01:10.50 - 01:14.50] [ACTION] The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.
+  [01:14.50 - 01:16.00] [CAMERA] Close-up of his large, weathered hands gently lifting the wet, embossed leather book from the ground.
+  [01:16.00 - 01:20.00] [CAMERA] Medium two-shot as he holds out the retrieved ledger and places it into Juliana's trembling hands.
+  [01:17.80 - 01:19.00] MYSTERIOUS BEARDED MAN (Low, Gentle): "Here you go."
+  [01:20.00 - 01:25.50] [CAMERA] Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity.
+  [01:20.50 - 01:22.00] JULIANA (Choked, Weeping): "They destroyed it."
+  [01:22.50 - 01:25.40] MYSTERIOUS BEARDED MAN (Calm, Grounded): "They dirtied it. That is not the same thing."
+  [01:25.50 - 01:31.00] [CAMERA] Medium two-shot of Juliana pressing the soiled book tightly against her chest, weeping softly.
+  [01:26.50 - 01:27.80] JULIANA (Broken): "It was my mother's."
+  [01:27.90 - 01:29.00] MYSTERIOUS BEARDED MAN (Gentle, Protective): "Then keep it."
+  [01:28.50 - 01:31.00] [ACTION] The Mysterious Bearded Man reaches out with both hands, clasping his strong hands tenderly over hers and the book.
+  [01:29.40 - 01:31.00] MYSTERIOUS BEARDED MAN (Firm, Comforting): "Let them keep everything else."
+  [01:31.00 - 01:36.50] [CAMERA] Low-angle shot of Gerald standing high on the stone steps, grinning arrogantly as he points an accusatory finger down at them.
+  [01:31.50 - 01:32.80] GERALD (Mocking, Arrogant): "Look at you."
+  [01:33.00 - 01:36.50] GERALD (Scornful, Spiteful): "A noblewoman reduced to a beggar's wife!"
+  [01:36.50 - 01:41.50] [CAMERA] Over-the-shoulder shot behind the Mysterious Bearded Man looking up toward Gerald on the stairs. Gerald's arrogant grin slowly wavers.
+  [01:38.00 - 01:40.80] MYSTERIOUS BEARDED MAN (Low, Lethally Cold): "Choose your next words carefully."

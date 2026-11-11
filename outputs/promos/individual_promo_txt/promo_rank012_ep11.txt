@@ -1,0 +1,36 @@
+========================================================================
+PROMO RANK #12  |  Score: 83.0/100  |  Duration: 20.5s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 11
+Intercut         : No — Single Continuous Cut (Episode 11)
+Marketing Tier   : Tier 2: High-Engagement Escalation - Post Second
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 10.0/10 | Cliffhanger 5.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 11 | 00:14.40 -> 00:34.90 (20.5s)
+
+0-3s Hook        : JULIANA: "You have already taken enough from me. Leave!" (Furious, Defiant)
+Cliffhanger Cut  : Cuts on ALEXANDER: "Choose your next words carefully."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:14.40 - 00:16.70] JULIANA (Furious, Defiant): "You have already taken enough from me. Leave!"
+  [00:16.80 - 00:18.50] [CAMERA] Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger.
+  [00:16.80 - 00:18.70] GERALD (Aggressive, Snarl): "Your husband stole my gold pocket watch!"
+  [00:18.50 - 00:20.00] [CAMERA] Close-up of Juliana recoiling in utter disbelief.
+  [00:19.00 - 00:20.00] JULIANA (Incredulous, Gasping): "What? When?"
+  [00:20.00 - 00:22.00] [CAMERA] Close-up of Gerald narrowing his eyes vindictively.
+  [00:20.90 - 00:22.30] GERALD (Cold, Certain): "The last time I came here."
+  [00:22.00 - 00:24.60] [CAMERA] Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her.
+  [00:23.00 - 00:24.80] JULIANA (Contemptuous, Outraged): "You never even entered the cottage!"
+  [00:24.60 - 00:26.90] [CAMERA] Close-up of Gerald smirking with condescending amusement.
+  [00:25.20 - 00:27.00] GERALD (Smug, Threatening): "Then you should have nothing to fear from a search."
+  [00:26.90 - 00:28.90] [CAMERA] Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle.
+  [00:27.30 - 00:29.00] JULIANA (Adamant, Protective): "Alexander would never steal from you."
+  [00:28.90 - 00:32.40] [CAMERA] Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter.
+  [00:29.30 - 00:32.80] GERALD (Mocking, Spiteful): "Of course you would defend him. You married a beggar!"
+  [00:32.40 - 00:34.90] [CAMERA] Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid.
+  [00:33.00 - 00:34.90] ALEXANDER (Low, Menacing): "Choose your next words carefully."

@@ -1,0 +1,39 @@
+========================================================================
+PROMO RANK #46  |  Score: 75.3/100  |  Duration: 27.2s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 24
+Intercut         : No — Single Continuous Cut (Episode 24)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.2/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 24 | 00:57.80 -> 01:25.00 (27.2s)
+
+0-3s Hook        : NOBLEWOMAN: "Every stone. Perhaps when your hands are black enough, you will finally remember what you are." (Intimate, Venomous)
+Cliffhanger Cut  : Cuts on: Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully 
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:57.80 - 01:03.50] NOBLEWOMAN (Intimate, Venomous): "Every stone. Perhaps when your hands are black enough, you will finally remember what you are."
+  [00:57.80 - 01:03.80] [CAMERA] Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish.
+  [01:03.80 - 01:06.00] [ACTION] Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace.
+  [01:03.80 - 01:06.20] [CAMERA] Medium shot of Juliana sinking to her knees, her face grim and composed.
+  [01:06.00 - 01:07.50] [ACTION] Prudence steps toward the noblewoman in distress, her hands clasped tightly.
+  [01:06.20 - 01:07.50] PRUDENCE (Desperate, Pleading): "My lady—"
+  [01:06.20 - 01:07.80] [CAMERA] Close-up of Prudence's anxious, trembling face.
+  [01:07.50 - 01:09.50] [ACTION] The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.
+  [01:07.80 - 01:10.50] [CAMERA] Medium close-up of the noblewoman baring her teeth in rage, aiming the crop threateningly.
+  [01:08.00 - 01:10.50] NOBLEWOMAN (Furious, Threatening): "Do you want the same punishment?"
+  [01:10.50 - 01:12.80] [CAMERA] Close-up of Prudence flinching in terror, lowering her eyes immediately.
+  [01:10.60 - 01:12.40] PRUDENCE (Terrified, Murmuring): "No, my lady."
+  [01:12.50 - 01:14.50] [ACTION] Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones.
+  [01:12.80 - 01:14.80] [CAMERA] Close-up shot of Juliana's soot-covered hands fiercely scrubbing the black ash along the stone floor.
+  [01:13.00 - 01:21.00] [SOUND FX] Rhythmic, harsh rasping sound of bristles scraping against stone.
+  [01:14.80 - 01:18.50] [CAMERA] Medium shot of the noblewoman leaning casually against the wooden doorframe, watching Juliana toil with smug condescension.
+  [01:15.00 - 01:18.00] NOBLEWOMAN (Smug, Gleeful): "That is where clever little servants belong."
+  [01:18.50 - 01:21.20] [CAMERA] Medium profile shot of Juliana kneeling by the hearth in the dim window light, scrubbing steadily.
+  [01:18.60 - 01:21.00] LADY JULIANA (V.O.) (Cold, Resolute): "Let her think I am only a maid."
+  [01:21.20 - 01:25.00] [ACTION] Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within.

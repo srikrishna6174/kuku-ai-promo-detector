@@ -67,8 +67,16 @@ def run_season_detection(data_folder: str = "I Married a Broken Soldier. He was 
     print(f"[*] Performing quality audit and failure mode detection...")
     audit_report = run_season_quality_audit(ranked_promos)
 
+    promos_dir = os.path.join(output_dir, "promos")
+    individual_dir = os.path.join(promos_dir, "individual_promo_txt")
+    intercut_dir = os.path.join(promos_dir, "intercut_trailers")
+    audit_dir = os.path.join(output_dir, "quality_audit")
+    editor_dir = os.path.join(output_dir, "editor_exports")
+    for d in (output_dir, promos_dir, individual_dir, intercut_dir, audit_dir, editor_dir):
+        os.makedirs(d, exist_ok=True)
+
     # 1. Export Master JSON
-    json_path = os.path.join(output_dir, "promos_master.json")
+    json_path = os.path.join(promos_dir, "promos_master.json")
     promos_dict_list = [
         {
             "rank": p.rank,
@@ -116,7 +124,7 @@ def run_season_detection(data_folder: str = "I Married a Broken Soldier. He was 
     print(f"[+] Saved Master JSON -> {json_path}")
 
     # 2. Export Ranked CSV
-    csv_path = os.path.join(output_dir, "promos_ranked.csv")
+    csv_path = os.path.join(promos_dir, "promos_ranked.csv")
     with open(csv_path, 'w', encoding='utf-8', newline='') as f:
         writer = csv.writer(f)
         writer.writerow([
@@ -138,16 +146,39 @@ def run_season_detection(data_folder: str = "I Married a Broken Soldier. He was 
             ])
     print(f"[+] Saved Ranked CSV -> {csv_path}")
 
+    # 2b. Export Plain-Text Promo Report & Individual Cut Sheets
+    from src.input_manager import build_promos_txt_report, format_single_promo_txt, format_stitched_promo_txt
+    bundle_view = {
+        "title": "I Married a Broken Soldier. He was a Duke",
+        "episode_count": len(files),
+        "detection_label": provider or "Rule-Based",
+        "created_at": "CLI Run",
+        "promos": promos_dict_list,
+        "stitched_promos": stitched_promos,
+    }
+    report_path = os.path.join(promos_dir, "promos_report.txt")
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write(build_promos_txt_report(bundle_view))
+    for pd_item in promos_dict_list:
+        r_num = int(pd_item.get("rank", 0))
+        e_num = int(pd_item.get("episode", 1))
+        with open(os.path.join(individual_dir, f"promo_rank{r_num:03d}_ep{e_num:02d}.txt"), "w", encoding="utf-8") as f:
+            f.write(format_single_promo_txt(pd_item, show_title=bundle_view["title"]))
+    for s_idx, s_item in enumerate(stitched_promos, 1):
+        with open(os.path.join(intercut_dir, f"intercut_{s_idx:02d}.txt"), "w", encoding="utf-8") as f:
+            f.write(format_stitched_promo_txt(s_item, idx=s_idx, show_title=bundle_view["title"]))
+    print(f"[+] Saved Promo .txt Reports -> {promos_dir}")
+
     # 3. Export Quality Audit & Failure Report
-    audit_path = os.path.join(output_dir, "quality_audit_and_failures.json")
+    audit_path = os.path.join(audit_dir, "quality_audit_and_failures.json")
     with open(audit_path, 'w', encoding='utf-8') as f:
         json.dump(audit_report, f, indent=2)
     print(f"[+] Saved Quality & Failure Audit -> {audit_path}")
 
     # 4. Export FFmpeg Slicing Scripts
     ffmpeg_script = generate_ffmpeg_commands(promos_dict_list)
-    sh_path = os.path.join(output_dir, "cut_promos.sh")
-    bat_path = os.path.join(output_dir, "cut_promos.bat")
+    sh_path = os.path.join(editor_dir, "cut_promos.sh")
+    bat_path = os.path.join(editor_dir, "cut_promos.bat")
     with open(sh_path, 'w', encoding='utf-8') as f:
         f.write(ffmpeg_script)
     with open(bat_path, 'w', encoding='utf-8') as f:
@@ -155,7 +186,7 @@ def run_season_detection(data_folder: str = "I Married a Broken Soldier. He was 
     print(f"[+] Saved FFmpeg Cut Scripts -> {sh_path} and {bat_path}")
 
     # 5. Export Premiere Pro / DaVinci Resolve Markers
-    edl_path = os.path.join(output_dir, "premiere_markers.csv")
+    edl_path = os.path.join(editor_dir, "premiere_markers.csv")
     generate_edl_markers(promos_dict_list, edl_path)
     print(f"[+] Saved Video Editor Markers -> {edl_path}")
 

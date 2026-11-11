@@ -1,0 +1,41 @@
+========================================================================
+PROMO RANK #6  |  Score: 80.5/100  |  Duration: 36.3s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 2
+Intercut         : No — Single Continuous Cut (Episode 2)
+Marketing Tier   : Tier 1: Top-of-Funnel (Cold UA) - Post First
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.5/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 2 | 01:06.10 -> 01:42.40 (36.3s)
+
+0-3s Hook        : Opens with OFF-SCREEN VOICE declaring: 'You should be grateful you're at least allowed to attend the wedding.'
+Cliffhanger Cut  : Cuts off right after LADY JULIANA's unanswered confrontation: 'I may leave this chapel without a husband...'
+Why It Works     : High-stakes public humiliation and betrayal immediately hooks cold viewers; unresolved climax forces app download.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:06.10 - 01:09.30] OFF-SCREEN VOICE (Dismissive, Condescending): "You should be grateful you're at least allowed to attend the wedding."
+  [01:09.30 - 01:12.80] [CAMERA] Medium shot of Gerald stepping forward on the altar steps, impatiently gesturing Juliana toward the church exit.
+  [01:09.40 - 01:12.70] THE FORMER GROOM (Impatient, Commanding): "Go home quietly, Juliana. At least leave this chapel with some dignity."
+  [01:12.80 - 01:14.20] [CAMERA] Profile close-up of Juliana turning her face back toward the altar, tears still shimmering on her cheeks.
+  [01:14.20 - 01:16.50] [CAMERA] Direct close-up on Juliana's face as a steely, defiant smile emerges through her pain.
+  [01:14.40 - 01:16.40] LADY JULIANA (Bitter, Defiant): "Dignity?"
+  [01:16.50 - 01:19.00] [CAMERA] Full shot of Juliana standing tall, her posture completely transforming into regal composure before the seated guests.
+  [01:16.50 - 01:19.00] LADY JULIANA (Clear, Accusing): "You abandoned a woman who trusted you..."
+  [01:19.00 - 01:21.80] [CAMERA] Medium profile close-up on Gerald's hardening jawline, Clarissa blurred in the background.
+  [01:19.20 - 01:22.50] LADY JULIANA (Off-screen) (Sharp, Piercing): "...because another woman promised you greater beauty and wealth."
+  [01:21.80 - 01:22.80] [CAMERA] Closer angle on Gerald's uneasy expression as Juliana's voice commands the room.
+  [01:22.80 - 01:26.70] [CAMERA] Medium wide shot framing Juliana confronting Gerald from the foot of the altar stairs.
+  [01:23.00 - 01:26.50] LADY JULIANA (Steely, Resolute): "Do not mistake my heartbreak for your victory, Gerald."
+  [01:26.70 - 01:30.80] [CAMERA] Medium close-up push-in on Juliana, her blue eyes shining with fierce conviction.
+  [01:26.80 - 01:33.00] LADY JULIANA (Powerful, Unyielding): "You wanted this entire chapel to believe that I was not worthy of you. But you have shown them something far more valuable."
+  [01:30.80 - 01:33.20] [CAMERA] Medium profile on Juliana looking up at Gerald, holding the entire hall spellbound.
+  [01:33.20 - 01:36.80] [CAMERA] Close-up on Juliana's face, calm, dignified, and unwavering.
+  [01:33.40 - 01:36.60] LADY JULIANA (Decisive, Scathing): "You have shown them exactly what your word is worth."
+  [01:36.80 - 01:38.20] [CAMERA] Medium shot on Gerald standing frozen on the altar steps, stunned and speechless under her public rebuke.
+  [01:38.20 - 01:42.80] [CAMERA] Low-angle wide shot of the grand cathedral nave, framing Juliana in pristine white at the center of the vaulted aisle.
+  [01:38.20 - 01:42.80] [ACTION] Juliana lifts her chin high, commanding the space with unassailable dignity.
+  [01:38.50 - 01:42.40] LADY JULIANA (Resolute, Proud): "I may leave this chapel without a husband..."

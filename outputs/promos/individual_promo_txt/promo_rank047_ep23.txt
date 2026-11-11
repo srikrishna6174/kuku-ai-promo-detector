@@ -1,0 +1,44 @@
+========================================================================
+PROMO RANK #47  |  Score: 75.2/100  |  Duration: 51.8s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 23
+Intercut         : No — Single Continuous Cut (Episode 23)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 5.0/10 | Cliffhanger 9.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 23 | 00:24.00 -> 01:15.80 (51.8s)
+
+0-3s Hook        : LADY JULIANA: "Her mouth is terribly dry." (Solemn)
+Cliffhanger Cut  : Cuts on PRUDENCE: "What are you saying?"
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:24.00 - 00:27.50] LADY JULIANA (Solemn): "Her mouth is terribly dry."
+  [00:27.50 - 00:31.50] [CAMERA] Medium shot as Lady Juliana presses her fingertips gently against the Duchess's wrist, feeling for a pulse.
+  [00:29.00 - 00:31.50] LADY JULIANA (Quiet, Grim): "Her pulse is weak."
+  [00:31.50 - 00:36.00] [CAMERA] Close-up of Prudence holding the flickering candle, crying openly in distress.
+  [00:32.00 - 00:36.00] PRUDENCE (Despairing, Weeping): "The physician said her heart is failing."
+  [00:36.00 - 00:38.50] [CAMERA] Close-up of the Dowager Duchess gasping hoarsely for air, her throat straining as she weakly fights to breathe.
+  [00:36.00 - 00:38.50] [SOUND FX] Duchess's raspy, labored inhalation.
+  [00:38.50 - 00:43.00] [CAMERA] Medium shot of Lady Juliana standing upright, her expression hardening with fierce skepticism.
+  [00:40.80 - 00:43.00] LADY JULIANA (Firm, Resolute): "No."
+  [00:43.00 - 00:46.50] [CAMERA] Medium shot panning down as Juliana reaches into her deep apron pocket and pulls out a worn, leather-bound notebook.
+  [00:43.80 - 00:46.50] LADY JULIANA (Certain, Focused): "This is not simply old age."
+  [00:46.50 - 00:48.00] [CAMERA] Quick reaction shot of Prudence staring with wide, bewildered eyes.
+  [00:48.00 - 00:53.50] [CAMERA] Medium shot of Juliana sitting at the foot of the bed, carefully opening the leather journal across her lap and flipping through hand-annotated botanical pages.
+  [00:53.50 - 00:57.50] [CAMERA] Close-up overhead of the yellowed parchment, showing botanical sketches of toxic herbs and handwritten diagnostic notes as Juliana's finger traces along the script.
+  [00:57.50 - 00:58.50] [ACTION] Juliana draws in a sharp, startled breath, her eyes widening in horror.
+  [00:58.50 - 01:00.00] LADY JULIANA (Breathless, Reverent): "Mother."
+  [00:58.50 - 01:00.80] [CAMERA] Close-up of Juliana looking up from the page, stunned by her mother's written words.
+  [01:00.80 - 01:02.00] [CAMERA] Medium shot of Prudence leaning in, candle trembling.
+  [01:00.80 - 01:02.00] PRUDENCE (Urgent, Baffled): "What is it?"
+  [01:02.00 - 01:08.50] LADY JULIANA (Shocked, Deliberate): "Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting."
+  [01:02.00 - 01:09.50] [CAMERA] Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background.
+  [01:09.50 - 01:10.50] [CAMERA] Close-up of Prudence staring back in stunned disbelief.
+  [01:10.50 - 01:13.50] LADY JULIANA (Serious, Chilled): "I have seen these symptoms before."
+  [01:10.50 - 01:13.80] [CAMERA] Medium close-up of Juliana speaking with absolute certainty.
+  [01:13.80 - 01:15.80] PRUDENCE (Panicked, Shaken): "What are you saying?"

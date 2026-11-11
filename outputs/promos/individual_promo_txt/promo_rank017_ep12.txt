@@ -1,0 +1,30 @@
+========================================================================
+PROMO RANK #17  |  Score: 81.1/100  |  Duration: 23.91s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 12
+Intercut         : No — Single Continuous Cut (Episode 12)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 7.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 12 | 01:03.30 -> 01:27.21 (23.91s)
+
+0-3s Hook        : CLARISSA: "Do it, and we withdraw the charges." (Cold, Transactional)
+Cliffhanger Cut  : Cuts on: Over-the-shoulder shot past Clarissa onto Juliana's determined face, holding on her fierce, defiant 
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:03.30 - 01:05.10] CLARISSA (Cold, Transactional): "Do it, and we withdraw the charges."
+  [01:05.20 - 01:09.50] [CAMERA] Extreme close-up of Clarissa's mouth leaning directly into Juliana's ear, whispering venomously.
+  [01:05.40 - 01:09.20] CLARISSA (Whispering, Menacing): "Fail, or refuse, and your husband hangs from the gallows."
+  [01:09.50 - 01:14.00] [CAMERA] Medium close-up of Alexander stepping up beside Juliana, tenderly placing his large hand on her shoulder.
+  [01:09.60 - 01:11.20] [ACTION] Alexander rests his scarred hand reassuringly on Juliana's shoulder, leaning in toward her.
+  [01:09.80 - 01:13.80] ALEXANDER (Desperate, Protective, Urgent): "Juliana, no. Do not let them hurt you. I can handle the law."
+  [01:14.00 - 01:21.80] [CAMERA] Close-up of Juliana, her eyes glistening with unshed tears, her hand gripping the fabric over her heart in agony and resolve.
+  [01:14.20 - 01:16.00] [ACTION] Juliana clutches the front of her rustic grey dress, her breathing trembling.
+  [01:15.30 - 01:18.20] JULIANA (Fierce, Emotional, Sacrificial): "I am not letting them take you."
+  [01:21.50 - 01:23.00] [ACTION] Juliana turns her head sharply back toward Clarissa, her expression hardening with fierce resolution.
+  [01:21.80 - 01:27.21] [CAMERA] Over-the-shoulder shot past Clarissa onto Juliana's determined face, holding on her fierce, defiant stare as the tension peaks.

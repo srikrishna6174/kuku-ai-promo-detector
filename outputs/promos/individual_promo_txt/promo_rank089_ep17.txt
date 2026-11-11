@@ -1,0 +1,36 @@
+========================================================================
+PROMO RANK #89  |  Score: 66.5/100  |  Duration: 22.2s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 17
+Intercut         : No — Single Continuous Cut (Episode 17)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 5.0/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 17 | 00:16.80 -> 00:39.00 (22.2s)
+
+0-3s Hook        : ALEXANDER: "For what?" (Gruff, Low)
+Cliffhanger Cut  : Cuts on: Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The sc
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:16.80 - 00:17.80] ALEXANDER (Gruff, Low): "For what?"
+  [00:18.00 - 00:21.00] [CAMERA] Close-up of Juliana looking up at him with deep emotional vulnerability, her eyes shimmering with tears.
+  [00:18.20 - 00:20.50] JULIANA (Trembling, Heartfelt): "For standing between me and those men."
+  [00:21.00 - 00:23.50] [CAMERA] Close-up of Alexander, his piercing blue-grey eyes fixed upon her with absolute conviction.
+  [00:21.50 - 00:23.00] ALEXANDER (Unwavering, Firm): "I would do it again."
+  [00:23.50 - 00:25.80] [CAMERA] Close-up of Juliana, her lips parting as her voice wavers with emotion.
+  [00:24.00 - 00:25.70] JULIANA (Whispering, Awed): "Even if there were ten of them?"
+  [00:26.00 - 00:27.70] ALEXANDER (Deep, Resolute): "As long as I draw breath..."
+  [00:26.50 - 00:30.00] [CAMERA] Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana.
+  [00:28.00 - 00:31.50] [ACTION] Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms.
+  [00:28.80 - 00:31.00] ALEXANDER (Gentle, Vowing): "...no one will hurt you again."
+  [00:31.50 - 00:34.50] [CAMERA] Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion.
+  [00:32.80 - 00:34.20] JULIANA (Choked Up, Pained): "You cannot promise that."
+  [00:34.50 - 00:36.50] [CAMERA] Extreme close-up of Alexander's intense, protective gaze locking onto hers.
+  [00:34.80 - 00:35.80] ALEXANDER (Quiet, Absolute): "I just did."
+  [00:36.50 - 00:39.00] [CAMERA] Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers.
+  [00:36.50 - 00:39.00] [ACTION] Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black.

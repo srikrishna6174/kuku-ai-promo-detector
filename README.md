@@ -63,9 +63,9 @@ Episode Scripts (.txt, .srt, .vtt, .zip, or Pasted Dialogue)
          │
          ▼
 [Outputs & Cut Sheets]
-  • outputs/promos_master.json · outputs/promos_ranked.csv
-  • outputs/promos_report.txt · outputs/quality_audit_and_failures.json
-  • outputs/cut_promos.sh (.bat) · outputs/premiere_markers.csv
+  • outputs/promos/        -> promos_master.json, promos_ranked.csv, promos_report.txt, individual_promo_txt/, intercut_trailers/
+  • outputs/quality_audit/ -> quality_audit_and_failures.json
+  • outputs/editor_exports/-> cut_promos.sh (.bat), premiere_markers.csv
 ```
 
 ---
@@ -154,10 +154,12 @@ python -m unittest test_pipeline.py test_universal_and_multi_llm.py -v
 * `src/export_utils.py` — Post-production FFmpeg & Premiere/Resolve marker generator.
 * `test_pipeline.py` & `test_universal_and_multi_llm.py` — Automated unit test suite (**20/20** tests passing).
 * `.env.example` — Template for optional `GEMINI_API_KEY` / `OPENAI_API_KEY` configuration.
-* `outputs/promos_master.json` — Master JSON output with embedded dialogue excerpts and 3 multi-segment trailers.
-* `outputs/promos_ranked.csv` — Ranked promo spreadsheet for editors.
-* `outputs/promos_report.txt` — Complete plain-text promo & intercut trailer cut-sheet report.
-* `outputs/quality_audit_and_failures.json` — Detailed failure-mode audit metrics.
-* `outputs/cut_promos.sh` & `outputs/cut_promos.bat` — Stream-copy (`-c copy`) FFmpeg batch scripts (no overlays or edits).
-* `outputs/premiere_markers.csv` — Timeline markers for Adobe Premiere Pro and DaVinci Resolve.
+* `outputs/promos/promos_master.json` — Master JSON output with embedded dialogue excerpts and 3 multi-segment trailers.
+* `outputs/promos/promos_ranked.csv` — Ranked promo spreadsheet for editors.
+* `outputs/promos/promos_report.txt` — Complete plain-text promo & intercut trailer cut-sheet report.
+* `outputs/promos/individual_promo_txt/` — Individual `.txt` cut sheets for each ranked promo (`promo_rank001_ep03.txt` …).
+* `outputs/promos/intercut_trailers/` — Individual `.txt` cut sheets for multi-segment intercut trailers.
+* `outputs/quality_audit/quality_audit_and_failures.json` — Detailed failure-mode audit metrics.
+* `outputs/editor_exports/cut_promos.sh` & `outputs/editor_exports/cut_promos.bat` — Stream-copy (`-c copy`) FFmpeg batch scripts (no overlays or edits).
+* `outputs/editor_exports/premiere_markers.csv` — Timeline markers for Adobe Premiere Pro and DaVinci Resolve.
 

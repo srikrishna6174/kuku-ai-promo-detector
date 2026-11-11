@@ -1,0 +1,32 @@
+========================================================================
+PROMO RANK #20  |  Score: 81.1/100  |  Duration: 21.8s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 25
+Intercut         : No — Single Continuous Cut (Episode 25)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 7.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 25 | 02:17.40 -> 02:39.20 (21.8s)
+
+0-3s Hook        : ALEXANDER: "Worry? They struck you. They could have killed you." (Furious, Tormented)
+Cliffhanger Cut  : Cuts on ALEXANDER: "Everything you saw."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [02:17.40 - 02:22.40] ALEXANDER (Furious, Tormented): "Worry? They struck you. They could have killed you."
+  [02:22.00 - 02:25.00] [CAMERA] Two-shot as Juliana looks up into his eyes, holding firm.
+  [02:23.20 - 02:24.60] JULIANA (Defiant, Soothing): "But they didn't."
+  [02:25.00 - 02:28.50] [CAMERA] Close-up of their clasped hands, panning up to Alexander's tormented gaze.
+  [02:25.20 - 02:26.40] ALEXANDER (Grim, Fearful): "This time."
+  [02:27.00 - 02:28.80] JULIANA (Sincere, Steadfast): "I am being careful."
+  [02:28.50 - 02:32.00] [CAMERA] Two-shot as Juliana looks at him earnestly.
+  [02:29.00 - 02:31.20] JULIANA (Resolute): "I cannot abandon her."
+  [02:31.20 - 02:34.00] [ACTION] Alexander closes his eyes for a brief, agonizing second, exhaling deeply as he yields to her unshakeable conviction.
+  [02:32.00 - 02:36.50] [CAMERA] Close-up of Alexander opening his piercing eyes, resignation and steadfast devotion washing over his features.
+  [02:33.80 - 02:36.20] ALEXANDER (Resigned, Steely): "Then tell me everything."
+  [02:36.50 - 02:43.00] [CAMERA] Medium two-shot as Alexander holds her gaze in the twilight shadows.
+  [02:37.40 - 02:39.20] ALEXANDER (Low, Uncompromising): "Everything you saw."

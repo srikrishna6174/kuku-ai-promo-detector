@@ -7,17 +7,17 @@ def audit():
     print("=== JUDICIAL AUDIT OF SUBMISSION ARTIFACTS ===")
     
     # 1. Master JSON
-    with open('outputs/promos_master.json', 'r', encoding='utf-8') as f:
+    with open('outputs/promos/promos_master.json', 'r', encoding='utf-8') as f:
         master = json.load(f)
     print(f"[✓] promos_master.json loaded. Episodes: {master['total_episodes_processed']}, Promos: {len(master['promos'])}, Stitched: {len(master.get('multi_segment_stitched_promos', []))}")
     
     # 2. Ranked CSV
-    with open('outputs/promos_ranked.csv', 'r', encoding='utf-8') as f:
+    with open('outputs/promos/promos_ranked.csv', 'r', encoding='utf-8') as f:
         reader = list(csv.reader(f))
     print(f"[✓] promos_ranked.csv loaded. Header + {len(reader)-1} rows.")
     
     # 3. Quality audit
-    with open('outputs/quality_audit_and_failures.json', 'r', encoding='utf-8') as f:
+    with open('outputs/quality_audit/quality_audit_and_failures.json', 'r', encoding='utf-8') as f:
         qa = json.load(f)
     print(f"[✓] quality_audit.json loaded. Total audited: {qa['total_promos_audited']}, Flagged: {qa['flagged_promos_count']}")
 

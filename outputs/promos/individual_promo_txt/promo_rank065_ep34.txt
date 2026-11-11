@@ -1,0 +1,37 @@
+========================================================================
+PROMO RANK #65  |  Score: 77.5/100  |  Duration: 23.6s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 34
+Intercut         : No — Single Continuous Cut (Episode 34)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 6.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 34 | 01:48.00 -> 02:11.60 (23.6s)
+
+0-3s Hook        : LORD: "She calls it healing." (Mocking, Smug)
+Cliffhanger Cut  : Cuts on JUDGE: "Without the approval of a licensed physician?"
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:48.00 - 01:49.80] LORD (Mocking, Smug): "She calls it healing."
+  [01:50.00 - 01:52.80] [ACTION] The Lord turns dramatically to face the entire assembly, gesturing toward the spectators.
+  [01:50.00 - 01:52.80] [CAMERA] Medium shot of the Lord addressing the courtroom.
+  [01:50.10 - 01:52.60] LORD (Resonant, Vindicative): "The people call it poisoning!"
+  [01:52.80 - 01:55.20] [CAMERA] Close-up of Lady Juliana looking past him directly toward the gallery with sharp clarity.
+  [01:53.20 - 01:55.00] LADY JULIANA (Incisive, Defiant): "What were their illnesses?"
+  [01:55.20 - 01:57.20] [CAMERA] Low-angle close-up of the Lord looking down arrogantly over his shoulder.
+  [01:55.30 - 01:56.50] LORD (Dismissive): "Irrelevant."
+  [01:57.20 - 01:59.80] [CAMERA] Close-up of Lady Juliana gritting her teeth in fierce defiance.
+  [01:57.40 - 01:59.60] LADY JULIANA (Fierce): "It is not irrelevant!"
+  [01:59.80 - 02:03.40] [CAMERA] Low-angle medium shot of Lady Juliana standing tall against the courtroom window light, her chained hands resting on the balustrade as she addresses the entire hall.
+  [01:59.90 - 02:03.20] LADY JULIANA (Clear, Unyielding): "Herbs are not magic! They are medicine!"
+  [02:03.40 - 02:06.80] [CAMERA] Medium shot of the Judge sitting with steepled fingers upon his high bench.
+  [02:03.60 - 02:06.40] JUDGE (Coldly Inquisitive): "You admit you administered them?"
+  [02:06.80 - 02:09.10] [CAMERA] Close-up of Lady Juliana looking straight forward.
+  [02:07.20 - 02:08.20] LADY JULIANA (Direct): "Yes."
+  [02:09.10 - 02:11.80] [CAMERA] Medium shot of the Judge gesturing with an open hand.
+  [02:09.30 - 02:11.60] JUDGE (Challenging): "Without the approval of a licensed physician?"

@@ -1,0 +1,47 @@
+========================================================================
+PROMO RANK #60  |  Score: 73.0/100  |  Duration: 51.83s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 14
+Intercut         : No — Single Continuous Cut (Episode 14)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 6.2/10 | Cliffhanger 7.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 14 | 00:35.80 -> 01:27.63 (51.83s)
+
+0-3s Hook        : ALEXANDER: "You should never have had to bleed for me." (Deep, Sorrowful)
+Cliffhanger Cut  : Cuts on: Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black.
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:35.80 - 00:38.50] ALEXANDER (Deep, Sorrowful): "You should never have had to bleed for me."
+  [00:38.50 - 00:40.50] [CAMERA] Medium tracking shot behind stone balustrades as Alexander carries Juliana past the foggy estate grounds.
+  [00:40.50 - 00:43.50] [CAMERA] Wide establishing shot of the humble stone cottage standing isolated beneath dark, overcast stormy skies on a rain-slicked dirt road.
+  [00:40.50 - 00:43.50] [SOUND FX] Gentle patter of rain and cold wind howling in the desolate countryside.
+  [00:43.50 - 00:47.00] [CAMERA] Warm interior wide shot in front of a roaring hearth fire. Juliana sits on a wooden chair while Alexander kneels on the floor before her, a washbasin of water between them.
+  [00:44.00 - 00:47.00] [ACTION] Alexander gently wraps clean linen bandages around Juliana's torn wrist and palm.
+  [00:44.00 - 00:47.50] [SOUND FX] Crackling flames and wood popping in the open fireplace.
+  [00:47.00 - 00:50.50] [CAMERA] Intimate over-the-shoulder close-up looking up into Juliana's face from Alexander's perspective.
+  [00:47.20 - 00:49.80] ALEXANDER (Hoarse, Stricken): "You could have lost your hands."
+  [00:50.50 - 00:55.50] [CAMERA] Extreme close-up on Juliana's glistening eyes and trembling lips, firelight reflecting softly across her face.
+  [00:51.80 - 00:54.00] JULIANA (Whispered, Emotional): "But I didn't lose you."
+  [00:55.50 - 00:58.50] [CAMERA] Close-up on Alexander's scarred, weathered fingers wrapping the cloth tightly yet gently around her lacerations.
+  [00:58.50 - 01:00.00] ALEXANDER (Quiet, Tender): "I'm sorry."
+  [00:58.50 - 01:00.50] [CAMERA] Close-up on Alexander looking up at her with profound remorse and affection.
+  [01:00.50 - 01:02.50] JULIANA (Gentle, Reassuring): "You didn't hurt me."
+  [01:00.50 - 01:03.50] [CAMERA] Close-up on Juliana smiling faintly through her tears, shaking her head.
+  [01:03.50 - 01:06.00] [CAMERA] Side profile close-up of Alexander lowering his head solemnly in front of her.
+  [01:06.00 - 01:07.40] JULIANA (Loving, Earnest): "You have taken my place today."
+  [01:06.00 - 01:10.50] [CAMERA] Medium two-shot as Alexander gently drapes a heavy warm woolen blanket across Juliana's lap and around her shoulders.
+  [01:07.50 - 01:09.80] JULIANA (Continuing): "And you are doing it better than me."
+  [01:10.50 - 01:16.00] [CAMERA] Medium shot as Juliana rests her cheek against Alexander's chest; he embraces her tightly against him, cradling her head under his chin.
+  [01:11.00 - 01:16.00] [ACTION] Juliana closes her eyes in exhausted relief, sinking into Alexander's warmth as his broad arm encloses her safely.
+  [01:16.00 - 01:23.50] [CAMERA] Tight close-up of Alexander holding Juliana against his bearded cheek, kissing the crown of her head before gently cradling her jaw in his scarred hand.
+  [01:16.50 - 01:21.00] ALEXANDER (Dark, Solemn Vow): "No one will ever hurt you for protecting me again."
+  [01:21.20 - 01:23.50] [ACTION] Alexander strokes her cheek with his thumb, his gaze hardening into deadly, protective conviction.
+  [01:23.50 - 01:27.63] [CAMERA] Low-angle shot focusing down on two wooden buckets on the stone floor—one filled with dark, blood-soaked wash water reflecting the fireplace.
+  [01:24.00 - 01:27.00] [ACTION] Alexander's muscular arm drops into frame beside the bloody bucket; his scarred knuckles slowly and tightly clench into an iron fist of brewing vengeance.
+  [01:24.50 - 01:27.63] [SOUND FX] Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black.

@@ -1,0 +1,36 @@
+========================================================================
+PROMO RANK #94  |  Score: 68.8/100  |  Duration: 30.8s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 48
+Intercut         : No — Single Continuous Cut (Episode 48)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 6.0/10 | Cliffhanger 6.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 48 | 00:00.00 -> 00:30.80 (30.8s)
+
+0-3s Hook        : Action: Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gazes out the dark wind
+Cliffhanger Cut  : Cuts on AGNES: "You sent for me, my lady?"
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:00.00 - 00:03.00] [ACTION] Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gazes out the dark window before turning slowly with a cold, venomous smirk.
+  [00:00.00 - 00:04.50] [CAMERA] Medium shot tracking slightly as Catherine stands beside a tall mullioned stone window, silhouetted against the moonlight over the distant castle spires.
+  [00:02.40 - 00:07.50] CATHERINE (Vindictive, Cold): "Two words, and that healer's crown rolls right back into the gutter where it belongs."
+  [00:04.50 - 00:08.50] [CAMERA] Close-up on Catherine's profile and jewelry as she speaks with calculating contempt.
+  [00:07.80 - 00:12.30] [ACTION] Catherine glides across the chamber past a roaring stone hearth, picking up an orange from a silver platter on the table.
+  [00:08.00 - 00:12.30] CATHERINE (Scheming): "Ten days. He gave himself ten days to fix it."
+  [00:12.30 - 00:20.00] [CAMERA] Medium close-up frontal shot of Catherine turning directly toward the viewer, her expression tightening into ruthless determination.
+  [00:12.60 - 00:14.90] CATHERINE (Intense, Measured): "Ten days for the council to sit."
+  [00:15.00 - 00:18.50] [ACTION] Catherine raises a gloved index finger, emphasizing each point with sinister precision.
+  [00:15.10 - 00:17.20] CATHERINE (Calculating): "Ten days for witnesses to be gathered."
+  [00:17.40 - 00:19.70] CATHERINE (Dark, Threatening): "Ten days for a decree to be undone."
+  [00:20.00 - 00:26.70] [CAMERA] Slight push-in on Catherine as she clenches her fist against her chest, her eyes blazing with malice.
+  [00:20.10 - 00:23.70] CATHERINE (Menacing, Resolute): "Ten days is not a wall, Alexander. It's a door."
+  [00:23.90 - 00:26.50] CATHERINE (Chillingly Calm): "And doors can be closed from the other side."
+  [00:26.70 - 00:30.80] [CAMERA] Medium shot over Catherine's shoulder seated before her vanity mirror as the chamber door eases open and Agnes enters quietly.
+  [00:26.80 - 00:29.50] [ACTION] Agnes, dressed in a grey maid's dress and white apron, steps inside with cautious hesitation and clasps her hands.
+  [00:29.20 - 00:30.80] AGNES (Hushed, Submissive): "You sent for me, my lady?"

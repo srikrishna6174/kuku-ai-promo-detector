@@ -1,0 +1,30 @@
+========================================================================
+PROMO RANK #57  |  Score: 79.3/100  |  Duration: 20.0s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 45
+Intercut         : No — Single Continuous Cut (Episode 45)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 45 | 00:54.00 -> 01:14.00 (20.0s)
+
+0-3s Hook        : ALEXANDER: "You poisoned my mother. You tortured my wife." (Furious, Cold)
+Cliffhanger Cut  : Cuts on ALEXANDER: "Before the Crown and before God..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:54.00 - 00:58.00] ALEXANDER (Furious, Cold): "You poisoned my mother. You tortured my wife."
+  [00:58.20 - 00:59.80] CATHERINE (Gasping, Lying): "I didn't know!"
+  [00:58.20 - 01:02.50] [CAMERA] Extreme close-up split profile between Alexander's angry face and Catherine's gasping, terrified expression.
+  [01:00.00 - 01:02.40] ALEXANDER (Thunderous, Biting): "You knew exactly what you were doing!"
+  [01:02.50 - 01:07.00] [CAMERA] Medium close-up of Alexander turning slightly toward the gathered congregation as his voice rings across the cathedral.
+  [01:02.60 - 01:06.80] ALEXANDER (Booming, Condemning): "You hurt the two women who mattered most to me: my mother, and my wife."
+  [01:07.00 - 01:11.20] [CAMERA] Close-up on Catherine's devastated, terrified face as the word shatters her entire worldview.
+  [01:08.80 - 01:10.50] CATHERINE (Trembling, Stunned): "Wife?!"
+  [01:11.20 - 01:14.50] [CAMERA] Grand wide shot of the ruined cathedral nave as Alexander takes Juliana's hand and walks her proudly down the center aisle.
+  [01:11.20 - 01:14.50] [ACTION] Alexander and Juliana advance side-by-side between the rows of shocked aristocratic guests.
+  [01:11.50 - 01:14.00] ALEXANDER (Authoritative, Resounding): "Before the Crown and before God..."

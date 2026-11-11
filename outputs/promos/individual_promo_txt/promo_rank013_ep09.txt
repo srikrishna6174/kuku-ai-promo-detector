@@ -1,0 +1,32 @@
+========================================================================
+PROMO RANK #13  |  Score: 77.8/100  |  Duration: 20.2s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 9
+Intercut         : No — Single Continuous Cut (Episode 9)
+Marketing Tier   : Tier 2: High-Engagement Escalation - Post Second
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 10.0/10 | Cliffhanger 4.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 9 | 01:35.30 -> 01:55.50 (20.2s)
+
+0-3s Hook        : BLOND NOBLEMAN: "People see ghosts whenever they want a story." (Mocking, Arrogant)
+Cliffhanger Cut  : Cuts on: Extreme close-up macro shot of the Blond Nobleman's eye, the flickering fireplace flames dancing acr
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:35.30 - 01:37.30] BLOND NOBLEMAN (Mocking, Arrogant): "People see ghosts whenever they want a story."
+  [01:37.20 - 01:41.00] [CAMERA] Extreme close-up of The Former Groom's eyes widening with urgent dread.
+  [01:37.50 - 01:41.20] THE FORMER GROOM (Tense, Solemn): "The man is said to have the same kind of scar the Duke carried after the war."
+  [01:41.00 - 01:42.20] [CAMERA] Close-up of the Blond Nobleman snapping his head around, his smug expression freezing into sudden alarm.
+  [01:41.40 - 01:41.90] BLOND NOBLEMAN (Sharp, Demanding): "Where?"
+  [01:42.20 - 01:44.00] [CAMERA] Medium close-up of The Former Groom shifting uncomfortably.
+  [01:42.30 - 01:43.60] THE FORMER GROOM (Cautious): "No one seems certain."
+  [01:44.00 - 01:46.00] [CAMERA] Close-up of the Blond Nobleman composing his features into cold disdain, though tension trembles beneath his tone.
+  [01:44.20 - 01:45.90] BLOND NOBLEMAN (Dismissive, Masking Panic): "Then let it remain a rumor."
+  [01:46.00 - 01:48.00] [CAMERA] Medium shot as The Former Groom turns and retreats silently out of the study, leaving the doors closed.
+  [01:48.00 - 01:52.00] [CAMERA] Side profile shot of the Blond Nobleman seated alone before the roaring fire, staring blankly into the flames in creeping paranoia.
+  [01:49.80 - 01:51.20] BLOND NOBLEMAN (Whispering, Shaken): "Impossible."
+  [01:52.00 - 01:55.50] [CAMERA] Extreme close-up macro shot of the Blond Nobleman's eye, the flickering fireplace flames dancing across his widening iris as dark dread paralyzes him, holding until the screen cuts to black.

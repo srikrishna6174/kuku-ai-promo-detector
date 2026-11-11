@@ -71,8 +71,8 @@ class TestKukuPromoPipeline(unittest.TestCase):
         self.assertTrue(1 in top_eps or 3 in top_eps, "Pilot episodes 1 or 3 should be ranked at the very top for Cold UA.")
 
     def test_06_master_json_integrity(self):
-        """Validates outputs/promos_master.json format and schema."""
-        json_path = os.path.join(OUTPUT_DIR, "promos_master.json")
+        """Validates structured outputs/promos/promos_master.json format and schema."""
+        json_path = os.path.join(OUTPUT_DIR, "promos", "promos_master.json")
         self.assertTrue(os.path.exists(json_path), f"Missing master JSON file: {json_path}")
         
         with open(json_path, 'r', encoding='utf-8') as f:
@@ -103,7 +103,7 @@ class TestKukuPromoPipeline(unittest.TestCase):
 
     def test_08_multi_segment_promos(self):
         """Validates multi-segment stitched trailer edits."""
-        json_path = os.path.join(OUTPUT_DIR, "promos_master.json")
+        json_path = os.path.join(OUTPUT_DIR, "promos", "promos_master.json")
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
         stitched = data.get("multi_segment_stitched_promos", [])
@@ -117,9 +117,9 @@ class TestKukuPromoPipeline(unittest.TestCase):
 
     def test_09_ffmpeg_and_edl_exports(self):
         """Validates that video editing suite markers and ffmpeg cut scripts exist and are populated."""
-        sh_path = os.path.join(OUTPUT_DIR, "cut_promos.sh")
-        bat_path = os.path.join(OUTPUT_DIR, "cut_promos.bat")
-        edl_path = os.path.join(OUTPUT_DIR, "premiere_markers.csv")
+        sh_path = os.path.join(OUTPUT_DIR, "editor_exports", "cut_promos.sh")
+        bat_path = os.path.join(OUTPUT_DIR, "editor_exports", "cut_promos.bat")
+        edl_path = os.path.join(OUTPUT_DIR, "editor_exports", "premiere_markers.csv")
         
         self.assertTrue(os.path.exists(sh_path), "Missing cut_promos.sh")
         self.assertTrue(os.path.exists(bat_path), "Missing cut_promos.bat")

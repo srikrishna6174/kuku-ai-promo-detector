@@ -1,0 +1,36 @@
+========================================================================
+PROMO RANK #71  |  Score: 71.3/100  |  Duration: 22.2s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 17
+Intercut         : No — Single Continuous Cut (Episode 17)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 6.2/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 17 | 00:09.30 -> 00:31.50 (22.2s)
+
+0-3s Hook        : JULIANA: "Some of them survived." (Soft, Emotional)
+Cliffhanger Cut  : Cuts on: Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his lar
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:09.30 - 00:11.30] JULIANA (Soft, Emotional): "Some of them survived."
+  [00:11.50 - 00:14.00] [CAMERA] Low-angle medium shot of Alexander repairing the broken wooden fence with a heavy iron hammer.
+  [00:11.50 - 00:14.00] [SOUND FX] Rhythmic, heavy thuds of an iron hammer pounding into weathered wood.
+  [00:11.50 - 00:14.00] [ACTION] Alexander firmly drives nails into a fractured fence post, his brow furrowed with focused determination.
+  [00:14.00 - 00:16.20] [CAMERA] Wide shot framing Juliana kneeling on the wet cobblestones in the foreground while Alexander stands by the fence behind her, lowering his hammer.
+  [00:14.30 - 00:15.30] JULIANA (Grateful, Sincere): "Thank you."
+  [00:16.20 - 00:18.00] [CAMERA] Close-up of Alexander turning toward her, his scarred face stoic and intense.
+  [00:16.80 - 00:17.80] ALEXANDER (Gruff, Low): "For what?"
+  [00:18.00 - 00:21.00] [CAMERA] Close-up of Juliana looking up at him with deep emotional vulnerability, her eyes shimmering with tears.
+  [00:18.20 - 00:20.50] JULIANA (Trembling, Heartfelt): "For standing between me and those men."
+  [00:21.00 - 00:23.50] [CAMERA] Close-up of Alexander, his piercing blue-grey eyes fixed upon her with absolute conviction.
+  [00:21.50 - 00:23.00] ALEXANDER (Unwavering, Firm): "I would do it again."
+  [00:23.50 - 00:25.80] [CAMERA] Close-up of Juliana, her lips parting as her voice wavers with emotion.
+  [00:24.00 - 00:25.70] JULIANA (Whispering, Awed): "Even if there were ten of them?"
+  [00:26.00 - 00:27.70] ALEXANDER (Deep, Resolute): "As long as I draw breath..."
+  [00:26.50 - 00:30.00] [CAMERA] Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana.
+  [00:28.00 - 00:31.50] [ACTION] Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms.

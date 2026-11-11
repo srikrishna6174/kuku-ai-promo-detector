@@ -1,0 +1,35 @@
+========================================================================
+PROMO RANK #80  |  Score: 74.5/100  |  Duration: 28.5s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 33
+Intercut         : No — Single Continuous Cut (Episode 33)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 33 | 01:09.50 -> 01:38.00 (28.5s)
+
+0-3s Hook        : MAID: "Please, my Lord... he is only seven!" (Begging, Heartbroken)
+Cliffhanger Cut  : Cuts on LORD: "And she opened her mother's book..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:09.50 - 01:13.00] MAID (Begging, Heartbroken): "Please, my Lord... he is only seven!"
+  [01:13.20 - 01:15.00] LORD (Cold, Unwavering): "Then help him."
+  [01:13.20 - 01:15.50] [CAMERA] Close-up of the Lord staring down without an ounce of pity.
+  [01:15.50 - 01:19.50] [CAMERA] Close-up of the maid weeping profusely, cornered and helpless.
+  [01:16.80 - 01:19.00] MAID (Crying, Shattered): "What do you want me to say?!"
+  [01:19.50 - 01:24.80] [CAMERA] Wide shot of the study as the Lord stands calmly before the trembling servant.
+  [01:19.60 - 01:20.50] LORD (Deceptive): "The truth."
+  [01:21.00 - 01:24.50] LORD (Leading, Deliberate): "She drew something around the bed, did she not?"
+  [01:24.80 - 01:29.00] [CAMERA] Close-up of the maid stammering through her tears.
+  [01:25.50 - 01:28.80] MAID (Trembling, Reluctant): "She... placed dried herbs around him."
+  [01:29.00 - 01:30.50] LORD (Hypnotic, Coercive): "Around him."
+  [01:29.00 - 01:34.80] [CAMERA] Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter.
+  [01:31.00 - 01:32.50] LORD (Coercive): "Like a circle?"
+  [01:33.00 - 01:34.50] MAID (Faint, Defeated): "Yes."
+  [01:34.80 - 01:38.50] [CAMERA] Close-up from behind the maid as the Lord leans close to her ear.
+  [01:35.00 - 01:38.00] LORD (Whispering, Trap Snapping): "And she opened her mother's book..."

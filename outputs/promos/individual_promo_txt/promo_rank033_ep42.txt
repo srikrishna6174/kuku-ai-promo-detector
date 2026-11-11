@@ -1,0 +1,35 @@
+========================================================================
+PROMO RANK #33  |  Score: 84.1/100  |  Duration: 24.5s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 42
+Intercut         : No — Single Continuous Cut (Episode 42)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 9.4/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 42 | 00:18.00 -> 00:42.50 (24.5s)
+
+0-3s Hook        : BLOND NOBLEMAN: "Guards! Arrest this imposter!" (Furious, Hysterical)
+Cliffhanger Cut  : Cuts on ALEXANDER'S MOTHER: "Alexander..."
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:18.00 - 00:21.20] BLOND NOBLEMAN (Furious, Hysterical): "Guards! Arrest this imposter!"
+  [00:21.50 - 00:23.40] [CAMERA] Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre.
+  [00:22.00 - 00:23.40] ROYAL GUARD (Stoic, Defiant): "We will not."
+  [00:23.40 - 00:26.50] [CAMERA] Close-up on Rupert, veins bulging in his neck as his composure shatters.
+  [00:23.50 - 00:25.20] BLOND NOBLEMAN (Screaming, Outraged): "I said arrest him!"
+  [00:25.50 - 00:26.50] BLOND NOBLEMAN (Desperate, Unhinged): "Why?!"
+  [00:26.50 - 00:28.80] [CAMERA] Close-up on the Royal Guard holding his upright blade with unwavering conviction.
+  [00:26.70 - 00:28.80] ROYAL GUARD (Firm, Reverent): "Because we know who he is."
+  [00:28.80 - 00:30.40] [CAMERA] Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face.
+  [00:29.00 - 00:30.30] CATHERINE (Trembling, Apprehensive): "Rupert..."
+  [00:30.40 - 00:33.80] [CAMERA] Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror.
+  [00:30.50 - 00:33.80] BLOND NOBLEMAN (Denial, Shaken): "You cannot be him. Alexander died!"
+  [00:33.80 - 00:39.90] [CAMERA] Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave.
+  [00:34.00 - 00:39.80] ALEXANDER (Cold, Commanding): "And yet, here I stand. That is the lie you built your life upon."
+  [00:39.90 - 00:44.80] [CAMERA] Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe.
+  [00:40.20 - 00:42.50] ALEXANDER'S MOTHER (Choked with Tears): "Alexander..."

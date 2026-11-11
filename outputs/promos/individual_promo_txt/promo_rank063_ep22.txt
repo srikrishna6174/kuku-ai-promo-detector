@@ -1,0 +1,33 @@
+========================================================================
+PROMO RANK #63  |  Score: 72.8/100  |  Duration: 20.0s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 22
+Intercut         : No — Single Continuous Cut (Episode 22)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 7.0/10 | Cliffhanger 6.0/10
+
+CUT TIMECODES:
+  Segment 1: Episode 22 | 00:49.50 -> 01:09.50 (20.0s)
+
+0-3s Hook        : HOUSEKEEPER: "She looks soft." (Cold, Skeptical)
+Cliffhanger Cut  : Cuts on HOUSEKEEPER: "And can you keep your eyes and ears where they belong?"
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [00:49.50 - 00:51.80] HOUSEKEEPER (Cold, Skeptical): "She looks soft."
+  [00:51.80 - 00:53.00] [ACTION] Close-up on Lady Juliana's hands gripping the iron handle of the wooden wash bucket firmly.
+  [00:52.80 - 00:54.80] LADY JULIANA (Humble, Steady): "I can work, ma'am."
+  [00:52.80 - 00:55.20] [CAMERA] Close-up on Lady Juliana keeping her eyes dutifully lowered.
+  [00:55.20 - 00:58.50] [CAMERA] Low-angle shot of the Housekeeper staring down coldly.
+  [00:56.00 - 00:58.00] HOUSEKEEPER (Demanding): "Can you scrub stone?"
+  [00:58.50 - 00:59.80] LADY JULIANA (Subdued): "Yes, ma'am."
+  [00:58.50 - 01:00.00] [CAMERA] Close-up on Lady Juliana nodding slightly.
+  [01:00.20 - 01:01.80] HOUSEKEEPER (Harsh, O.S.): "Carry coal?"
+  [01:00.20 - 01:02.30] [CAMERA] Close-up of the Housekeeper's stern face.
+  [01:02.30 - 01:04.20] [CAMERA] Cut back to Lady Juliana maintaining her meek posture.
+  [01:02.50 - 01:03.80] LADY JULIANA (Polite): "Yes, ma'am."
+  [01:04.20 - 01:09.80] [CAMERA] Profile medium two-shot as the Housekeeper steps right up into Lady Juliana's face, staring intently into her downcast eyes.
+  [01:06.00 - 01:09.50] HOUSEKEEPER (Menacing, Threatening): "And can you keep your eyes and ears where they belong?"

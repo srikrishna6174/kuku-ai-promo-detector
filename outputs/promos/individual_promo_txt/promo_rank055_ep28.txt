@@ -1,0 +1,38 @@
+========================================================================
+PROMO RANK #55  |  Score: 79.3/100  |  Duration: 29.4s
+========================================================================
+Project / Show   : I Married a Broken Soldier. He was a Duke
+Source Episode(s): Episode 28
+Intercut         : No — Single Continuous Cut (Episode 28)
+Marketing Tier   : Tier 3: Retargeting & Cliffhanger Drive - Post Third
+Detection Method : Precomputed Rule-Based
+Detected By      : Rule-Based Pipeline
+Score Breakdown  : Hook 8.2/10 | Cliffhanger 6.5/10
+
+CUT TIMECODES:
+  Segment 1: Episode 28 | 01:01.60 -> 01:31.00 (29.4s)
+
+0-3s Hook        : CATHERINE: "How convenient that the only person who can prove the poison exists..." (Amused, Mocking)
+Cliffhanger Cut  : Cuts on: Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages.
+Why It Works     : Presents a complete dramatic confrontation that exposes character hypocrisy before cutting off at the turning point.
+
+SCRIPT EXCERPT IN CUT WINDOW:
+  [01:01.60 - 01:04.80] CATHERINE (Amused, Mocking): "How convenient that the only person who can prove the poison exists..."
+  [01:04.90 - 01:06.80] CATHERINE (Smug): "...is the maid who claims to have discovered it."
+  [01:06.80 - 01:10.50] [CAMERA] Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative.
+  [01:07.20 - 01:10.20] BLOND NOBLEMAN (Commanding, Resolute): "Take her away before she poisons the rest of this house."
+  [01:10.50 - 01:12.00] [CAMERA] Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck.
+  [01:10.80 - 01:12.00] [ACTION] Catherine ruthlessly yanks the silver locket off Juliana's neck.
+  [01:11.20 - 01:12.00] JULIANA (Crying Out): "No!"
+  [01:12.00 - 01:15.30] [CAMERA] Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain.
+  [01:12.20 - 01:15.10] CATHERINE (Insolent, Sneering): "Where did a gutter rat like you find a silver locket?"
+  [01:15.30 - 01:18.90] [CAMERA] Close-up of Juliana crying out in agony, writhing in the guard's iron grip.
+  [01:15.40 - 01:16.40] JULIANA (Screaming, Weeping): "Give it back!"
+  [01:16.80 - 01:18.60] JULIANA (Anguished): "It belonged to my mother!"
+  [01:18.90 - 01:22.30] [CAMERA] Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor.
+  [01:19.00 - 01:21.90] CATHERINE (O.S.) (Cruel): "A witch has no need for family heirlooms in the gallows."
+  [01:21.00 - 01:22.40] [SOUND FX] Metallic clatter as the silver pendant bounces against the wooden baseboard.
+  [01:22.30 - 01:26.50] [CAMERA] Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket.
+  [01:22.50 - 01:24.40] JULIANA (Heartbroken): "My mother's locket!"
+  [01:26.50 - 01:31.00] [CAMERA] Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up.
+  [01:28.00 - 01:31.00] [ACTION] Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages.
