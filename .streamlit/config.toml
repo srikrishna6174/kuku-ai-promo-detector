@@ -7,3 +7,14 @@ address = "0.0.0.0"
 [browser]
 gatherUsageStats = false
 
+[client]
+toolbarMode = "viewer"
+
+[theme]
+base = "light"
+primaryColor = "#2563EB"
+backgroundColor = "#FAFAF8"
+secondaryBackgroundColor = "#F3F3F0"
+textColor = "#18181B"
+font = "sans serif"
+

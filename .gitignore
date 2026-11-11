@@ -27,3 +27,7 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Runtime App Uploads & Scratch
+saved_inputs/
+temp_input.txt
+

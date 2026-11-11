@@ -124,13 +124,13 @@ def build_solution_pdf(output_filename="Solution_Document.pdf"):
         ],
         [
             Paragraph("<b>Responsibilities</b>", body_style),
-            Paragraph("• Screenplay parsing & regex extraction of millisecond timestamps.<br/>• Sliding window generation (20s–60s constraints).<br/>• Anchor detection: Dialogue starts, high-intensity tones (Cold, Furious, Desperate), slap/confrontation keywords.<br/>• Mathematical scoring of 0–3s hook & final cliffhanger.", body_style),
-            Paragraph("• Semantic tension assessment & context check.<br/>• Generates punchy social-media rationale ('Why it works').<br/>• Clickbait title generation and marketing angle identification.<br/>• Swappable API adapter (Gemini 2.5 Flash / OpenAI / Claude).", body_style)
+            Paragraph("• Screenplay parsing (.txt, .srt, .vtt, .zip) &amp; regex timestamp extraction.<br/>• Sliding window generation (20s–60s constraints, +0.75s reaction buffer).<br/>• Anchor detection: Dialogue starts, high-intensity tones, confrontation verbs.<br/>• Mathematical scoring of 0–3s hook &amp; final cliffhanger.", body_style),
+            Paragraph("• Semantic tension assessment, hook/cliffhanger summaries &amp; 'Why it works'.<br/>• LLM-as-a-Judge pass &amp; auto failover on outage/rate limit.<br/>• Swappable provider adapter (default: Gemini &amp; OpenAI; zero lock-in to add stronger APIs).", body_style)
         ],
         [
             Paragraph("<b>Cost & Scale</b>", body_style),
             Paragraph("<b>$0.00 base cost</b>; runs in &lt;2.0s across 50 episodes on standard CPU.", body_style),
-            Paragraph("Only evaluates top filtered candidate windows (~3–4/ep). Cost: <b>~$0.008 per show</b>.", body_style)
+            Paragraph("Only evaluates top filtered candidate windows (~2–4/ep) or selected episodes. Cost: <b>~$0.008 per show</b>.", body_style)
         ]
     ]
     t_arch = Table(arch_table_data, colWidths=[1.1*inch, 3.4*inch, 2.7*inch])
@@ -197,24 +197,31 @@ def build_solution_pdf(output_filename="Solution_Document.pdf"):
     # Section 5
     story.append(Paragraph("5. Honest Quality Evaluation & Failure Modes ('Where does the tool pick badly?')", h1_style))
     story.append(Paragraph(
-        "We ran an automated quality audit (`src/quality_checker.py`) across all 100 extracted promos from the 50 episodes. This surfaced <b>4 specific failure modes</b>:",
+        "Automated audit (<i>src/quality_checker.py</i>) across all 100 extracted promos scored 26 clean and flagged 74 clips:",
         body_style
     ))
     story.append(Paragraph(
-        "• <b>1. Premature Cut Buffer (58% of clips):</b> The script marks dialogue end at e.g. 00:32.40. Cutting exactly at that timestamp clips the actor's stunned facial reaction or the sound sting. <i>Mitigation:</i> Our parser adds an automated +0.75s visual reaction buffer.<br/>"
-        "• <b>2. Off-Target Secondary Characters (32% of clips):</b> Heated shouting matches between maids or secondary aristocrats score high on acoustic/lexical aggression, but fail as ads because scrollers lack empathy for peripheral characters. <i>Mitigation:</i> Implemented protagonist-weighting bonus.<br/>"
-        "• <b>3. Lore & Exposition Overload:</b> Scenes debating estate ledgers or aristocratic lineage score high on dialogue balance but lack immediate visual/emotional peril. <i>Mitigation:</i> Average-words-per-turn threshold flag (&gt;25 words/turn flagged for review).<br/>"
-        "• <b>4. Visual-Only Ambiguity:</b> Pure action moments (sword draws, silent glares) lack dialogue cues, leading text heuristics to underestimate them. <i>Mitigation:</i> Multi-modal expansion roadmap.",
+        "• <b>1. Premature Cut Buffer (58% of clips):</b> Scripts end dialogue blocks abruptly (e.g. 00:32.40). Cutting there clips facial reactions/audio stings. <i>Mitigation:</i> Parser flags/accounts for a +0.75s visual reaction buffer.<br/>"
+        "• <b>2. Off-Target Secondary Characters (32% of clips):</b> Shouting matches between maids/minor nobles score high lexically but fail as cold UA ads. <i>Mitigation:</i> Lead-protagonist weighting bonus.<br/>"
+        "• <b>3. Lore & Exposition Overload / 4. Visual-Only Ambiguity:</b> High-word-count lore scenes (>25 words/turn flagged) bore scrollers, while silent action scenes (0 caught lexically) are underestimated without multi-modal video cues.",
         body_style
     ))
-    story.append(Spacer(1, 6))
+    story.append(Spacer(1, 4))
 
-    # Section 6
-    story.append(Paragraph("6. Production Scaling, Cost Analysis & Deliverables", h1_style))
+    # Section 6: AI Tools Used & Where AI Got It Wrong
+    story.append(Paragraph("6. AI Tools Used & One Place AI Got It Wrong", h1_style))
     story.append(Paragraph(
-        "• <b>Cost at Scale:</b> Processing 20 new shows/week (1,000 episodes) using our hybrid approach costs <b>under $0.16/week</b> in API calls ($0 on base tier) and takes under 45 seconds of compute.<br/>"
-        "• <b>Human-in-the-Loop Workflow:</b> The tool acts as an AI Copilot for video editors—filtering 100+ minutes of footage down to the top 3 high-confidence candidate clips with pre-calculated in/out timecodes, reducing promo turnaround from 4 hours to 10 minutes.<br/>"
-        "• <b>Deliverables Provided:</b> (1) <i>Streamlit Web Dashboard</i> with live interview runner; (2) <i>promos_master.json</i> & <i>promos_ranked.csv</i> covering all 50 episodes; (3) <i>GitHub Repository</i> with 1-command reproducibility.",
+        "• <b>Tools Used:</b> Antigravity coding agent for pipeline/Streamlit scaffolding and tests; <b>Gemini</b> &amp; <b>OpenAI</b> APIs for semantic promo detection &amp; LLM-as-a-Judge scoring.<br/>"
+        "• <b>Where AI Got It Wrong:</b> When prompting LLMs directly over raw episode scripts, models frequently cut on the exact final dialogue word, drifted outside the strict 20–60s bounds, or picked peripheral cast arguments with inaccurate timestamp math. During UI iteration, generated widgets also left dropdowns editable and added redundant multi-provider complexity. Wrapping the LLM inside deterministic timestamp parsing, strict duration guards, judge verification, and 20 automated unit tests eliminated these errors.",
+        body_style
+    ))
+    story.append(Spacer(1, 4))
+
+    # Section 7
+    story.append(Paragraph("7. Production Scaling, Cost & Deliverables (Moments Only — No Overlays/Editing)", h1_style))
+    story.append(Paragraph(
+        "• <b>Scale &amp; Cost:</b> Processing 20 new shows/week (1,000 episodes) costs &lt;$0.16/week ($0 rules tier) in &lt;45s compute; editors receive ranked 20–60s cut sheets and manual timestamp pinning without unwanted overlays or edits.<br/>"
+        "• <b>Deliverables:</b> (1) Per-project <i>Streamlit Promo Studio</i> for unseen scripts during live testing; (2) Unedited <i>outputs/</i> pack (<i>promos_master.json</i>, <i>promos_ranked.csv</i>, <i>quality_audit_and_failures.json</i>, .txt cut sheets &amp; markers); (3) 20/20 verified unit tests.",
         body_style
     ))
 

@@ -180,7 +180,7 @@ if __name__ == "__main__":
     parser.add_argument("--episode", "-e", type=int, default=None,
                         help="Filter and run on a single episode number (e.g. --episode 3)")
     parser.add_argument("--provider", "-p", type=str, default=None,
-                        choices=["gemini", "openai", "claude", "auto", "offline"],
+                        choices=["gemini", "openai", "auto", "offline"],
                         help="LLM model provider for semantic refinement")
 
     args = parser.parse_args()

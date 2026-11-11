@@ -22,8 +22,8 @@ To balance operational cost, latency, and nuanced creative reasoning at real-wor
 
 | Component | Deterministic Code / Simple Rules | Generative AI / LLM Layer |
 | :--- | :--- | :--- |
-| **Responsibilities** | • Screenplay parsing & regex extraction of millisecond timestamps.<br/>• Sliding window generation (20s–60s constraints).<br/>• Anchor detection: Dialogue starts, high-intensity tones (Cold, Furious, Desperate), confrontation keywords.<br/>• Mathematical scoring of 0–3s hook & final cliffhanger. | • Semantic tension assessment & context check.<br/>• Generates punchy social-media rationale ("Why it works").<br/>• Clickbait title generation and marketing angle identification.<br/>• Swappable API adapter (Gemini 2.5 Flash / OpenAI / Claude). |
-| **Cost & Scale** | **$0.00 base cost**; runs in <2.0s across 50 episodes on standard CPU. | Only evaluates top filtered candidate windows (~3–4/ep). Cost: **~$0.008 per show**. |
+| **Responsibilities** | • Screenplay parsing (`.txt`, `.srt`, `.vtt`, `.zip`) & regex extraction of millisecond timestamps.<br/>• Sliding window generation (20s–60s constraints, +0.75s reaction buffer).<br/>• Anchor detection: Dialogue starts, high-intensity tones (Cold, Furious, Desperate), confrontation keywords.<br/>• Mathematical scoring of 0–3s hook & final cliffhanger. | • Semantic tension assessment & context check.<br/>• Generates punchy social-media rationale ("Why it works") & LLM-as-a-Judge refinement.<br/>• Clickbait hook/cliffhanger framing & marketing angle identification.<br/>• Swappable API adapter (`Gemini` & `OpenAI` with automatic failover). |
+| **Cost & Scale** | **$0.00 base cost**; runs in <2.0s across 50 episodes on standard CPU. | Only evaluates top filtered candidate windows (~2–4/ep) or selected episodes. Cost: **~$0.008 per show**. |
 
 ---
 
@@ -63,12 +63,20 @@ We ran an automated quality audit (`src/quality_checker.py`) across all 100 extr
 
 ---
 
-## 6. Production Scaling, Cost Analysis & Deliverables
+## 6. AI Tools Used & One Place AI Got It Wrong
+
+* **AI Tools Used:** Antigravity IDE coding agent for pipeline scaffolding, Streamlit UI iteration, and automated tests, paired with **Gemini** (`gemini-3.8-flash`) and **OpenAI** (`gpt-4o-mini`) API adapters for semantic promo selection and LLM-as-a-Judge scoring.
+* **Where AI Got It Wrong:** When prompting LLMs directly over raw scripts, models frequently cut on the exact final spoken word (missing reaction shots), drifted past the strict 60s window limit, or hallucinated subtle timestamp offsets and secondary-character disputes. Similarly, initial AI-generated UI widgets allowed typing inside filter dropdowns and exposed unnecessary provider complexity. Wrapping the LLM behind deterministic timestamp parsing, strict 20–60s duration bounds, a +0.75s buffer check, and 20 automated unit tests fixed those gaps.
+
+---
+
+## 7. Production Scaling, Cost Analysis & Deliverables (Moments Only — No Overlays/Editing)
 
 * **Cost at Scale:** Processing 20 new shows/week (1,000 episodes) using our hybrid approach costs **under $0.16/week** in API calls ($0 on base tier) and takes under 45 seconds of compute.
-* **Human-in-the-Loop Workflow:** The tool acts as an AI Copilot for video editors—filtering 100+ minutes of footage down to the top 3 high-confidence candidate clips with pre-calculated in/out timecodes, reducing promo turnaround from 4 hours to 10 minutes.
+* **Human-in-the-Loop Workflow:** The tool acts as an AI Copilot for video editors—finding the exact promo start/end moments and manual cut pins without adding overlays, music, or baked video edits—reducing promo scouting from 4 hours to 10 minutes.
 * **Deliverables Provided:**
-  1. *Streamlit Web Dashboard* with live interview sandbox & season analytics.
-  2. *promos_master.json* & *promos_ranked.csv* covering all 50 episodes.
-  3. *FFmpeg batch cut script (`cut_promos.sh`)* & *Premiere Pro timeline markers (`premiere_markers.csv`)*.
-  4. *GitHub Repository* with 1-command reproducibility and 7/7 automated unit tests.
+  1. *Per-Project Streamlit Web App* (`Home`, `New Input`, `Project Library`, `Promos`, `Script Explorer`, `Quality Audit`) with live unseen-script upload and `.txt` promo cut sheets.
+  2. *Unedited `outputs/` pack*: `promos_master.json`, `promos_ranked.csv`, and `quality_audit_and_failures.json` covering all 50 episodes.
+  3. *Post-production cut exports*: FFmpeg cut scripts (`cut_promos.sh` / `.bat`) and timeline markers (`premiere_markers.csv`).
+  4. *GitHub Repository* with 1-command reproducibility and **20/20** automated unit tests (`test_pipeline.py` & `test_universal_and_multi_llm.py`).
+
